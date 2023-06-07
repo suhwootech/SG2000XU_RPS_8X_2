@@ -1,0 +1,1414 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E0CE84D8-65BD-4486-A134-9DF629CF255C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SG2000X</RootNamespace>
+    <AssemblyName>SG2000X</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>D:\Suhwoo\SG2000X\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <CodeAnalysisIgnoreGeneratedCode>true</CodeAnalysisIgnoreGeneratedCode>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>pSG-1000V_Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EcApi_CLRLib, Version=1.0.6733.32986, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\SoftServo\WMX2\Lib\x86\EcApi_CLRLib.dll</HintPath>
+    </Reference>
+    <Reference Include="EZGemPlusCS_32">
+      <HintPath>..\EzGem\EZGemPlusCS_32.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.0.9.7\lib\net40\LiveCharts.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="LiveCharts.WinForms, Version=0.9.7.1, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.WinForms.0.9.7.1\lib\net40\LiveCharts.WinForms.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="LiveCharts.Wpf, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.Wpf.0.9.7\lib\net40\LiveCharts.Wpf.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+    <Reference Include="WMXCLRLibrary.NET4.0">
+      <HintPath>C:\Program Files\SoftServo\WMX2\Lib\x86\WMXCLRLibrary.NET4.0.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="00 Globals\Struct\Struct_Device.cs" />
+    <Compile Include="00 Globals\Struct\Struct_SECSGEM.cs" />
+    <Compile Include="01 Etc\AeroGlass.cs" />
+    <Compile Include="00 Globals\CError.cs" />
+    <Compile Include="01 Etc\CIni2.cs" />
+    <Compile Include="02. Utility\CIV2Ctrl.cs" />
+    <Compile Include="02. Utility\CKeyenceBcr.cs" />
+    <Compile Include="02. Utility\CCbm.cs" />
+    <Compile Include="02. Utility\CNetDrive.cs" />
+    <Compile Include="02. Utility\CQcVisionCom.cs" />
+    <Compile Include="02. Utility\CTm8.cs" />
+    <Compile Include="02. Utility\GausSocket.cs" />
+    <Compile Include="02. Utility\GausTCPSocket.cs" />
+    <Compile Include="02. Utility\GxLog.cs" />
+    <Compile Include="03 Sequence\CSQ7_Dry_SIM.cs" />
+    <Compile Include="03 Sequence\CSQ8_OfL_SIM.cs" />
+    <Compile Include="04 Config\CMnt.cs" />
+    <Compile Include="05 File\CCheckChange.cs" />
+    <Compile Include="05 File\CSpc.cs" />
+    <Compile Include="00 Globals\Enum.cs" />
+    <Compile Include="00 Globals\GV.cs" />
+    <Compile Include="00 Globals\Struct\Struct.cs" />
+    <Compile Include="05 File\CLog.cs" />
+    <Compile Include="01 Etc\CIni.cs" />
+    <Compile Include="01 Etc\CStn.cs" />
+    <Compile Include="01 Etc\CTim.cs" />
+    <Compile Include="00 Globals\GU.cs" />
+    <Compile Include="02. Utility\CLight.cs" />
+    <Compile Include="02. Utility\CUdpSocket.cs" />
+    <Compile Include="02. Utility\CWMX.cs" />
+    <Compile Include="02. Utility\CBcr.cs" />
+    <Compile Include="02. Utility\CIO.cs" />
+    <Compile Include="02. Utility\CLang.cs" />
+    <Compile Include="02. Utility\CMot.cs" />
+    <Compile Include="02. Utility\CPrb.cs" />
+    <Compile Include="02. Utility\CRfid.cs" />
+    <Compile Include="02. Utility\CSpl.cs" />
+    <Compile Include="02. Utility\CTcpIp.cs" />
+    <Compile Include="02. Utility\CTenKey.cs" />
+    <Compile Include="03 Sequence\CDataOption.cs" />
+    <Compile Include="02. Utility\CTwr.cs" />
+    <Compile Include="04 Config\CLast.cs" />
+    <Compile Include="04 Config\COpt.cs" />
+    <Compile Include="03 Sequence\CData.cs" />
+    <Compile Include="03 Sequence\CSQ_Main.cs" />
+    <Compile Include="03 Sequence\CSQ2_Inr.cs" />
+    <Compile Include="03 Sequence\CSQ3_OnP.cs" />
+    <Compile Include="03 Sequence\CSQ6_OfP.cs" />
+    <Compile Include="03 Sequence\CSQ7_Dry.cs" />
+    <Compile Include="03 Sequence\CSQ8_OfL.cs" />
+    <Compile Include="03 Sequence\CSQ_Man.cs" />
+    <Compile Include="03 Sequence\CSQ1_OnL.cs" />
+    <Compile Include="04 Config\CTower.cs" />
+    <Compile Include="05 File\CDev.cs" />
+    <Compile Include="06 Splash\CSph.cs" />
+    <Compile Include="07 View\00 Main\vwMain_Key.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\00 Main\vwMain_Key.Designer.cs">
+      <DependentUpon>vwMain_Key.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\00 Main\vwMain_Msg.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\00 Main\vwMain_Msg.Designer.cs">
+      <DependentUpon>vwMain_Msg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\00 Main\vwMain_Whl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\00 Main\vwMain_Whl.Designer.cs">
+      <DependentUpon>vwMain_Whl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\00 Main\vwMain_Scn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\00 Main\vwMain_Scn.Designer.cs">
+      <DependentUpon>vwMain_Scn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\01 Auto\vwAuto2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\01 Auto\vwAuto2.designer.cs">
+      <DependentUpon>vwAuto2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\02 Manual\vmMan_13QcVision.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\02 Manual\vmMan_13QcVision.Designer.cs">
+      <DependentUpon>vmMan_13QcVision.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\02 Manual\vwMan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\02 Manual\vwMan.Designer.cs">
+      <DependentUpon>vwMan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\02 Manual\vwMan_11Cnv.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\02 Manual\vwMan_11Cnv.Designer.cs">
+      <DependentUpon>vwMan_11Cnv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\02 Manual\vwMan_10Ofl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\02 Manual\vwMan_10Ofl.Designer.cs">
+      <DependentUpon>vwMan_10Ofl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\02 Manual\vwMan_09Dry.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\02 Manual\vwMan_09Dry.Designer.cs">
+      <DependentUpon>vwMan_09Dry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\02 Manual\vwMan_08Ofp.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\02 Manual\vwMan_08Ofp.Designer.cs">
+      <DependentUpon>vwMan_08Ofp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\02 Manual\vwMan_07Grr.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\02 Manual\vwMan_07Grr.Designer.cs">
+      <DependentUpon>vwMan_07Grr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\02 Manual\vwMan_06Grd.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\02 Manual\vwMan_06Grd.Designer.cs">
+      <DependentUpon>vwMan_06Grd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\02 Manual\vwMan_05Grl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\02 Manual\vwMan_05Grl.Designer.cs">
+      <DependentUpon>vwMan_05Grl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\02 Manual\vwMan_04Onp.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\02 Manual\vwMan_04Onp.Designer.cs">
+      <DependentUpon>vwMan_04Onp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\02 Manual\vwMan_03Inr.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\02 Manual\vwMan_03Inr.Designer.cs">
+      <DependentUpon>vwMan_03Inr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\02 Manual\vwMan_02Onl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\02 Manual\vwMan_02Onl.Designer.cs">
+      <DependentUpon>vwMan_02Onl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\03 Device\vwDev.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\03 Device\vwDev.Designer.cs">
+      <DependentUpon>vwDev.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\03 Device\vwDev_01Lst.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\03 Device\vwDev_01Lst.Designer.cs">
+      <DependentUpon>vwDev_01Lst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\03 Device\vwDev_02Prm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\03 Device\vwDev_02Prm.Designer.cs">
+      <DependentUpon>vwDev_02Prm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\03 Device\vwDev_02Prm_6Etc2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\03 Device\vwDev_02Prm_6Etc2.Designer.cs">
+      <DependentUpon>vwDev_02Prm_6Etc2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\03 Device\vwDev_02Prm_7Advanced.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\03 Device\vwDev_02Prm_7Advanced.Designer.cs">
+      <DependentUpon>vwDev_02Prm_7Advanced.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\03 Device\vwDev_02Prm_8IV2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\03 Device\vwDev_02Prm_8IV2.Designer.cs">
+      <DependentUpon>vwDev_02Prm_8IV2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\03 Device\vwDev_03Set_1Onl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\03 Device\vwDev_03Set_1Onl.Designer.cs">
+      <DependentUpon>vwDev_03Set_1Onl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\03 Device\vwDev_02Prm_1Str.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\03 Device\vwDev_02Prm_1Str.Designer.cs">
+      <DependentUpon>vwDev_02Prm_1Str.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\03 Device\vwDev_02Prm_2Stp.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\03 Device\vwDev_02Prm_2Stp.Designer.cs">
+      <DependentUpon>vwDev_02Prm_2Stp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\03 Device\vwDev_02Prm_4Con.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\03 Device\vwDev_02Prm_4Con.Designer.cs">
+      <DependentUpon>vwDev_02Prm_4Con.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\03 Device\vwDev_02Prm_4ConU.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\03 Device\vwDev_02Prm_4ConU.Designer.cs">
+      <DependentUpon>vwDev_02Prm_4ConU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\03 Device\vwDev_02Prm_6Etc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\03 Device\vwDev_02Prm_6Etc.Designer.cs">
+      <DependentUpon>vwDev_02Prm_6Etc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\03 Device\vwDev_03Set.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\03 Device\vwDev_03Set.Designer.cs">
+      <DependentUpon>vwDev_03Set.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\05 SPC\vwSPC_LotErrInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="07 View\05 SPC\vwSPC_LotErrInfo.Designer.cs">
+      <DependentUpon>vwSPC_LotErrInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\05 SPC\vwSPC_Radar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="07 View\05 SPC\vwSPC_Radar.Designer.cs">
+      <DependentUpon>vwSPC_Radar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\06 Option\vwOpt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\06 Option\vwOpt.Designer.cs">
+      <DependentUpon>vwOpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\06 Option\vwOpt_05Grd.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\06 Option\vwOpt_05Grd.Designer.cs">
+      <DependentUpon>vwOpt_05Grd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\06 Option\vwOpt_04Pck.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\06 Option\vwOpt_04Pck.Designer.cs">
+      <DependentUpon>vwOpt_04Pck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\06 Option\vwOpt_03Dry.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\06 Option\vwOpt_03Dry.Designer.cs">
+      <DependentUpon>vwOpt_03Dry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\06 Option\vwOpt_02Ldr.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\06 Option\vwOpt_02Ldr.Designer.cs">
+      <DependentUpon>vwOpt_02Ldr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\06 Option\vwOpt_08Tbl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\06 Option\vwOpt_08Tbl.Designer.cs">
+      <DependentUpon>vwOpt_08Tbl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\06 Option\vwOpt_07Sys.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\06 Option\vwOpt_07Sys.Designer.cs">
+      <DependentUpon>vwOpt_07Sys.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\06 Option\vwOpt_06Lvs.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\06 Option\vwOpt_06Lvs.Designer.cs">
+      <DependentUpon>vwOpt_06Lvs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\06 Option\vwOpt_01Gen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\06 Option\vwOpt_01Gen.Designer.cs">
+      <DependentUpon>vwOpt_01Gen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\06 Option\vwOpt_09Mnt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\06 Option\vwOpt_09Mnt.Designer.cs">
+      <DependentUpon>vwOpt_09Mnt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_13Cbm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_13Cbm.Designer.cs">
+      <DependentUpon>vwEqu_13Cbm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_12Light.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_12Light.Designer.cs">
+      <DependentUpon>vwEqu_12Light.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_11Dfs.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_11Dfs.Designer.cs">
+      <DependentUpon>vwEqu_11Dfs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_10Sgm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_10Sgm.Designer.cs">
+      <DependentUpon>vwEqu_10Sgm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_09Rep.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_09Rep.Designer.cs">
+      <DependentUpon>vwEqu_09Rep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_08Bcr.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_08Bcr.Designer.cs">
+      <DependentUpon>vwEqu_08Bcr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_07Twl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_07Twl.Designer.cs">
+      <DependentUpon>vwEqu_07Twl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_06Prb.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_06Prb.Designer.cs">
+      <DependentUpon>vwEqu_06Prb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_05Out.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_05Out.Designer.cs">
+      <DependentUpon>vwEqu_05Out.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_04In.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_04In.Designer.cs">
+      <DependentUpon>vwEqu_04In.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_03Spl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_03Spl.Designer.cs">
+      <DependentUpon>vwEqu_03Spl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_02Mot.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_02Mot.Designer.cs">
+      <DependentUpon>vwEqu_02Mot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_14Tm8.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_14Tm8.Designer.cs">
+      <DependentUpon>vwEqu_14Tm8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_15IV2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_15IV2.Designer.cs">
+      <DependentUpon>vwEqu_15IV2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\09 Master\vwMst.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\09 Master\vwMst.Designer.cs">
+      <DependentUpon>vwMst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="04 Config\CSetup.cs" />
+    <Compile Include="07 View\08 OP Manual\vwOpManu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\08 OP Manual\vwOpManu.Designer.cs">
+      <DependentUpon>vwOpManu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="08 DF\Class_AsyncObject.cs" />
+    <Compile Include="08 DF\Class_Client.cs" />
+    <Compile Include="08 DF\Class_Df.cs" />
+    <Compile Include="09 SECSGEM\CarrierList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="09 SECSGEM\CarrierList.designer.cs">
+      <DependentUpon>CarrierList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="09 SECSGEM\CSECSGEM.cs" />
+    <Compile Include="09 SECSGEM\frmGEM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="09 SECSGEM\frmGEM.designer.cs">
+      <DependentUpon>frmGEM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="09 SECSGEM\GemEnum.cs" />
+    <Compile Include="09 SECSGEM\TerminalMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="09 SECSGEM\TerminalMessage.designer.cs">
+      <DependentUpon>TerminalMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="02. Utility\CCR.cs" />
+    <Compile Include="CMsg.cs" />
+    <Compile Include="CErr.cs" />
+    <Compile Include="05 File\CWhl.cs" />
+    <Compile Include="02. Utility\CSpl_485.cs" />
+    <Compile Include="DlgLotCloseMsg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DlgLotCloseMsg.Designer.cs">
+      <DependentUpon>DlgLotCloseMsg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DlgLotEndMsg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DlgLotEndMsg.Designer.cs">
+      <DependentUpon>DlgLotEndMsg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DlgLotInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DlgLotInput.Designer.cs">
+      <DependentUpon>DlgLotInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUser.Designer.cs">
+      <DependentUpon>frmUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLvl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLvl.Designer.cs">
+      <DependentUpon>frmLvl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="06 Splash\frmSph.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="06 Splash\frmSph.Designer.cs">
+      <DependentUpon>frmSph.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLot.Designer.cs">
+      <DependentUpon>frmLot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMsgChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMsgChange.Designer.cs">
+      <DependentUpon>frmMsgChange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMst.Designer.cs">
+      <DependentUpon>frmMst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMsg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMsg.Designer.cs">
+      <DependentUpon>frmMsg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPwdChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPwdChange.designer.cs">
+      <DependentUpon>frmPwdChange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTxt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTxt.Designer.cs">
+      <DependentUpon>frmTxt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPwd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPwd.Designer.cs">
+      <DependentUpon>frmPwd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmView.Designer.cs">
+      <DependentUpon>frmView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmView2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmView2.Designer.cs">
+      <DependentUpon>frmView2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="02. Utility\CLogManager.cs" />
+    <Compile Include="MiniDump.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="07 View\07 Equipment\vwEqu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu.Designer.cs">
+      <DependentUpon>vwEqu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\04 Wheel\vwWhl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\04 Wheel\vwWhl.Designer.cs">
+      <DependentUpon>vwWhl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\01 Auto\vwAuto.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\01 Auto\vwAuto.Designer.cs">
+      <DependentUpon>vwAuto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\05 SPC\vwSPC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\05 SPC\vwSPC.Designer.cs">
+      <DependentUpon>vwSPC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="03 Sequence\CSQ4_Grd.cs" />
+    <Compile Include="07 View\02 Manual\vwMan_01Man.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\02 Manual\vwMan_01Man.Designer.cs">
+      <DependentUpon>vwMan_01Man.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_01Wmx.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\07 Equipment\vwEqu_01Wmx.Designer.cs">
+      <DependentUpon>vwEqu_01Wmx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 View\00 Main\vwMain_Err.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07 View\00 Main\vwMain_Err.Designer.cs">
+      <DependentUpon>vwMain_Err.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="06 Splash\frmSph.resx">
+      <DependentUpon>frmSph.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\00 Main\vwMain_Err.resx">
+      <DependentUpon>vwMain_Err.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\00 Main\vwMain_Key.resx">
+      <DependentUpon>vwMain_Key.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\00 Main\vwMain_Msg.resx">
+      <DependentUpon>vwMain_Msg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\00 Main\vwMain_Whl.resx">
+      <DependentUpon>vwMain_Whl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\00 Main\vwMain_Scn.resx">
+      <DependentUpon>vwMain_Scn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\01 Auto\vwAuto.zh-Hans.resx">
+      <DependentUpon>vwAuto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\01 Auto\vwAuto2.resx">
+      <DependentUpon>vwAuto2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\01 Auto\vwAuto2.zh-Hans.resx">
+      <DependentUpon>vwAuto2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\02 Manual\vmMan_13QcVision.resx">
+      <DependentUpon>vmMan_13QcVision.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\02 Manual\vwMan_01Man.zh-Hans.resx">
+      <DependentUpon>vwMan_01Man.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\02 Manual\vwMan_02Onl.zh-Hans.resx">
+      <DependentUpon>vwMan_02Onl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\02 Manual\vwMan_03Inr.zh-Hans.resx">
+      <DependentUpon>vwMan_03Inr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\02 Manual\vwMan_04Onp.zh-Hans.resx">
+      <DependentUpon>vwMan_04Onp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\02 Manual\vwMan_05Grl.zh-Hans.resx">
+      <DependentUpon>vwMan_05Grl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\02 Manual\vwMan_06Grd.zh-Hans.resx">
+      <DependentUpon>vwMan_06Grd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\02 Manual\vwMan_07Grr.zh-Hans.resx">
+      <DependentUpon>vwMan_07Grr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\02 Manual\vwMan_08Ofp.zh-Hans.resx">
+      <DependentUpon>vwMan_08Ofp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\02 Manual\vwMan_09Dry.zh-Hans.resx">
+      <DependentUpon>vwMan_09Dry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\02 Manual\vwMan_10Ofl.zh-Hans.resx">
+      <DependentUpon>vwMan_10Ofl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\02 Manual\vwMan_11Cnv.resx">
+      <DependentUpon>vwMan_11Cnv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\02 Manual\vwMan_10Ofl.resx">
+      <DependentUpon>vwMan_10Ofl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\02 Manual\vwMan_09Dry.resx">
+      <DependentUpon>vwMan_09Dry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\02 Manual\vwMan_08Ofp.resx">
+      <DependentUpon>vwMan_08Ofp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\02 Manual\vwMan_07Grr.resx">
+      <DependentUpon>vwMan_07Grr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\02 Manual\vwMan_06Grd.resx">
+      <DependentUpon>vwMan_06Grd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\02 Manual\vwMan_05Grl.resx">
+      <DependentUpon>vwMan_05Grl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\02 Manual\vwMan_04Onp.resx">
+      <DependentUpon>vwMan_04Onp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\02 Manual\vwMan_03Inr.resx">
+      <DependentUpon>vwMan_03Inr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\02 Manual\vwMan_02Onl.resx">
+      <DependentUpon>vwMan_02Onl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\02 Manual\vwMan_11Cnv.zh-Hans.resx">
+      <DependentUpon>vwMan_11Cnv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\03 Device\vwDev.resx">
+      <DependentUpon>vwDev.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\03 Device\vwDev.zh-Hans.resx">
+      <DependentUpon>vwDev.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\03 Device\vwDev_01Lst.resx">
+      <DependentUpon>vwDev_01Lst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\03 Device\vwDev_01Lst.zh-Hans.resx">
+      <DependentUpon>vwDev_01Lst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\03 Device\vwDev_02Prm.resx">
+      <DependentUpon>vwDev_02Prm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\03 Device\vwDev_02Prm.zh-Hans.resx">
+      <DependentUpon>vwDev_02Prm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\03 Device\vwDev_02Prm_6Etc2.resx">
+      <DependentUpon>vwDev_02Prm_6Etc2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\03 Device\vwDev_02Prm_6Etc2.zh-Hans.resx">
+      <DependentUpon>vwDev_02Prm_6Etc2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\03 Device\vwDev_02Prm_7Advanced.resx">
+      <DependentUpon>vwDev_02Prm_7Advanced.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\03 Device\vwDev_02Prm_7Advanced.zh-Hans.resx">
+      <DependentUpon>vwDev_02Prm_7Advanced.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\03 Device\vwDev_02Prm_8IV2.resx">
+      <DependentUpon>vwDev_02Prm_8IV2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\03 Device\vwDev_03Set_1Onl.resx">
+      <DependentUpon>vwDev_03Set_1Onl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\03 Device\vwDev_03Set_1Onl.zh-Hans.resx">
+      <DependentUpon>vwDev_03Set_1Onl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\03 Device\vwDev_02Prm_1Str.resx">
+      <DependentUpon>vwDev_02Prm_1Str.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\03 Device\vwDev_02Prm_1Str.zh-Hans.resx">
+      <DependentUpon>vwDev_02Prm_1Str.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\03 Device\vwDev_02Prm_2Stp.resx">
+      <DependentUpon>vwDev_02Prm_2Stp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\03 Device\vwDev_02Prm_2Stp.zh-Hans.resx">
+      <DependentUpon>vwDev_02Prm_2Stp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\03 Device\vwDev_02Prm_4Con.resx">
+      <DependentUpon>vwDev_02Prm_4Con.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\03 Device\vwDev_02Prm_4Con.zh-Hans.resx">
+      <DependentUpon>vwDev_02Prm_4Con.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\03 Device\vwDev_02Prm_4ConU.resx">
+      <DependentUpon>vwDev_02Prm_4ConU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\03 Device\vwDev_02Prm_4ConU.zh-Hans.resx">
+      <DependentUpon>vwDev_02Prm_4ConU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\03 Device\vwDev_02Prm_6Etc.resx">
+      <DependentUpon>vwDev_02Prm_6Etc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\03 Device\vwDev_02Prm_6Etc.zh-Hans.resx">
+      <DependentUpon>vwDev_02Prm_6Etc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\03 Device\vwDev_03Set.resx">
+      <DependentUpon>vwDev_03Set.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\03 Device\vwDev_03Set.zh-Hans.resx">
+      <DependentUpon>vwDev_03Set.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\05 SPC\vwSPC_LotErrInfo.resx">
+      <DependentUpon>vwSPC_LotErrInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\05 SPC\vwSPC_Radar.resx">
+      <DependentUpon>vwSPC_Radar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\06 Option\vwOpt.resx">
+      <DependentUpon>vwOpt.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\06 Option\vwOpt_01Gen.ko-KR.resx">
+      <DependentUpon>vwOpt_01Gen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\06 Option\vwOpt_01Gen.zh-Hans.resx">
+      <DependentUpon>vwOpt_01Gen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\06 Option\vwOpt_01Gen.zh-Hant.resx">
+      <DependentUpon>vwOpt_01Gen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\06 Option\vwOpt_05Grd.resx">
+      <DependentUpon>vwOpt_05Grd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\06 Option\vwOpt_04Pck.resx">
+      <DependentUpon>vwOpt_04Pck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\06 Option\vwOpt_03Dry.resx">
+      <DependentUpon>vwOpt_03Dry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\06 Option\vwOpt_02Ldr.resx">
+      <DependentUpon>vwOpt_02Ldr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\06 Option\vwOpt_08Tbl.resx">
+      <DependentUpon>vwOpt_08Tbl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\06 Option\vwOpt_07Sys.resx">
+      <DependentUpon>vwOpt_07Sys.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\06 Option\vwOpt_06Lvs.resx">
+      <DependentUpon>vwOpt_06Lvs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\06 Option\vwOpt_01Gen.resx">
+      <DependentUpon>vwOpt_01Gen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\06 Option\vwOpt_09Mnt.resx">
+      <DependentUpon>vwOpt_09Mnt.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu.zh-Hans.resx">
+      <DependentUpon>vwEqu.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\02 Manual\vwMan.resx">
+      <DependentUpon>vwMan.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\02 Manual\vwMan.zh-Hans.resx">
+      <DependentUpon>vwMan.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_01Wmx.zh-Hans.resx">
+      <DependentUpon>vwEqu_01Wmx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_02Mot.zh-Hans.resx">
+      <DependentUpon>vwEqu_02Mot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_03Spl.zh-Hans.resx">
+      <DependentUpon>vwEqu_03Spl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_04In.zh-Hans.resx">
+      <DependentUpon>vwEqu_04In.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_05Out.zh-Hans.resx">
+      <DependentUpon>vwEqu_05Out.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_13Cbm.resx">
+      <DependentUpon>vwEqu_13Cbm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_13Cbm.zh-Hans.resx">
+      <DependentUpon>vwEqu_13Cbm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_12Light.resx">
+      <DependentUpon>vwEqu_12Light.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_12Light.zh-Hans.resx">
+      <DependentUpon>vwEqu_12Light.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_06Prb.zh-Hans.resx">
+      <DependentUpon>vwEqu_06Prb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_07Twl.zh-Hans.resx">
+      <DependentUpon>vwEqu_07Twl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_08Bcr.zh-Hans.resx">
+      <DependentUpon>vwEqu_08Bcr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_09Rep.zh-Hans.resx">
+      <DependentUpon>vwEqu_09Rep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_10Sgm.zh-Hans.resx">
+      <DependentUpon>vwEqu_10Sgm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_11Dfs.resx">
+      <DependentUpon>vwEqu_11Dfs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_10Sgm.resx">
+      <DependentUpon>vwEqu_10Sgm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_09Rep.resx">
+      <DependentUpon>vwEqu_09Rep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_08Bcr.resx">
+      <DependentUpon>vwEqu_08Bcr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_07Twl.resx">
+      <DependentUpon>vwEqu_07Twl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_06Prb.resx">
+      <DependentUpon>vwEqu_06Prb.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_05Out.resx">
+      <DependentUpon>vwEqu_05Out.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_04In.resx">
+      <DependentUpon>vwEqu_04In.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_03Spl.resx">
+      <DependentUpon>vwEqu_03Spl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_02Mot.resx">
+      <DependentUpon>vwEqu_02Mot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_11Dfs.zh-Hans.resx">
+      <DependentUpon>vwEqu_11Dfs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_14Tm8.resx">
+      <DependentUpon>vwEqu_14Tm8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_15IV2.resx">
+      <DependentUpon>vwEqu_15IV2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\09 Master\vwMst.resx">
+      <DependentUpon>vwMst.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\09 Master\vwMst.zh-Hans.resx">
+      <DependentUpon>vwMst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\08 OP Manual\vwOpManu.resx">
+      <DependentUpon>vwOpManu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\08 OP Manual\vwOpManu.zh-Hans.resx">
+      <DependentUpon>vwOpManu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\05 SPC\vwSPC.zh-Hans.resx">
+      <DependentUpon>vwSPC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\04 Wheel\vwWhl.zh-Hans.resx">
+      <DependentUpon>vwWhl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="09 SECSGEM\CarrierList.resx">
+      <DependentUpon>CarrierList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="09 SECSGEM\frmGEM.resx">
+      <DependentUpon>frmGEM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="09 SECSGEM\TerminalMessage.resx">
+      <DependentUpon>TerminalMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DlgLotCloseMsg.resx">
+      <DependentUpon>DlgLotCloseMsg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DlgLotCloseMsg.zh-Hans.resx">
+      <DependentUpon>DlgLotCloseMsg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DlgLotEndMsg.resx">
+      <DependentUpon>DlgLotEndMsg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DlgLotEndMsg.zh-Hans.resx">
+      <DependentUpon>DlgLotEndMsg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DlgLotInput.resx">
+      <DependentUpon>DlgLotInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DlgLotInput.zh-Hans.resx">
+      <DependentUpon>DlgLotInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUser.resx">
+      <DependentUpon>frmUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLot.zh-Hans.resx">
+      <DependentUpon>frmLot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLvl.resx">
+      <DependentUpon>frmLvl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLvl.zh-Hans.resx">
+      <DependentUpon>frmLvl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLot.resx">
+      <DependentUpon>frmLot.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.zh-Hans.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMsg.zh-Hans.resx">
+      <DependentUpon>frmMsg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMsgChange.resx">
+      <DependentUpon>frmMsgChange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMsgChange.zh-Hans.resx">
+      <DependentUpon>frmMsgChange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMst.resx">
+      <DependentUpon>frmMst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMsg.resx">
+      <DependentUpon>frmMsg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMst.zh-Hans.resx">
+      <DependentUpon>frmMst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPwd.zh-Hans.resx">
+      <DependentUpon>frmPwd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPwdChange.resx">
+      <DependentUpon>frmPwdChange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPwdChange.zh-Hans.resx">
+      <DependentUpon>frmPwdChange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTxt.resx">
+      <DependentUpon>frmTxt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPwd.resx">
+      <DependentUpon>frmPwd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTxt.zh-Hans.resx">
+      <DependentUpon>frmTxt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmView.resx">
+      <DependentUpon>frmView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmView.zh-Hans.resx">
+      <DependentUpon>frmView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmView2.resx">
+      <DependentUpon>frmView2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmView2.zh-Hans.resx">
+      <DependentUpon>frmView2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu.resx">
+      <DependentUpon>vwEqu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\04 Wheel\vwWhl.resx">
+      <DependentUpon>vwWhl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\01 Auto\vwAuto.resx">
+      <DependentUpon>vwAuto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\05 SPC\vwSPC.resx">
+      <DependentUpon>vwSPC.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\02 Manual\vwMan_01Man.resx">
+      <DependentUpon>vwMan_01Man.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 View\07 Equipment\vwEqu_01Wmx.resx">
+      <DependentUpon>vwEqu_01Wmx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="08 DF\TerminalMessage.resx" />
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GrdMode_01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GrdMode_02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GrdMode_03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Main.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\do-not-touch %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3132.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hourglass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hourglass %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wheel Inspection1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wheel Inspection2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wheel Inspection.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wheel Inspection3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wheel Inspection4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dresser Inspection.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dressing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wheel Inspection5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\house.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AUTO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SETTING.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OPTION.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SPC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MANUAL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DEVICE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WHEEL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Power.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\All Home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Check.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inspection.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wait64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Doc16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Refresh64_Blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ajax-loader.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MainFlow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MainFlow1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\InrToOnp_Orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OfpToDry_Orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OnpToTbl_Orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TblToOfp_Orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TblToSpl_Orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WheelTip_White.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WheelTip_White2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dresser_Magenta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dresser_Teal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Motor256_White.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pick64_White.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pick1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Place.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pick2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Place1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save64_Black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lock24_White.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lock24_Blck.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inspection32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inspection64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Operator128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Operator64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Engineer64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Manager64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Master64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stop64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stop2_128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\View.png" />
+    <None Include="Resources\Reset.png" />
+    <None Include="Resources\Table.PNG" />
+    <None Include="Resources\save.png" />
+    <None Include="Resources\home1.png" />
+    <Content Include="pSG-1000V_Icon.ico" />
+    <None Include="Resources\mute1.png" />
+    <Content Include="Version\Version Info 1_0_0_3.txt" />
+    <Content Include="Version\Version Info 1_0_0_2.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4%28x86 및 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ExComponent\ExComponent.csproj">
+      <Project>{7ee2b4c4-a267-49ae-be86-1355acc41cc1}</Project>
+      <Name>ExComponent</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SuhwooUtil\SuhwooUtil.csproj">
+      <Project>{65fb1e2d-3b8b-4f9a-a17c-0b55ba045603}</Project>
+      <Name>SuhwooUtil</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TCPIP_CLIENT\TCPIP_CLIENT.csproj">
+      <Project>{a4ca2b3b-e042-4594-b960-b12356c9cb95}</Project>
+      <Name>TCPIP_CLIENT</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

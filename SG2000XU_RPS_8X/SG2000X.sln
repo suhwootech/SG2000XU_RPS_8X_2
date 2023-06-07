@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SG2000X", "SG2000X\SG2000X.csproj", "{E0CE84D8-65BD-4486-A134-9DF629CF255C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A4CA2B3B-E042-4594-B960-B12356C9CB95} = {A4CA2B3B-E042-4594-B960-B12356C9CB95}
+		{7EE2B4C4-A267-49AE-BE86-1355ACC41CC1} = {7EE2B4C4-A267-49AE-BE86-1355ACC41CC1}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExComponent", "ExComponent\ExComponent.csproj", "{7EE2B4C4-A267-49AE-BE86-1355ACC41CC1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{65FB1E2D-3B8B-4F9A-A17C-0B55BA045603} = {65FB1E2D-3B8B-4F9A-A17C-0B55BA045603}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPIP_CLIENT", "TCPIP_CLIENT\TCPIP_CLIENT.csproj", "{A4CA2B3B-E042-4594-B960-B12356C9CB95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuhwooUtil", "SuhwooUtil\SuhwooUtil.csproj", "{65FB1E2D-3B8B-4F9A-A17C-0B55BA045603}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicManager", "LicManager\LicManager.csproj", "{1D58B92E-A5A6-4E8E-AEA7-BD83DBE4F39D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module", "Module", "{69B13021-9C0B-46CA-B135-BD3D855B5930}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0CE84D8-65BD-4486-A134-9DF629CF255C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0CE84D8-65BD-4486-A134-9DF629CF255C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0CE84D8-65BD-4486-A134-9DF629CF255C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0CE84D8-65BD-4486-A134-9DF629CF255C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EE2B4C4-A267-49AE-BE86-1355ACC41CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE2B4C4-A267-49AE-BE86-1355ACC41CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE2B4C4-A267-49AE-BE86-1355ACC41CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE2B4C4-A267-49AE-BE86-1355ACC41CC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4CA2B3B-E042-4594-B960-B12356C9CB95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4CA2B3B-E042-4594-B960-B12356C9CB95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4CA2B3B-E042-4594-B960-B12356C9CB95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4CA2B3B-E042-4594-B960-B12356C9CB95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65FB1E2D-3B8B-4F9A-A17C-0B55BA045603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65FB1E2D-3B8B-4F9A-A17C-0B55BA045603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65FB1E2D-3B8B-4F9A-A17C-0B55BA045603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65FB1E2D-3B8B-4F9A-A17C-0B55BA045603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D58B92E-A5A6-4E8E-AEA7-BD83DBE4F39D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D58B92E-A5A6-4E8E-AEA7-BD83DBE4F39D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D58B92E-A5A6-4E8E-AEA7-BD83DBE4F39D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D58B92E-A5A6-4E8E-AEA7-BD83DBE4F39D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7EE2B4C4-A267-49AE-BE86-1355ACC41CC1} = {69B13021-9C0B-46CA-B135-BD3D855B5930}
+		{A4CA2B3B-E042-4594-B960-B12356C9CB95} = {69B13021-9C0B-46CA-B135-BD3D855B5930}
+		{65FB1E2D-3B8B-4F9A-A17C-0B55BA045603} = {69B13021-9C0B-46CA-B135-BD3D855B5930}
+		{1D58B92E-A5A6-4E8E-AEA7-BD83DBE4F39D} = {69B13021-9C0B-46CA-B135-BD3D855B5930}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label47.Text" xml:space="preserve">
+    <value>左侧研磨时间</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="button12.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11pt</value>
+  </data>
+  <data name="button12.Text" xml:space="preserve">
+    <value>水刀</value>
+  </data>
+  <data name="label49.Text" xml:space="preserve">
+    <value>测高数据 [um]</value>
+  </data>
+  <data name="label61.Text" xml:space="preserve">
+    <value>研磨前</value>
+  </data>
+  <data name="label60.Text" xml:space="preserve">
+    <value>研磨后</value>
+  </data>
+  <data name="label59.Text" xml:space="preserve">
+    <value>最大值</value>
+  </data>
+  <data name="label57.Text" xml:space="preserve">
+    <value>最小值</value>
+  </data>
+  <data name="label56.Text" xml:space="preserve">
+    <value>平均值</value>
+  </data>
+  <data name="label21.Text" xml:space="preserve">
+    <value>位置 [mm]</value>
+  </data>
+  <data name="lblGrR_ZStat.Text" xml:space="preserve">
+    <value>Z向</value>
+  </data>
+  <data name="label26.Text" xml:space="preserve">
+    <value>位置 [mm]</value>
+  </data>
+  <data name="lblGrR_YStat.Text" xml:space="preserve">
+    <value>Y向</value>
+  </data>
+  <data name="label30.Text" xml:space="preserve">
+    <value>位置 [mm]</value>
+  </data>
+  <data name="lblGrR_XStat.Text" xml:space="preserve">
+    <value>X向</value>
+  </data>
+  <data name="ckbGrR_TcW.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbGrR_TcW.Text" xml:space="preserve">
+    <value>顶部清洁器水关闭</value>
+  </data>
+  <data name="ckbGrR_TcAKn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbGrR_TcAKn.Text" xml:space="preserve">
+    <value>顶部清洁器气刀关闭</value>
+  </data>
+  <data name="ckbGrR_TcWKn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbGrR_TcWKn.Text" xml:space="preserve">
+    <value>顶部清洁器水刀关闭</value>
+  </data>
+  <data name="ckbGrR_TcDn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbGrR_TcDn.Text" xml:space="preserve">
+    <value>顶部清洁器上升</value>
+  </data>
+  <data name="lblGrR_BtmFlw.Text" xml:space="preserve">
+    <value>底部水流关闭</value>
+  </data>
+  <data name="lblGrR_GrdFlw.Text" xml:space="preserve">
+    <value>研磨水流关闭</value>
+  </data>
+  <data name="lblGrR_SplPcw.Text" xml:space="preserve">
+    <value>主轴冷却水关闭</value>
+  </data>
+  <data name="lblGrR_SplZig.Text" xml:space="preserve">
+    <value>主轴卡销关闭</value>
+  </data>
+  <data name="lblGrR_PrbAMP.Text" xml:space="preserve">
+    <value>探针输出关闭</value>
+  </data>
+  <data name="lblGrR_TcFlw.Text" xml:space="preserve">
+    <value>顶部清洁器水流关闭</value>
+  </data>
+  <data name="lblGrR_TcDn.Text" xml:space="preserve">
+    <value>顶部清洁器下降关闭</value>
+  </data>
+  <data name="lblGrR_TblFlw.Text" xml:space="preserve">
+    <value>平台水流关闭</value>
+  </data>
+  <data name="lblGrR_TblVac.Text" xml:space="preserve">
+    <value>平台真空关闭</value>
+  </data>
+  <data name="btnGrR_Grd.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11pt</value>
+  </data>
+  <data name="btnGrR_Grd.Text" xml:space="preserve">
+    <value>手动研磨</value>
+  </data>
+  <data name="label15.Text" xml:space="preserve">
+    <value>单点测高 [mm]</value>
+  </data>
+  <data name="lblGrR_Fi.Text" xml:space="preserve">
+    <value>精磨</value>
+  </data>
+  <data name="lblGrR_R3.Text" xml:space="preserve">
+    <value>粗磨 3</value>
+  </data>
+  <data name="lblGrR_R2.Text" xml:space="preserve">
+    <value>粗磨 2</value>
+  </data>
+  <data name="lblGrR_R1.Text" xml:space="preserve">
+    <value>粗磨 1</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>研磨次数 [ea]</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>目标厚度 [mm]</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>主轴移动速度 [rpm]</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>平台移动速度 [mm/s]</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>单循环研磨厚度 [mm]</value>
+  </data>
+  <data name="label11.Text" xml:space="preserve">
+    <value>总厚 [mm]</value>
+  </data>
+  <data name="lblGrR_Mod.Text" xml:space="preserve">
+    <value>固定移除量</value>
+  </data>
+  <data name="lblGrR_ModT.Text" xml:space="preserve">
+    <value>研磨模式</value>
+  </data>
+  <data name="tabPage2.Text" xml:space="preserve">
+    <value>参数</value>
+  </data>
+  <data name="tpGrR_Bf.Text" xml:space="preserve">
+    <value>研磨前</value>
+  </data>
+  <data name="tpGrR_Af.Text" xml:space="preserve">
+    <value>研磨后</value>
+  </data>
+  <data name="tabPage4.Text" xml:space="preserve">
+    <value>磨刀</value>
+  </data>
+  <data name="btnGrR_Drs.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11pt</value>
+  </data>
+  <data name="btnGrR_Drs.Text" xml:space="preserve">
+    <value>磨刀</value>
+  </data>
+  <data name="ckbGrR_Ejt.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbGrR_Ejt.Text" xml:space="preserve">
+    <value>平台真空释放关闭</value>
+  </data>
+  <data name="ckbGrR_Wtr.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbGrR_Wtr.Text" xml:space="preserve">
+    <value>平台水关闭</value>
+  </data>
+  <data name="ckbGrR_Vac.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbGrR_Vac.Text" xml:space="preserve">
+    <value>平台真空关闭</value>
+  </data>
+  <data name="btnGrR_StInsp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11pt</value>
+  </data>
+  <data name="btnGrR_StInsp.Text" xml:space="preserve">
+    <value>基板测高</value>
+  </data>
+  <data name="btnGrR_DrInsp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11pt</value>
+  </data>
+  <data name="btnGrR_DrInsp.Text" xml:space="preserve">
+    <value>磨刀石测高</value>
+  </data>
+  <data name="btnGrR_WhInsp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11pt</value>
+  </data>
+  <data name="btnGrR_WhInsp.Text" xml:space="preserve">
+    <value>砂轮测高</value>
+  </data>
+  <data name="btnGrR_H.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11pt</value>
+  </data>
+  <data name="btnGrR_H.Text" xml:space="preserve">
+    <value>复位</value>
+  </data>
+  <data name="btnGrR_Wait.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11pt</value>
+  </data>
+  <data name="btnGrR_Wait.Text" xml:space="preserve">
+    <value>等待位置</value>
+  </data>
+  <data name="btn_Stop.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11pt</value>
+  </data>
+  <data name="btn_Stop.Text" xml:space="preserve">
+    <value>停止</value>
+  </data>
+</root>

@@ -1,0 +1,1026 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="&gt;&gt;btn_OpLTVacOff.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="lbl_RTable_Vac.Size" type="System.Drawing.Size, System.Drawing">
+    <value>254, 71</value>
+  </data>
+  <data name="&gt;&gt;lbl_RTable_Vac.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn_OpRChangePos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 46</value>
+  </data>
+  <data name="&gt;&gt;btn_OpOnLPlace.Parent" xml:space="preserve">
+    <value>panel_OnL</value>
+  </data>
+  <data name="btn_OpLTVacOff.Location" type="System.Drawing.Point, System.Drawing">
+    <value>165, 132</value>
+  </data>
+  <data name="&gt;&gt;btn_OpLTVacOff.Name" xml:space="preserve">
+    <value>btn_OpLTVacOff</value>
+  </data>
+  <data name="label_RTable_Tt.Text" xml:space="preserve">
+    <value>Right Table Vaccum </value>
+  </data>
+  <data name="&gt;&gt;btn_OpLWaitPos.Name" xml:space="preserve">
+    <value>btn_OpLWaitPos</value>
+  </data>
+  <data name="btn_OpLTVacOff.Text" xml:space="preserve">
+    <value>Off</value>
+  </data>
+  <data name="&gt;&gt;panel_OnL.Name" xml:space="preserve">
+    <value>panel_OnL</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btn_OpLTVacOn.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Consolas, 16pt</value>
+  </data>
+  <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="btn_OpLTVacOn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 132</value>
+  </data>
+  <data name="lbl_RTable_Vac.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Consolas, 16pt</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 5, 4, 5</value>
+  </data>
+  <data name="label_RTable_Tt.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Unicode MS, 10pt, style=Bold</value>
+  </data>
+  <data name="btn_OpRTEjeOn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 298</value>
+  </data>
+  <data name="label_RTable_Tt.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1, 2</value>
+  </data>
+  <data name="btn_OpLWaitPos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 64</value>
+  </data>
+  <data name="btn_OpRTVacOff.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 64</value>
+  </data>
+  <data name="&gt;&gt;panel_OnL.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="label3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Unicode MS, 10pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1, 2</value>
+  </data>
+  <data name="&gt;&gt;btn_OpRTEjeOff.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn_OpRWaitPos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>165, 46</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn_OpLChangePos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 64</value>
+  </data>
+  <data name="&gt;&gt;lbl_LTable_Eje.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btn_OpRWaitPos.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;label9.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;btn_OpLWaitPos.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 25</value>
+  </data>
+  <data name="btn_OpOfLPick.Text" xml:space="preserve">
+    <value>MAGAZINE PICK</value>
+  </data>
+  <data name="btn_OpLTVacOn.Text" xml:space="preserve">
+    <value>On</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1, 2</value>
+  </data>
+  <data name="btn_OpRChangePos.Text" xml:space="preserve">
+    <value>Change Pos</value>
+  </data>
+  <data name="&gt;&gt;btn_OpLTVacOn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel_RTable.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OpLChangePos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OpOfLPlace.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OpRTVacOn.Name" xml:space="preserve">
+    <value>btn_OpRTVacOn</value>
+  </data>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Consolas, 12pt</value>
+  </data>
+  <data name="&gt;&gt;lbl_RTable_Vac.Parent" xml:space="preserve">
+    <value>panel_RTable</value>
+  </data>
+  <data name="&gt;&gt;btn_OpLTEjeOff.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btn_OpOfLPick.Name" xml:space="preserve">
+    <value>btn_OpOfLPick</value>
+  </data>
+  <data name="&gt;&gt;btn_OpOnLPlace.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lbl_Title.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;btn_OpRTEjeOff.Parent" xml:space="preserve">
+    <value>panel_RTable</value>
+  </data>
+  <data name="btn_OpOnLPick.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 64</value>
+  </data>
+  <data name="&gt;&gt;label_RTable_Tt.Parent" xml:space="preserve">
+    <value>panel_RTable</value>
+  </data>
+  <data name="&gt;&gt;btn_OpRWaitPos.Name" xml:space="preserve">
+    <value>btn_OpRWaitPos</value>
+  </data>
+  <data name="btn_OpOfLPlace.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 64</value>
+  </data>
+  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label3.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="label1.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 0, 0, 0</value>
+  </data>
+  <data name="&gt;&gt;btn_OpLTEjeOff.Parent" xml:space="preserve">
+    <value>panel_LTable</value>
+  </data>
+  <data name="&gt;&gt;btn_OpRTEjeOn.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;lbl_LTable_Vac.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 25</value>
+  </data>
+  <data name="&gt;&gt;btn_OpRChangePos.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="btn_OpRTVacOn.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;btn_OpOfLPick.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label5.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 25</value>
+  </data>
+  <data name="&gt;&gt;btn_OpLChangePos.Name" xml:space="preserve">
+    <value>btn_OpLChangePos</value>
+  </data>
+  <data name="&gt;&gt;btn_OpOfLPick.Parent" xml:space="preserve">
+    <value>panel_OffL</value>
+  </data>
+  <data name="panel_LTable.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 43</value>
+  </data>
+  <data name="panel_LTable.Size" type="System.Drawing.Size, System.Drawing">
+    <value>287, 377</value>
+  </data>
+  <data name="&gt;&gt;panel_RTable.Name" xml:space="preserve">
+    <value>panel_RTable</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;lbl_LTable_Vac.Name" xml:space="preserve">
+    <value>lbl_LTable_Vac</value>
+  </data>
+  <data name="lbl_LTable_Vac.Size" type="System.Drawing.Size, System.Drawing">
+    <value>254, 71</value>
+  </data>
+  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>310, 585</value>
+  </data>
+  <data name="&gt;&gt;lbl_LTable_Eje.Parent" xml:space="preserve">
+    <value>panel_LTable</value>
+  </data>
+  <data name="lbl_RTable_Eje.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>On Loader</value>
+  </data>
+  <data name="panel_OffL.Location" type="System.Drawing.Point, System.Drawing">
+    <value>310, 438</value>
+  </data>
+  <data name="btn_OpOnLPlace.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 64</value>
+  </data>
+  <data name="&gt;&gt;btn_OpRTVacOff.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;label_RTable_Tt.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label_LTable_Tt.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OpOnLPick.Name" xml:space="preserve">
+    <value>btn_OpOnLPick</value>
+  </data>
+  <data name="btn_OpLWaitPos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>165, 46</value>
+  </data>
+  <data name="&gt;&gt;label5.Parent" xml:space="preserve">
+    <value>panel_OnL</value>
+  </data>
+  <data name="btn_OpLChangePos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 46</value>
+  </data>
+  <data name="btn_OpRWaitPos.Text" xml:space="preserve">
+    <value>Wait Pos</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;btn_OpRChangePos.Name" xml:space="preserve">
+    <value>btn_OpRChangePos</value>
+  </data>
+  <data name="lbl_Title.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btn_OpOnLPick.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btn_OpOfLPlace.Parent" xml:space="preserve">
+    <value>panel_OffL</value>
+  </data>
+  <data name="label9.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 0, 0, 0</value>
+  </data>
+  <data name="&gt;&gt;btn_OpLTEjeOn.Name" xml:space="preserve">
+    <value>btn_OpLTEjeOn</value>
+  </data>
+  <data name="lbl_LTable_Eje.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Consolas, 16pt</value>
+  </data>
+  <data name="&gt;&gt;lbl_RTable_Eje.Name" xml:space="preserve">
+    <value>lbl_RTable_Eje</value>
+  </data>
+  <data name="panel_OffL.Size" type="System.Drawing.Size, System.Drawing">
+    <value>287, 131</value>
+  </data>
+  <data name="lbl_LTable_Eje.Text" xml:space="preserve">
+    <value>Eject</value>
+  </data>
+  <data name="btn_OpLChangePos.Text" xml:space="preserve">
+    <value>Change Pos</value>
+  </data>
+  <data name="label5.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 0, 0, 0</value>
+  </data>
+  <data name="lbl_RTable_Eje.Size" type="System.Drawing.Size, System.Drawing">
+    <value>254, 71</value>
+  </data>
+  <data name="&gt;&gt;label5.Name" xml:space="preserve">
+    <value>label5</value>
+  </data>
+  <data name="&gt;&gt;lbl_LTable_Eje.Name" xml:space="preserve">
+    <value>lbl_LTable_Eje</value>
+  </data>
+  <data name="btn_OpOnLPlace.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="lbl_LTable_Eje.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;btn_OpOfLPlace.Name" xml:space="preserve">
+    <value>btn_OpOfLPlace</value>
+  </data>
+  <data name="lbl_RTable_Vac.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 42</value>
+  </data>
+  <data name="lbl_RTable_Eje.Text" xml:space="preserve">
+    <value>Eject</value>
+  </data>
+  <data name="lbl_RTable_Eje.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Consolas, 16pt</value>
+  </data>
+  <data name="btn_OpRWaitPos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 64</value>
+  </data>
+  <data name="lbl_RTable_Vac.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;btn_OpLWaitPos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label_LTable_Tt.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 25</value>
+  </data>
+  <data name="&gt;&gt;panel2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lbl_LTable_Vac.Text" xml:space="preserve">
+    <value>Vacuum</value>
+  </data>
+  <data name="&gt;&gt;btn_OpLWaitPos.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;panel2.Name" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="lbl_LTable_Eje.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;btn_OpOnLPlace.Name" xml:space="preserve">
+    <value>btn_OpOnLPlace</value>
+  </data>
+  <data name="btn_OpLTEjeOff.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="btn_OpOnLPlace.Text" xml:space="preserve">
+    <value>MAGAZINE PLACE</value>
+  </data>
+  <data name="label_RTable_Tt.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 0, 0, 0</value>
+  </data>
+  <data name="&gt;&gt;btn_OpLTEjeOn.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;lbl_RTable_Vac.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;btn_OpLTVacOff.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="btn_OpRTVacOff.Text" xml:space="preserve">
+    <value>Off</value>
+  </data>
+  <data name="btn_OpLTVacOff.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;btn_OpLChangePos.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="btn_OpOfLPlace.Text" xml:space="preserve">
+    <value>MAGAZINE PLACE</value>
+  </data>
+  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;btn_OpLChangePos.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btn_OpRWaitPos.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label3.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 0, 0, 0</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>254, 71</value>
+  </data>
+  <data name="&gt;&gt;lbl_Title.Name" xml:space="preserve">
+    <value>lbl_Title</value>
+  </data>
+  <data name="panel_OnL.Size" type="System.Drawing.Size, System.Drawing">
+    <value>287, 131</value>
+  </data>
+  <data name="btn_OpRTEjeOff.Location" type="System.Drawing.Point, System.Drawing">
+    <value>165, 298</value>
+  </data>
+  <data name="&gt;&gt;lbl_RTable_Vac.Name" xml:space="preserve">
+    <value>lbl_RTable_Vac</value>
+  </data>
+  <data name="&gt;&gt;panel_OffL.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_LTable_Vac.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;btn_OpOfLPlace.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;panel_LTable.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1, 2</value>
+  </data>
+  <data name="&gt;&gt;btn_OpLTVacOn.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="btn_OpRTVacOff.Location" type="System.Drawing.Point, System.Drawing">
+    <value>165, 132</value>
+  </data>
+  <data name="&gt;&gt;btn_OpRTEjeOn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label_LTable_Tt.Name" xml:space="preserve">
+    <value>label_LTable_Tt</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>panel_LTable</value>
+  </data>
+  <data name="label9.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;label9.Name" xml:space="preserve">
+    <value>label9</value>
+  </data>
+  <data name="btn_OpLTEjeOn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 64</value>
+  </data>
+  <data name="&gt;&gt;btn_OpRTEjeOn.Parent" xml:space="preserve">
+    <value>panel_RTable</value>
+  </data>
+  <data name="&gt;&gt;panel_OnL.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn_OpOfLPlace.Location" type="System.Drawing.Point, System.Drawing">
+    <value>165, 46</value>
+  </data>
+  <data name="&gt;&gt;lbl_RTable_Eje.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;panel_OffL.Name" xml:space="preserve">
+    <value>panel_OffL</value>
+  </data>
+  <data name="&gt;&gt;btn_OpLTEjeOff.Name" xml:space="preserve">
+    <value>btn_OpLTEjeOff</value>
+  </data>
+  <data name="btn_OpLTVacOff.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 64</value>
+  </data>
+  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>287, 131</value>
+  </data>
+  <data name="btn_OpOfLPick.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 46</value>
+  </data>
+  <data name="panel_RTable.Size" type="System.Drawing.Size, System.Drawing">
+    <value>287, 377</value>
+  </data>
+  <data name="&gt;&gt;btn_OpRTEjeOff.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;panel_LTable.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Left Table Dresser</value>
+  </data>
+  <data name="&gt;&gt;btn_OpRTVacOff.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OpRTVacOn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Right Table Dresser</value>
+  </data>
+  <data name="btn_OpOfLPick.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 64</value>
+  </data>
+  <data name="label9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 25</value>
+  </data>
+  <data name="&gt;&gt;btn_OpRTVacOff.Name" xml:space="preserve">
+    <value>btn_OpRTVacOff</value>
+  </data>
+  <data name="&gt;&gt;btn_OpRTVacOn.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="lbl_LTable_Vac.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Consolas, 16pt</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>Off Loader</value>
+  </data>
+  <data name="lbl_LTable_Eje.Size" type="System.Drawing.Size, System.Drawing">
+    <value>254, 71</value>
+  </data>
+  <data name="&gt;&gt;panel_OnL.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1, 2</value>
+  </data>
+  <data name="panel_LTable.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="btn_OpLTEjeOff.Text" xml:space="preserve">
+    <value>Off</value>
+  </data>
+  <data name="label_LTable_Tt.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 0, 0, 0</value>
+  </data>
+  <data name="&gt;&gt;panel_RTable.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_OpRTVacOff.Parent" xml:space="preserve">
+    <value>panel_RTable</value>
+  </data>
+  <data name="btn_OpLTEjeOn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 298</value>
+  </data>
+  <data name="lbl_Title.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 9</value>
+  </data>
+  <data name="$this.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1180, 900</value>
+  </data>
+  <data name="btn_OpOnLPlace.Location" type="System.Drawing.Point, System.Drawing">
+    <value>165, 46</value>
+  </data>
+  <data name="&gt;&gt;btn_OpLTEjeOff.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OpRChangePos.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btn_OpRTEjeOn.Name" xml:space="preserve">
+    <value>btn_OpRTEjeOn</value>
+  </data>
+  <data name="&gt;&gt;panel_OffL.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btn_OpOfLPlace.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="btn_OpOfLPick.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;btn_OpLTEjeOn.Parent" xml:space="preserve">
+    <value>panel_LTable</value>
+  </data>
+  <data name="btn_OpRTEjeOn.Text" xml:space="preserve">
+    <value>On</value>
+  </data>
+  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;label_LTable_Tt.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;panel_LTable.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="panel_RTable.Location" type="System.Drawing.Point, System.Drawing">
+    <value>310, 43</value>
+  </data>
+  <data name="&gt;&gt;lbl_Title.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label9.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Unicode MS, 10pt, style=Bold</value>
+  </data>
+  <data name="panel_OnL.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;lbl_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OpLTVacOn.Name" xml:space="preserve">
+    <value>btn_OpLTVacOn</value>
+  </data>
+  <data name="label_LTable_Tt.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.UserControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="btn_OpLTVacOn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 64</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Vaccum</value>
+  </data>
+  <data name="lbl_LTable_Vac.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 42</value>
+  </data>
+  <data name="lbl_LTable_Eje.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 213</value>
+  </data>
+  <data name="&gt;&gt;label_LTable_Tt.Parent" xml:space="preserve">
+    <value>panel_LTable</value>
+  </data>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lbl_RTable_Eje.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="panel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 585</value>
+  </data>
+  <data name="&gt;&gt;label5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OpOnLPick.Parent" xml:space="preserve">
+    <value>panel_OnL</value>
+  </data>
+  <data name="&gt;&gt;btn_OpRChangePos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label_RTable_Tt.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OpOnLPlace.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lbl_LTable_Vac.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;panel_RTable.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;panel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OpLTVacOff.Parent" xml:space="preserve">
+    <value>panel_LTable</value>
+  </data>
+  <data name="&gt;&gt;lbl_LTable_Vac.Parent" xml:space="preserve">
+    <value>panel_LTable</value>
+  </data>
+  <data name="btn_OpLTEjeOff.Location" type="System.Drawing.Point, System.Drawing">
+    <value>165, 298</value>
+  </data>
+  <data name="btn_OpOnLPick.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="lbl_RTable_Vac.Text" xml:space="preserve">
+    <value>Vacuum</value>
+  </data>
+  <data name="btn_OpRChangePos.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;btn_OpLTEjeOn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OpRTVacOn.Parent" xml:space="preserve">
+    <value>panel_RTable</value>
+  </data>
+  <data name="btn_OpLWaitPos.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="lbl_Title.Text" xml:space="preserve">
+    <value>Operation Manual </value>
+  </data>
+  <data name="&gt;&gt;btn_OpOfLPick.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label_LTable_Tt.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Unicode MS, 10pt, style=Bold</value>
+  </data>
+  <data name="btn_OpRTEjeOff.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 64</value>
+  </data>
+  <data name="label5.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Unicode MS, 10pt, style=Bold</value>
+  </data>
+  <data name="label_LTable_Tt.Text" xml:space="preserve">
+    <value>Left Table Vaccum </value>
+  </data>
+  <data name="label_LTable_Tt.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;btn_OpRWaitPos.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="btn_OpLWaitPos.Text" xml:space="preserve">
+    <value>Wait Pos</value>
+  </data>
+  <data name="btn_OpRTVacOn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 64</value>
+  </data>
+  <data name="btn_OpRTVacOn.Text" xml:space="preserve">
+    <value>On</value>
+  </data>
+  <data name="label_LTable_Tt.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1, 2</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Unicode MS, 10pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn_OpRTVacOn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 132</value>
+  </data>
+  <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="panel2.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="label9.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="panel_RTable.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btn_OpOnLPick.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 46</value>
+  </data>
+  <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="btn_OpRChangePos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 64</value>
+  </data>
+  <data name="panel_OffL.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 213</value>
+  </data>
+  <data name="&gt;&gt;btn_OpOnLPick.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label_RTable_Tt.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btn_OpRTVacOff.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;label9.Parent" xml:space="preserve">
+    <value>panel_OffL</value>
+  </data>
+  <data name="&gt;&gt;btn_OpRWaitPos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="lbl_RTable_Eje.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 213</value>
+  </data>
+  <data name="&gt;&gt;btn_OpLTVacOn.Parent" xml:space="preserve">
+    <value>panel_LTable</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="btn_OpRTEjeOn.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="btn_OpRTEjeOff.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="lbl_Title.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1151, 31</value>
+  </data>
+  <data name="&gt;&gt;panel_LTable.Name" xml:space="preserve">
+    <value>panel_LTable</value>
+  </data>
+  <data name="label_RTable_Tt.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;btn_OpRTEjeOff.Name" xml:space="preserve">
+    <value>btn_OpRTEjeOff</value>
+  </data>
+  <data name="btn_OpLTEjeOff.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 64</value>
+  </data>
+  <data name="lbl_RTable_Vac.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;label_RTable_Tt.Name" xml:space="preserve">
+    <value>label_RTable_Tt</value>
+  </data>
+  <data name="&gt;&gt;lbl_RTable_Eje.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn_OpRTEjeOff.Text" xml:space="preserve">
+    <value>Off</value>
+  </data>
+  <data name="btn_OpRTEjeOn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 64</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>vwOpManu</value>
+  </data>
+  <data name="btn_OpLChangePos.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;panel_OffL.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_RTable_Eje.Parent" xml:space="preserve">
+    <value>panel_RTable</value>
+  </data>
+  <data name="btn_OpOnLPick.Text" xml:space="preserve">
+    <value>MAGAZINE PICK</value>
+  </data>
+  <data name="&gt;&gt;lbl_LTable_Eje.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lbl_LTable_Vac.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="label_RTable_Tt.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 25</value>
+  </data>
+  <data name="&gt;&gt;label9.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn_OpLTEjeOn.Text" xml:space="preserve">
+    <value>On</value>
+  </data>
+  <data name="panel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>287, 131</value>
+  </data>
+  <data name="panel_OnL.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 438</value>
+  </data>
+  <data name="&gt;&gt;lbl_Title.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="btn_OpLTEjeOn.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+</root>

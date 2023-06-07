@@ -1,0 +1,603 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btnM_DBcr.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btnM_DBcr.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btnM_DBcr.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnM_DBcr.Location" type="System.Drawing.Point, System.Drawing">
+    <value>690, 293</value>
+  </data>
+  <data name="btnM_DBcr.Size" type="System.Drawing.Size, System.Drawing">
+    <value>310, 50</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btnM_DBcr.TabIndex" type="System.Int32, mscorlib">
+    <value>190</value>
+  </data>
+  <data name="btnM_DBcr.Text" xml:space="preserve">
+    <value>INPUT BARCODE READ</value>
+  </data>
+  <data name="&gt;&gt;btnM_DBcr.Name" xml:space="preserve">
+    <value>btnM_DBcr</value>
+  </data>
+  <data name="&gt;&gt;btnM_DBcr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnM_DBcr.Parent" xml:space="preserve">
+    <value>pnlM_Dev</value>
+  </data>
+  <data name="&gt;&gt;btnM_DBcr.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnM_DCur.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnM_DCur.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btnM_DCur.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnM_DCur.Location" type="System.Drawing.Point, System.Drawing">
+    <value>690, 220</value>
+  </data>
+  <data name="btnM_DCur.Size" type="System.Drawing.Size, System.Drawing">
+    <value>310, 50</value>
+  </data>
+  <data name="btnM_DCur.TabIndex" type="System.Int32, mscorlib">
+    <value>188</value>
+  </data>
+  <data name="btnM_DCur.Text" xml:space="preserve">
+    <value>CURRENT</value>
+  </data>
+  <data name="&gt;&gt;btnM_DCur.Name" xml:space="preserve">
+    <value>btnM_DCur</value>
+  </data>
+  <data name="&gt;&gt;btnM_DCur.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnM_DCur.Parent" xml:space="preserve">
+    <value>pnlM_Dev</value>
+  </data>
+  <data name="&gt;&gt;btnM_DCur.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnM_DDel.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnM_DDel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btnM_DDel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnM_DDel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>850, 90</value>
+  </data>
+  <data name="btnM_DDel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 50</value>
+  </data>
+  <data name="btnM_DDel.TabIndex" type="System.Int32, mscorlib">
+    <value>187</value>
+  </data>
+  <data name="btnM_DDel.Text" xml:space="preserve">
+    <value>DELETE</value>
+  </data>
+  <data name="&gt;&gt;btnM_DDel.Name" xml:space="preserve">
+    <value>btnM_DDel</value>
+  </data>
+  <data name="&gt;&gt;btnM_DDel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnM_DDel.Parent" xml:space="preserve">
+    <value>pnlM_Dev</value>
+  </data>
+  <data name="&gt;&gt;btnM_DDel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btnM_DApp.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnM_DApp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btnM_DApp.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnM_DApp.Location" type="System.Drawing.Point, System.Drawing">
+    <value>690, 150</value>
+  </data>
+  <data name="btnM_DApp.Size" type="System.Drawing.Size, System.Drawing">
+    <value>310, 50</value>
+  </data>
+  <data name="btnM_DApp.TabIndex" type="System.Int32, mscorlib">
+    <value>186</value>
+  </data>
+  <data name="btnM_DApp.Text" xml:space="preserve">
+    <value>LOAD &amp;&amp; APPLY</value>
+  </data>
+  <data name="&gt;&gt;btnM_DApp.Name" xml:space="preserve">
+    <value>btnM_DApp</value>
+  </data>
+  <data name="&gt;&gt;btnM_DApp.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnM_DApp.Parent" xml:space="preserve">
+    <value>pnlM_Dev</value>
+  </data>
+  <data name="&gt;&gt;btnM_DApp.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btnM_DCopy.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnM_DCopy.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btnM_DCopy.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnM_DCopy.Location" type="System.Drawing.Point, System.Drawing">
+    <value>850, 30</value>
+  </data>
+  <data name="btnM_DCopy.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 50</value>
+  </data>
+  <data name="btnM_DCopy.TabIndex" type="System.Int32, mscorlib">
+    <value>183</value>
+  </data>
+  <data name="btnM_DCopy.Text" xml:space="preserve">
+    <value>SAVE AS</value>
+  </data>
+  <data name="&gt;&gt;btnM_DCopy.Name" xml:space="preserve">
+    <value>btnM_DCopy</value>
+  </data>
+  <data name="&gt;&gt;btnM_DCopy.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnM_DCopy.Parent" xml:space="preserve">
+    <value>pnlM_Dev</value>
+  </data>
+  <data name="&gt;&gt;btnM_DCopy.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="btnM_DNew.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnM_DNew.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btnM_DNew.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnM_DNew.Location" type="System.Drawing.Point, System.Drawing">
+    <value>690, 30</value>
+  </data>
+  <data name="btnM_DNew.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 50</value>
+  </data>
+  <data name="btnM_DNew.TabIndex" type="System.Int32, mscorlib">
+    <value>181</value>
+  </data>
+  <data name="btnM_DNew.Text" xml:space="preserve">
+    <value>NEW</value>
+  </data>
+  <data name="&gt;&gt;btnM_DNew.Name" xml:space="preserve">
+    <value>btnM_DNew</value>
+  </data>
+  <data name="&gt;&gt;btnM_DNew.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnM_DNew.Parent" xml:space="preserve">
+    <value>pnlM_Dev</value>
+  </data>
+  <data name="&gt;&gt;btnM_DNew.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt, style=Bold</value>
+  </data>
+  <data name="label2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>684, 25</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>58</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Device</value>
+  </data>
+  <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>pnlM_Dev</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="lbxM_Dev.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbxM_Dev.HorizontalScrollbar" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbxM_Dev.ItemHeight" type="System.Int32, mscorlib">
+    <value>30</value>
+  </data>
+  <data name="lbxM_Dev.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 30</value>
+  </data>
+  <data name="lbxM_Dev.Size" type="System.Drawing.Size, System.Drawing">
+    <value>676, 484</value>
+  </data>
+  <data name="lbxM_Dev.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;lbxM_Dev.Name" xml:space="preserve">
+    <value>lbxM_Dev</value>
+  </data>
+  <data name="&gt;&gt;lbxM_Dev.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbxM_Dev.Parent" xml:space="preserve">
+    <value>pnlM_Dev</value>
+  </data>
+  <data name="&gt;&gt;lbxM_Dev.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="pnlM_Dev.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 367</value>
+  </data>
+  <data name="pnlM_Dev.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1010, 526</value>
+  </data>
+  <data name="pnlM_Dev.TabIndex" type="System.Int32, mscorlib">
+    <value>187</value>
+  </data>
+  <data name="&gt;&gt;pnlM_Dev.Name" xml:space="preserve">
+    <value>pnlM_Dev</value>
+  </data>
+  <data name="&gt;&gt;pnlM_Dev.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlM_Dev.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pnlM_Dev.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnM_GDel.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnM_GDel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btnM_GDel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnM_GDel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>850, 90</value>
+  </data>
+  <data name="btnM_GDel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 50</value>
+  </data>
+  <data name="btnM_GDel.TabIndex" type="System.Int32, mscorlib">
+    <value>184</value>
+  </data>
+  <data name="btnM_GDel.Text" xml:space="preserve">
+    <value>DELETE</value>
+  </data>
+  <data name="&gt;&gt;btnM_GDel.Name" xml:space="preserve">
+    <value>btnM_GDel</value>
+  </data>
+  <data name="&gt;&gt;btnM_GDel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnM_GDel.Parent" xml:space="preserve">
+    <value>pnlM_Grp</value>
+  </data>
+  <data name="&gt;&gt;btnM_GDel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnM_GCopy.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnM_GCopy.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btnM_GCopy.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnM_GCopy.Location" type="System.Drawing.Point, System.Drawing">
+    <value>850, 30</value>
+  </data>
+  <data name="btnM_GCopy.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 50</value>
+  </data>
+  <data name="btnM_GCopy.TabIndex" type="System.Int32, mscorlib">
+    <value>183</value>
+  </data>
+  <data name="btnM_GCopy.Text" xml:space="preserve">
+    <value>SAVE AS</value>
+  </data>
+  <data name="&gt;&gt;btnM_GCopy.Name" xml:space="preserve">
+    <value>btnM_GCopy</value>
+  </data>
+  <data name="&gt;&gt;btnM_GCopy.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnM_GCopy.Parent" xml:space="preserve">
+    <value>pnlM_Grp</value>
+  </data>
+  <data name="&gt;&gt;btnM_GCopy.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnM_GNew.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnM_GNew.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btnM_GNew.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnM_GNew.Location" type="System.Drawing.Point, System.Drawing">
+    <value>690, 30</value>
+  </data>
+  <data name="btnM_GNew.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 50</value>
+  </data>
+  <data name="btnM_GNew.TabIndex" type="System.Int32, mscorlib">
+    <value>181</value>
+  </data>
+  <data name="btnM_GNew.Text" xml:space="preserve">
+    <value>NEW</value>
+  </data>
+  <data name="&gt;&gt;btnM_GNew.Name" xml:space="preserve">
+    <value>btnM_GNew</value>
+  </data>
+  <data name="&gt;&gt;btnM_GNew.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnM_GNew.Parent" xml:space="preserve">
+    <value>pnlM_Grp</value>
+  </data>
+  <data name="&gt;&gt;btnM_GNew.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label39.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt, style=Bold</value>
+  </data>
+  <data name="label39.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label39.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="label39.Size" type="System.Drawing.Size, System.Drawing">
+    <value>683, 25</value>
+  </data>
+  <data name="label39.TabIndex" type="System.Int32, mscorlib">
+    <value>58</value>
+  </data>
+  <data name="label39.Text" xml:space="preserve">
+    <value>Group</value>
+  </data>
+  <data name="label39.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;label39.Name" xml:space="preserve">
+    <value>label39</value>
+  </data>
+  <data name="&gt;&gt;label39.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label39.Parent" xml:space="preserve">
+    <value>pnlM_Grp</value>
+  </data>
+  <data name="&gt;&gt;label39.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lbxM_Grp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbxM_Grp.HorizontalScrollbar" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbxM_Grp.ItemHeight" type="System.Int32, mscorlib">
+    <value>30</value>
+  </data>
+  <data name="lbxM_Grp.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 30</value>
+  </data>
+  <data name="lbxM_Grp.Size" type="System.Drawing.Size, System.Drawing">
+    <value>675, 304</value>
+  </data>
+  <data name="lbxM_Grp.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;lbxM_Grp.Name" xml:space="preserve">
+    <value>lbxM_Grp</value>
+  </data>
+  <data name="&gt;&gt;lbxM_Grp.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbxM_Grp.Parent" xml:space="preserve">
+    <value>pnlM_Grp</value>
+  </data>
+  <data name="&gt;&gt;lbxM_Grp.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="pnlM_Grp.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 8</value>
+  </data>
+  <data name="pnlM_Grp.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1010, 353</value>
+  </data>
+  <data name="pnlM_Grp.TabIndex" type="System.Int32, mscorlib">
+    <value>186</value>
+  </data>
+  <data name="&gt;&gt;pnlM_Grp.Name" xml:space="preserve">
+    <value>pnlM_Grp</value>
+  </data>
+  <data name="&gt;&gt;pnlM_Grp.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlM_Grp.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pnlM_Grp.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="$this.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1030, 900</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>vwDev_01Lst</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.UserControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

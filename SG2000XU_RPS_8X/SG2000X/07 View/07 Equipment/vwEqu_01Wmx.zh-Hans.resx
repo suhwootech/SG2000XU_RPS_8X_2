@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="btnE1_Hot.Text" xml:space="preserve">
+    <value>重新连接</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="label1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>440, 438</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 25</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>209</value>
+  </data>
+  <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomLeft</value>
+  </data>
+  <data name="label132.Text" xml:space="preserve">
+    <value>上料区 X</value>
+  </data>
+  <data name="label133.Text" xml:space="preserve">
+    <value>引擎</value>
+  </data>
+  <data name="label135.Text" xml:space="preserve">
+    <value>WMX 状态</value>
+  </data>
+  <data name="label137.Text" xml:space="preserve">
+    <value>链接</value>
+  </data>
+  <data name="label141.Text" xml:space="preserve">
+    <value>上料区 Y</value>
+  </data>
+  <data name="label144.Text" xml:space="preserve">
+    <value>上料区 Z</value>
+  </data>
+  <data name="label147.Text" xml:space="preserve">
+    <value>下料区 Z</value>
+  </data>
+  <data name="label150.Text" xml:space="preserve">
+    <value>下料区 Y</value>
+  </data>
+  <data name="label153.Text" xml:space="preserve">
+    <value>下料区 X</value>
+  </data>
+  <data name="label156.Text" xml:space="preserve">
+    <value>进料轨道 Y</value>
+  </data>
+  <data name="label159.Text" xml:space="preserve">
+    <value>进料轨道 X</value>
+  </data>
+  <data name="label161.Text" xml:space="preserve">
+    <value>上料区抓手 Y</value>
+  </data>
+  <data name="label162.Text" xml:space="preserve">
+    <value>上料区抓手 Z</value>
+  </data>
+  <data name="label165.Text" xml:space="preserve">
+    <value>上料区抓手 X</value>
+  </data>
+  <data name="label168.Text" xml:space="preserve">
+    <value>左侧研磨区 Z</value>
+  </data>
+  <data name="label171.Text" xml:space="preserve">
+    <value>左侧研磨区 Y</value>
+  </data>
+  <data name="label174.Text" xml:space="preserve">
+    <value>左侧研磨区 X</value>
+  </data>
+  <data name="label177.Text" xml:space="preserve">
+    <value>右侧研磨区 Z</value>
+  </data>
+  <data name="label180.Text" xml:space="preserve">
+    <value>左侧研磨区 Y</value>
+  </data>
+  <data name="label183.Text" xml:space="preserve">
+    <value>右侧研磨区 X</value>
+  </data>
+  <data name="label186.Text" xml:space="preserve">
+    <value>甩干区 Z</value>
+  </data>
+  <data name="label189.Text" xml:space="preserve">
+    <value>下料区抓手 Z</value>
+  </data>
+  <data name="label192.Text" xml:space="preserve">
+    <value>甩干区 X</value>
+  </data>
+  <data name="label195.Text" xml:space="preserve">
+    <value>下料区 X</value>
+  </data>
+  <data name="label198.Text" xml:space="preserve">
+    <value>右侧变频器</value>
+  </data>
+  <data name="label201.Text" xml:space="preserve">
+    <value>左侧变频器</value>
+  </data>
+  <data name="label204.Text" xml:space="preserve">
+    <value>甩干机 角度</value>
+  </data>
+  <data name="lblE1_Ax10_ID.Text" xml:space="preserve">
+    <value>ID : 00</value>
+  </data>
+  <data name="lblE1_Ax10_Op.Text" xml:space="preserve">
+    <value>Idle</value>
+  </data>
+  <data name="lblE1_Ax11_ID.Text" xml:space="preserve">
+    <value>ID : 00</value>
+  </data>
+  <data name="lblE1_Ax11_Op.Text" xml:space="preserve">
+    <value>Idle</value>
+  </data>
+  <data name="lblE1_Ax12_ID.Text" xml:space="preserve">
+    <value>ID : 00</value>
+  </data>
+  <data name="lblE1_Ax12_Op.Text" xml:space="preserve">
+    <value>Idle</value>
+  </data>
+  <data name="lblE1_Ax13_ID.Text" xml:space="preserve">
+    <value>ID : 00</value>
+  </data>
+  <data name="lblE1_Ax13_Op.Text" xml:space="preserve">
+    <value>Idle</value>
+  </data>
+  <data name="lblE1_Ax14_ID.Text" xml:space="preserve">
+    <value>ID : 00</value>
+  </data>
+  <data name="lblE1_Ax14_Op.Text" xml:space="preserve">
+    <value>Idle</value>
+  </data>
+  <data name="lblE1_Ax15_ID.Text" xml:space="preserve">
+    <value>ID : 00</value>
+  </data>
+  <data name="lblE1_Ax15_Op.Text" xml:space="preserve">
+    <value>Idle</value>
+  </data>
+  <data name="lblE1_Ax16_ID.Text" xml:space="preserve">
+    <value>ID : 00</value>
+  </data>
+  <data name="lblE1_Ax16_Op.Text" xml:space="preserve">
+    <value>Idle</value>
+  </data>
+  <data name="lblE1_Ax17_ID.Text" xml:space="preserve">
+    <value>ID : 00</value>
+  </data>
+  <data name="lblE1_Ax17_Op.Text" xml:space="preserve">
+    <value>Idle</value>
+  </data>
+  <data name="lblE1_Ax18_ID.Text" xml:space="preserve">
+    <value>ID : 00</value>
+  </data>
+  <data name="lblE1_Ax18_Op.Text" xml:space="preserve">
+    <value>Idle</value>
+  </data>
+  <data name="lblE1_Ax19_ID.Text" xml:space="preserve">
+    <value>ID : 00</value>
+  </data>
+  <data name="lblE1_Ax19_Op.Text" xml:space="preserve">
+    <value>Idle</value>
+  </data>
+  <data name="lblE1_Ax1_ID.Text" xml:space="preserve">
+    <value>ID : 00</value>
+  </data>
+  <data name="lblE1_Ax1_Op.Text" xml:space="preserve">
+    <value>Idle</value>
+  </data>
+  <data name="lblE1_Ax20_ID.Text" xml:space="preserve">
+    <value>ID : 00</value>
+  </data>
+  <data name="lblE1_Ax20_Op.Text" xml:space="preserve">
+    <value>Idle</value>
+  </data>
+  <data name="lblE1_Ax21_ID.Text" xml:space="preserve">
+    <value>ID : 00</value>
+  </data>
+  <data name="lblE1_Ax21_Op.Text" xml:space="preserve">
+    <value>Idle</value>
+  </data>
+  <data name="lblE1_Ax22_ID.Text" xml:space="preserve">
+    <value>ID : 00</value>
+  </data>
+  <data name="lblE1_Ax22_Op.Text" xml:space="preserve">
+    <value>Idle</value>
+  </data>
+  <data name="lblE1_Ax23_ID.Text" xml:space="preserve">
+    <value>ID : 00</value>
+  </data>
+  <data name="lblE1_Ax23_Op.Text" xml:space="preserve">
+    <value>Idle</value>
+  </data>
+  <data name="lblE1_Ax24_ID.Text" xml:space="preserve">
+    <value>ID : 00</value>
+  </data>
+  <data name="lblE1_Ax24_Op.Text" xml:space="preserve">
+    <value>Idle</value>
+  </data>
+  <data name="lblE1_Ax2_ID.Text" xml:space="preserve">
+    <value>ID : 00</value>
+  </data>
+  <data name="lblE1_Ax2_Op.Text" xml:space="preserve">
+    <value>Idle</value>
+  </data>
+  <data name="lblE1_Ax3_ID.Text" xml:space="preserve">
+    <value>ID : 00</value>
+  </data>
+  <data name="lblE1_Ax3_Op.Text" xml:space="preserve">
+    <value>Idle</value>
+  </data>
+  <data name="lblE1_Ax4_ID.Text" xml:space="preserve">
+    <value>ID : 00</value>
+  </data>
+  <data name="lblE1_Ax4_Op.Text" xml:space="preserve">
+    <value>Idle</value>
+  </data>
+  <data name="lblE1_Ax5_ID.Text" xml:space="preserve">
+    <value>ID : 00</value>
+  </data>
+  <data name="lblE1_Ax5_Op.Text" xml:space="preserve">
+    <value>Idle</value>
+  </data>
+  <data name="lblE1_Ax6_ID.Text" xml:space="preserve">
+    <value>ID : 00</value>
+  </data>
+  <data name="lblE1_Ax6_Op.Text" xml:space="preserve">
+    <value>Idle</value>
+  </data>
+  <data name="lblE1_Ax7_ID.Text" xml:space="preserve">
+    <value>ID : 00</value>
+  </data>
+  <data name="lblE1_Ax7_Op.Text" xml:space="preserve">
+    <value>Idle</value>
+  </data>
+  <data name="lblE1_Ax8_ID.Text" xml:space="preserve">
+    <value>ID : 00</value>
+  </data>
+  <data name="lblE1_Ax8_Op.Text" xml:space="preserve">
+    <value>Idle</value>
+  </data>
+  <data name="lblE1_Ax9_ID.Text" xml:space="preserve">
+    <value>ID : 00</value>
+  </data>
+  <data name="lblE1_Ax9_Op.Text" xml:space="preserve">
+    <value>Idle</value>
+  </data>
+  <data name="lblE1_ComStat.Text" xml:space="preserve">
+    <value>Offline</value>
+  </data>
+  <data name="lblE1_EngStat.Text" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+</root>

@@ -1,0 +1,1945 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="ckbDry_IOOn.Appearance" type="System.Windows.Forms.Appearance, System.Windows.Forms">
+    <value>Button</value>
+  </data>
+  <data name="ckbDry_IOOn.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="ckbDry_IOOn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 11pt</value>
+  </data>
+  <data name="ckbDry_IOOn.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
+  </data>
+  <data name="ckbDry_IOOn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbDry_IOOn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>165, 535</value>
+  </data>
+  <data name="ckbDry_IOOn.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="ckbDry_IOOn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 100</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="ckbDry_IOOn.TabIndex" type="System.Int32, mscorlib">
+    <value>348</value>
+  </data>
+  <data name="ckbDry_IOOn.Text" xml:space="preserve">
+    <value>IONAZER
+ON</value>
+  </data>
+  <data name="ckbDry_IOOn.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomRight</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_IOOn.Name" xml:space="preserve">
+    <value>ckbDry_IOOn</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_IOOn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_IOOn.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_IOOn.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="btn_DryWork.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn_DryWork.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 11pt</value>
+  </data>
+  <data name="btn_DryWork.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="btn_DryWork.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_DryWork.Location" type="System.Drawing.Point, System.Drawing">
+    <value>630, 115</value>
+  </data>
+  <data name="btn_DryWork.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="btn_DryWork.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>10, 5, 5, 0</value>
+  </data>
+  <data name="btn_DryWork.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 100</value>
+  </data>
+  <data name="btn_DryWork.TabIndex" type="System.Int32, mscorlib">
+    <value>347</value>
+  </data>
+  <data name="btn_DryWork.Text" xml:space="preserve">
+    <value>[72]DRY WORK</value>
+  </data>
+  <data name="btn_DryWork.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomRight</value>
+  </data>
+  <data name="&gt;&gt;btn_DryWork.Name" xml:space="preserve">
+    <value>btn_DryWork</value>
+  </data>
+  <data name="&gt;&gt;btn_DryWork.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_DryWork.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_DryWork.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="ckbDry_Flow.Appearance" type="System.Windows.Forms.Appearance, System.Windows.Forms">
+    <value>Button</value>
+  </data>
+  <data name="ckbDry_Flow.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="ckbDry_Flow.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 11pt</value>
+  </data>
+  <data name="ckbDry_Flow.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
+  </data>
+  <data name="ckbDry_Flow.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbDry_Flow.Location" type="System.Drawing.Point, System.Drawing">
+    <value>165, 431</value>
+  </data>
+  <data name="ckbDry_Flow.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="ckbDry_Flow.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 100</value>
+  </data>
+  <data name="ckbDry_Flow.TabIndex" type="System.Int32, mscorlib">
+    <value>346</value>
+  </data>
+  <data name="ckbDry_Flow.Text" xml:space="preserve">
+    <value>BOTTOM
+CLEAN
+WATER OFF</value>
+  </data>
+  <data name="ckbDry_Flow.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomRight</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_Flow.Name" xml:space="preserve">
+    <value>ckbDry_Flow</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_Flow.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_Flow.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_Flow.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="ckbDry_Stick.Appearance" type="System.Windows.Forms.Appearance, System.Windows.Forms">
+    <value>Button</value>
+  </data>
+  <data name="ckbDry_Stick.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="ckbDry_Stick.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 11pt</value>
+  </data>
+  <data name="ckbDry_Stick.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
+  </data>
+  <data name="ckbDry_Stick.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbDry_Stick.Location" type="System.Drawing.Point, System.Drawing">
+    <value>165, 325</value>
+  </data>
+  <data name="ckbDry_Stick.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="ckbDry_Stick.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 100</value>
+  </data>
+  <data name="ckbDry_Stick.TabIndex" type="System.Int32, mscorlib">
+    <value>345</value>
+  </data>
+  <data name="ckbDry_Stick.Text" xml:space="preserve">
+    <value>STANDBY
+POSITION</value>
+  </data>
+  <data name="ckbDry_Stick.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomRight</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_Stick.Name" xml:space="preserve">
+    <value>ckbDry_Stick</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_Stick.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_Stick.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_Stick.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="ckbDry_Btm.Appearance" type="System.Windows.Forms.Appearance, System.Windows.Forms">
+    <value>Button</value>
+  </data>
+  <data name="ckbDry_Btm.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="ckbDry_Btm.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 11pt</value>
+  </data>
+  <data name="ckbDry_Btm.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
+  </data>
+  <data name="ckbDry_Btm.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbDry_Btm.Location" type="System.Drawing.Point, System.Drawing">
+    <value>165, 220</value>
+  </data>
+  <data name="ckbDry_Btm.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="ckbDry_Btm.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 100</value>
+  </data>
+  <data name="ckbDry_Btm.TabIndex" type="System.Int32, mscorlib">
+    <value>344</value>
+  </data>
+  <data name="ckbDry_Btm.Text" xml:space="preserve">
+    <value>BOTTOM
+AIR BLOW
+OFF</value>
+  </data>
+  <data name="ckbDry_Btm.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomRight</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_Btm.Name" xml:space="preserve">
+    <value>ckbDry_Btm</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_Btm.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_Btm.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_Btm.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="ckbDry_Top.Appearance" type="System.Windows.Forms.Appearance, System.Windows.Forms">
+    <value>Button</value>
+  </data>
+  <data name="ckbDry_Top.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="ckbDry_Top.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 11pt</value>
+  </data>
+  <data name="ckbDry_Top.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
+  </data>
+  <data name="ckbDry_Top.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbDry_Top.Location" type="System.Drawing.Point, System.Drawing">
+    <value>165, 115</value>
+  </data>
+  <data name="ckbDry_Top.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="ckbDry_Top.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 100</value>
+  </data>
+  <data name="ckbDry_Top.TabIndex" type="System.Int32, mscorlib">
+    <value>343</value>
+  </data>
+  <data name="ckbDry_Top.Text" xml:space="preserve">
+    <value>TOP
+AIR BLOW
+OFF</value>
+  </data>
+  <data name="ckbDry_Top.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomRight</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_Top.Name" xml:space="preserve">
+    <value>ckbDry_Top</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_Top.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_Top.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_Top.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="lblDry_ZPos.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lblDry_ZPos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblDry_ZPos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 65</value>
+  </data>
+  <data name="lblDry_ZPos.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="lblDry_ZPos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>138, 25</value>
+  </data>
+  <data name="lblDry_ZPos.TabIndex" type="System.Int32, mscorlib">
+    <value>304</value>
+  </data>
+  <data name="lblDry_ZPos.Text" xml:space="preserve">
+    <value>000.000</value>
+  </data>
+  <data name="lblDry_ZPos.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblDry_ZPos.Name" xml:space="preserve">
+    <value>lblDry_ZPos</value>
+  </data>
+  <data name="&gt;&gt;lblDry_ZPos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblDry_ZPos.Parent" xml:space="preserve">
+    <value>panel17</value>
+  </data>
+  <data name="&gt;&gt;lblDry_ZPos.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label35.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label35.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label35.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 45</value>
+  </data>
+  <data name="label35.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="label35.Size" type="System.Drawing.Size, System.Drawing">
+    <value>138, 20</value>
+  </data>
+  <data name="label35.TabIndex" type="System.Int32, mscorlib">
+    <value>303</value>
+  </data>
+  <data name="label35.Text" xml:space="preserve">
+    <value>Position [mm]</value>
+  </data>
+  <data name="label35.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;label35.Name" xml:space="preserve">
+    <value>label35</value>
+  </data>
+  <data name="&gt;&gt;label35.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label35.Parent" xml:space="preserve">
+    <value>panel17</value>
+  </data>
+  <data name="&gt;&gt;label35.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lbl_ZStat.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt, style=Bold</value>
+  </data>
+  <data name="lbl_ZStat.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_ZStat.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 5</value>
+  </data>
+  <data name="lbl_ZStat.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="lbl_ZStat.Size" type="System.Drawing.Size, System.Drawing">
+    <value>138, 35</value>
+  </data>
+  <data name="lbl_ZStat.TabIndex" type="System.Int32, mscorlib">
+    <value>302</value>
+  </data>
+  <data name="lbl_ZStat.Text" xml:space="preserve">
+    <value>Z AXIS</value>
+  </data>
+  <data name="lbl_ZStat.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_ZStat.Name" xml:space="preserve">
+    <value>lbl_ZStat</value>
+  </data>
+  <data name="&gt;&gt;lbl_ZStat.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_ZStat.Parent" xml:space="preserve">
+    <value>panel17</value>
+  </data>
+  <data name="&gt;&gt;lbl_ZStat.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="panel17.Location" type="System.Drawing.Point, System.Drawing">
+    <value>475, 10</value>
+  </data>
+  <data name="panel17.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>10, 10, 0, 0</value>
+  </data>
+  <data name="panel17.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 100</value>
+  </data>
+  <data name="panel17.TabIndex" type="System.Int32, mscorlib">
+    <value>342</value>
+  </data>
+  <data name="&gt;&gt;panel17.Name" xml:space="preserve">
+    <value>panel17</value>
+  </data>
+  <data name="&gt;&gt;panel17.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel17.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel17.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="lblDry_RPos.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lblDry_RPos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblDry_RPos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 65</value>
+  </data>
+  <data name="lblDry_RPos.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="lblDry_RPos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>138, 25</value>
+  </data>
+  <data name="lblDry_RPos.TabIndex" type="System.Int32, mscorlib">
+    <value>304</value>
+  </data>
+  <data name="lblDry_RPos.Text" xml:space="preserve">
+    <value>000.000</value>
+  </data>
+  <data name="lblDry_RPos.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblDry_RPos.Name" xml:space="preserve">
+    <value>lblDry_RPos</value>
+  </data>
+  <data name="&gt;&gt;lblDry_RPos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblDry_RPos.Parent" xml:space="preserve">
+    <value>panel15</value>
+  </data>
+  <data name="&gt;&gt;lblDry_RPos.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lbl_RUnit.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="lbl_RUnit.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_RUnit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 45</value>
+  </data>
+  <data name="lbl_RUnit.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="lbl_RUnit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>138, 20</value>
+  </data>
+  <data name="lbl_RUnit.TabIndex" type="System.Int32, mscorlib">
+    <value>303</value>
+  </data>
+  <data name="lbl_RUnit.Text" xml:space="preserve">
+    <value>Degree [deg]</value>
+  </data>
+  <data name="lbl_RUnit.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;lbl_RUnit.Name" xml:space="preserve">
+    <value>lbl_RUnit</value>
+  </data>
+  <data name="&gt;&gt;lbl_RUnit.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_RUnit.Parent" xml:space="preserve">
+    <value>panel15</value>
+  </data>
+  <data name="&gt;&gt;lbl_RUnit.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lbl_RStat.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt, style=Bold</value>
+  </data>
+  <data name="lbl_RStat.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_RStat.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 5</value>
+  </data>
+  <data name="lbl_RStat.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="lbl_RStat.Size" type="System.Drawing.Size, System.Drawing">
+    <value>138, 35</value>
+  </data>
+  <data name="lbl_RStat.TabIndex" type="System.Int32, mscorlib">
+    <value>302</value>
+  </data>
+  <data name="lbl_RStat.Text" xml:space="preserve">
+    <value>ROTATE</value>
+  </data>
+  <data name="lbl_RStat.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_RStat.Name" xml:space="preserve">
+    <value>lbl_RStat</value>
+  </data>
+  <data name="&gt;&gt;lbl_RStat.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_RStat.Parent" xml:space="preserve">
+    <value>panel15</value>
+  </data>
+  <data name="&gt;&gt;lbl_RStat.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="panel15.Location" type="System.Drawing.Point, System.Drawing">
+    <value>630, 10</value>
+  </data>
+  <data name="panel15.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>10, 10, 0, 0</value>
+  </data>
+  <data name="panel15.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 100</value>
+  </data>
+  <data name="panel15.TabIndex" type="System.Int32, mscorlib">
+    <value>341</value>
+  </data>
+  <data name="&gt;&gt;panel15.Name" xml:space="preserve">
+    <value>panel15</value>
+  </data>
+  <data name="&gt;&gt;panel15.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel15.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel15.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <data name="lblDry_XPos.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lblDry_XPos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblDry_XPos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 65</value>
+  </data>
+  <data name="lblDry_XPos.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="lblDry_XPos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>138, 25</value>
+  </data>
+  <data name="lblDry_XPos.TabIndex" type="System.Int32, mscorlib">
+    <value>304</value>
+  </data>
+  <data name="lblDry_XPos.Text" xml:space="preserve">
+    <value>000.000</value>
+  </data>
+  <data name="lblDry_XPos.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblDry_XPos.Name" xml:space="preserve">
+    <value>lblDry_XPos</value>
+  </data>
+  <data name="&gt;&gt;lblDry_XPos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblDry_XPos.Parent" xml:space="preserve">
+    <value>panel18</value>
+  </data>
+  <data name="&gt;&gt;lblDry_XPos.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label40.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label40.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label40.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 45</value>
+  </data>
+  <data name="label40.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="label40.Size" type="System.Drawing.Size, System.Drawing">
+    <value>138, 20</value>
+  </data>
+  <data name="label40.TabIndex" type="System.Int32, mscorlib">
+    <value>303</value>
+  </data>
+  <data name="label40.Text" xml:space="preserve">
+    <value>Position [mm]</value>
+  </data>
+  <data name="label40.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;label40.Name" xml:space="preserve">
+    <value>label40</value>
+  </data>
+  <data name="&gt;&gt;label40.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label40.Parent" xml:space="preserve">
+    <value>panel18</value>
+  </data>
+  <data name="&gt;&gt;label40.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lbl_XStat.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt, style=Bold</value>
+  </data>
+  <data name="lbl_XStat.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_XStat.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 5</value>
+  </data>
+  <data name="lbl_XStat.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="lbl_XStat.Size" type="System.Drawing.Size, System.Drawing">
+    <value>138, 35</value>
+  </data>
+  <data name="lbl_XStat.TabIndex" type="System.Int32, mscorlib">
+    <value>302</value>
+  </data>
+  <data name="lbl_XStat.Text" xml:space="preserve">
+    <value>X AXIS</value>
+  </data>
+  <data name="lbl_XStat.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_XStat.Name" xml:space="preserve">
+    <value>lbl_XStat</value>
+  </data>
+  <data name="&gt;&gt;lbl_XStat.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_XStat.Parent" xml:space="preserve">
+    <value>panel18</value>
+  </data>
+  <data name="&gt;&gt;lbl_XStat.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="panel18.Location" type="System.Drawing.Point, System.Drawing">
+    <value>320, 10</value>
+  </data>
+  <data name="panel18.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>10, 10, 0, 0</value>
+  </data>
+  <data name="panel18.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 100</value>
+  </data>
+  <data name="panel18.TabIndex" type="System.Int32, mscorlib">
+    <value>340</value>
+  </data>
+  <data name="&gt;&gt;panel18.Name" xml:space="preserve">
+    <value>panel18</value>
+  </data>
+  <data name="&gt;&gt;panel18.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel18.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel18.ZOrder" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <data name="btn_StripOut.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn_StripOut.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 11pt</value>
+  </data>
+  <data name="btn_StripOut.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="btn_StripOut.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_StripOut.Location" type="System.Drawing.Point, System.Drawing">
+    <value>475, 220</value>
+  </data>
+  <data name="btn_StripOut.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="btn_StripOut.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>10, 5, 5, 0</value>
+  </data>
+  <data name="btn_StripOut.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 100</value>
+  </data>
+  <data name="btn_StripOut.TabIndex" type="System.Int32, mscorlib">
+    <value>338</value>
+  </data>
+  <data name="btn_StripOut.Text" xml:space="preserve">
+    <value>[73]STRIP
+OUT</value>
+  </data>
+  <data name="btn_StripOut.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomRight</value>
+  </data>
+  <data name="&gt;&gt;btn_StripOut.Name" xml:space="preserve">
+    <value>btn_StripOut</value>
+  </data>
+  <data name="&gt;&gt;btn_StripOut.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_StripOut.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_StripOut.ZOrder" xml:space="preserve">
+    <value>23</value>
+  </data>
+  <data name="btn_CkSafty.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn_CkSafty.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 11pt</value>
+  </data>
+  <data name="btn_CkSafty.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="btn_CkSafty.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_CkSafty.Location" type="System.Drawing.Point, System.Drawing">
+    <value>475, 115</value>
+  </data>
+  <data name="btn_CkSafty.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="btn_CkSafty.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>10, 5, 5, 0</value>
+  </data>
+  <data name="btn_CkSafty.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 100</value>
+  </data>
+  <data name="btn_CkSafty.TabIndex" type="System.Int32, mscorlib">
+    <value>337</value>
+  </data>
+  <data name="btn_CkSafty.Text" xml:space="preserve">
+    <value>[71]CHECK
+SAFTY
+SENSOR</value>
+  </data>
+  <data name="btn_CkSafty.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomRight</value>
+  </data>
+  <data name="&gt;&gt;btn_CkSafty.Name" xml:space="preserve">
+    <value>btn_CkSafty</value>
+  </data>
+  <data name="&gt;&gt;btn_CkSafty.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_CkSafty.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_CkSafty.ZOrder" xml:space="preserve">
+    <value>24</value>
+  </data>
+  <data name="lblDry_BtmFlow.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lblDry_BtmFlow.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblDry_BtmFlow.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 595</value>
+  </data>
+  <data name="lblDry_BtmFlow.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="lblDry_BtmFlow.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="lblDry_BtmFlow.TabIndex" type="System.Int32, mscorlib">
+    <value>336</value>
+  </data>
+  <data name="lblDry_BtmFlow.Text" xml:space="preserve">
+    <value>Bottom Cleaner
+Flow Off</value>
+  </data>
+  <data name="lblDry_BtmFlow.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblDry_BtmFlow.Name" xml:space="preserve">
+    <value>lblDry_BtmFlow</value>
+  </data>
+  <data name="&gt;&gt;lblDry_BtmFlow.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblDry_BtmFlow.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblDry_BtmFlow.ZOrder" xml:space="preserve">
+    <value>27</value>
+  </data>
+  <data name="lbl_BtmTarget.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_BtmTarget.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_BtmTarget.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 355</value>
+  </data>
+  <data name="lbl_BtmTarget.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="lbl_BtmTarget.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="lbl_BtmTarget.TabIndex" type="System.Int32, mscorlib">
+    <value>335</value>
+  </data>
+  <data name="lbl_BtmTarget.Text" xml:space="preserve">
+    <value>Bottom Air Blow
+Target Position Off</value>
+  </data>
+  <data name="lbl_BtmTarget.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_BtmTarget.Name" xml:space="preserve">
+    <value>lbl_BtmTarget</value>
+  </data>
+  <data name="&gt;&gt;lbl_BtmTarget.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_BtmTarget.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_BtmTarget.ZOrder" xml:space="preserve">
+    <value>28</value>
+  </data>
+  <data name="lbl_BtmStandby.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_BtmStandby.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_BtmStandby.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 307</value>
+  </data>
+  <data name="lbl_BtmStandby.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="lbl_BtmStandby.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="lbl_BtmStandby.TabIndex" type="System.Int32, mscorlib">
+    <value>334</value>
+  </data>
+  <data name="lbl_BtmStandby.Text" xml:space="preserve">
+    <value>Bottom Air Blow
+Standby Position Off</value>
+  </data>
+  <data name="lbl_BtmStandby.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_BtmStandby.Name" xml:space="preserve">
+    <value>lbl_BtmStandby</value>
+  </data>
+  <data name="&gt;&gt;lbl_BtmStandby.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_BtmStandby.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_BtmStandby.ZOrder" xml:space="preserve">
+    <value>29</value>
+  </data>
+  <data name="lbl_Lv2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_Lv2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_Lv2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 259</value>
+  </data>
+  <data name="lbl_Lv2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="lbl_Lv2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="lbl_Lv2.TabIndex" type="System.Int32, mscorlib">
+    <value>333</value>
+  </data>
+  <data name="lbl_Lv2.Text" xml:space="preserve">
+    <value>Level Safety #2
+Off</value>
+  </data>
+  <data name="lbl_Lv2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_Lv2.Name" xml:space="preserve">
+    <value>lbl_Lv2</value>
+  </data>
+  <data name="&gt;&gt;lbl_Lv2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_Lv2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_Lv2.ZOrder" xml:space="preserve">
+    <value>30</value>
+  </data>
+  <data name="lbl_Lv1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_Lv1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_Lv1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 211</value>
+  </data>
+  <data name="lbl_Lv1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="lbl_Lv1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="lbl_Lv1.TabIndex" type="System.Int32, mscorlib">
+    <value>332</value>
+  </data>
+  <data name="lbl_Lv1.Text" xml:space="preserve">
+    <value>Level Safety #1
+Off</value>
+  </data>
+  <data name="lbl_Lv1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_Lv1.Name" xml:space="preserve">
+    <value>lbl_Lv1</value>
+  </data>
+  <data name="&gt;&gt;lbl_Lv1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_Lv1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_Lv1.ZOrder" xml:space="preserve">
+    <value>31</value>
+  </data>
+  <data name="lblDry_StpOutD.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lblDry_StpOutD.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblDry_StpOutD.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 163</value>
+  </data>
+  <data name="lblDry_StpOutD.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="lblDry_StpOutD.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="lblDry_StpOutD.TabIndex" type="System.Int32, mscorlib">
+    <value>331</value>
+  </data>
+  <data name="lblDry_StpOutD.Text" xml:space="preserve">
+    <value>Strip Out
+Detect Off</value>
+  </data>
+  <data name="lblDry_StpOutD.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblDry_StpOutD.Name" xml:space="preserve">
+    <value>lblDry_StpOutD</value>
+  </data>
+  <data name="&gt;&gt;lblDry_StpOutD.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblDry_StpOutD.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblDry_StpOutD.ZOrder" xml:space="preserve">
+    <value>32</value>
+  </data>
+  <data name="lblDry_PushO.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lblDry_PushO.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblDry_PushO.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 115</value>
+  </data>
+  <data name="lblDry_PushO.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="lblDry_PushO.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="lblDry_PushO.TabIndex" type="System.Int32, mscorlib">
+    <value>330</value>
+  </data>
+  <data name="lblDry_PushO.Text" xml:space="preserve">
+    <value>Pusher
+Overload Off</value>
+  </data>
+  <data name="lblDry_PushO.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblDry_PushO.Name" xml:space="preserve">
+    <value>lblDry_PushO</value>
+  </data>
+  <data name="&gt;&gt;lblDry_PushO.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblDry_PushO.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblDry_PushO.ZOrder" xml:space="preserve">
+    <value>33</value>
+  </data>
+  <data name="btn_Stop.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn_Stop.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 11pt</value>
+  </data>
+  <data name="btn_Stop.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
+  </data>
+  <data name="btn_Stop.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_Stop.Location" type="System.Drawing.Point, System.Drawing">
+    <value>785, 10</value>
+  </data>
+  <data name="btn_Stop.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="btn_Stop.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 0</value>
+  </data>
+  <data name="btn_Stop.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 100</value>
+  </data>
+  <data name="btn_Stop.TabIndex" type="System.Int32, mscorlib">
+    <value>339</value>
+  </data>
+  <data name="btn_Stop.Text" xml:space="preserve">
+    <value>STOP</value>
+  </data>
+  <data name="btn_Stop.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomRight</value>
+  </data>
+  <data name="&gt;&gt;btn_Stop.Name" xml:space="preserve">
+    <value>btn_Stop</value>
+  </data>
+  <data name="&gt;&gt;btn_Stop.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_Stop.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_Stop.ZOrder" xml:space="preserve">
+    <value>34</value>
+  </data>
+  <data name="btn_Home.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn_Home.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 11pt</value>
+  </data>
+  <data name="btn_Home.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
+  </data>
+  <data name="btn_Home.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_Home.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 10</value>
+  </data>
+  <data name="btn_Home.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="btn_Home.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 0</value>
+  </data>
+  <data name="btn_Home.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 100</value>
+  </data>
+  <data name="btn_Home.TabIndex" type="System.Int32, mscorlib">
+    <value>329</value>
+  </data>
+  <data name="btn_Home.Text" xml:space="preserve">
+    <value>HOME</value>
+  </data>
+  <data name="btn_Home.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomRight</value>
+  </data>
+  <data name="&gt;&gt;btn_Home.Name" xml:space="preserve">
+    <value>btn_Home</value>
+  </data>
+  <data name="&gt;&gt;btn_Home.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_Home.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_Home.ZOrder" xml:space="preserve">
+    <value>35</value>
+  </data>
+  <data name="btn_Wait.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn_Wait.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 11pt</value>
+  </data>
+  <data name="btn_Wait.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
+  </data>
+  <data name="btn_Wait.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_Wait.Location" type="System.Drawing.Point, System.Drawing">
+    <value>165, 10</value>
+  </data>
+  <data name="btn_Wait.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="btn_Wait.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 0</value>
+  </data>
+  <data name="btn_Wait.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 100</value>
+  </data>
+  <data name="btn_Wait.TabIndex" type="System.Int32, mscorlib">
+    <value>328</value>
+  </data>
+  <data name="btn_Wait.Text" xml:space="preserve">
+    <value>WAIT
+POSITION</value>
+  </data>
+  <data name="btn_Wait.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomRight</value>
+  </data>
+  <data name="&gt;&gt;btn_Wait.Name" xml:space="preserve">
+    <value>btn_Wait</value>
+  </data>
+  <data name="&gt;&gt;btn_Wait.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_Wait.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_Wait.ZOrder" xml:space="preserve">
+    <value>36</value>
+  </data>
+  <data name="lbl_Unit4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_Unit4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_Unit4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 850</value>
+  </data>
+  <data name="lbl_Unit4.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="lbl_Unit4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 30</value>
+  </data>
+  <data name="lbl_Unit4.TabIndex" type="System.Int32, mscorlib">
+    <value>368</value>
+  </data>
+  <data name="lbl_Unit4.Text" xml:space="preserve">
+    <value>Unit #4</value>
+  </data>
+  <data name="lbl_Unit4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="lbl_Unit4.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;lbl_Unit4.Name" xml:space="preserve">
+    <value>lbl_Unit4</value>
+  </data>
+  <data name="&gt;&gt;lbl_Unit4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_Unit4.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_Unit4.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="lbl_Unit3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_Unit3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_Unit3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 816</value>
+  </data>
+  <data name="lbl_Unit3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="lbl_Unit3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 30</value>
+  </data>
+  <data name="lbl_Unit3.TabIndex" type="System.Int32, mscorlib">
+    <value>367</value>
+  </data>
+  <data name="lbl_Unit3.Text" xml:space="preserve">
+    <value>Unit #3</value>
+  </data>
+  <data name="lbl_Unit3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="lbl_Unit3.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;lbl_Unit3.Name" xml:space="preserve">
+    <value>lbl_Unit3</value>
+  </data>
+  <data name="&gt;&gt;lbl_Unit3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_Unit3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_Unit3.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="lbl_Unit2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_Unit2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_Unit2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 782</value>
+  </data>
+  <data name="lbl_Unit2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="lbl_Unit2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 30</value>
+  </data>
+  <data name="lbl_Unit2.TabIndex" type="System.Int32, mscorlib">
+    <value>366</value>
+  </data>
+  <data name="lbl_Unit2.Text" xml:space="preserve">
+    <value>Unit #2</value>
+  </data>
+  <data name="lbl_Unit2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="lbl_Unit2.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;lbl_Unit2.Name" xml:space="preserve">
+    <value>lbl_Unit2</value>
+  </data>
+  <data name="&gt;&gt;lbl_Unit2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_Unit2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_Unit2.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="lbl_Unit1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_Unit1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_Unit1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 748</value>
+  </data>
+  <data name="lbl_Unit1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="lbl_Unit1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 30</value>
+  </data>
+  <data name="lbl_Unit1.TabIndex" type="System.Int32, mscorlib">
+    <value>365</value>
+  </data>
+  <data name="lbl_Unit1.Text" xml:space="preserve">
+    <value>Unit #1</value>
+  </data>
+  <data name="lbl_Unit1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="lbl_Unit1.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;lbl_Unit1.Name" xml:space="preserve">
+    <value>lbl_Unit1</value>
+  </data>
+  <data name="&gt;&gt;lbl_Unit1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_Unit1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_Unit1.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="btn_WaterNozzle.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn_WaterNozzle.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 11pt</value>
+  </data>
+  <data name="btn_WaterNozzle.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="btn_WaterNozzle.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_WaterNozzle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>475, 325</value>
+  </data>
+  <data name="btn_WaterNozzle.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="btn_WaterNozzle.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>10, 5, 5, 0</value>
+  </data>
+  <data name="btn_WaterNozzle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 100</value>
+  </data>
+  <data name="btn_WaterNozzle.TabIndex" type="System.Int32, mscorlib">
+    <value>370</value>
+  </data>
+  <data name="btn_WaterNozzle.Text" xml:space="preserve">
+    <value>WATER NOZZLE</value>
+  </data>
+  <data name="btn_WaterNozzle.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomRight</value>
+  </data>
+  <data name="&gt;&gt;btn_WaterNozzle.Name" xml:space="preserve">
+    <value>btn_WaterNozzle</value>
+  </data>
+  <data name="&gt;&gt;btn_WaterNozzle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_WaterNozzle.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_WaterNozzle.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="ckbDry_BtmClnNzlMove.Appearance" type="System.Windows.Forms.Appearance, System.Windows.Forms">
+    <value>Button</value>
+  </data>
+  <data name="ckbDry_BtmClnNzlMove.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="ckbDry_BtmClnNzlMove.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 11pt</value>
+  </data>
+  <data name="ckbDry_BtmClnNzlMove.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
+  </data>
+  <data name="ckbDry_BtmClnNzlMove.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbDry_BtmClnNzlMove.Location" type="System.Drawing.Point, System.Drawing">
+    <value>165, 640</value>
+  </data>
+  <data name="ckbDry_BtmClnNzlMove.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="ckbDry_BtmClnNzlMove.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 100</value>
+  </data>
+  <data name="ckbDry_BtmClnNzlMove.TabIndex" type="System.Int32, mscorlib">
+    <value>371</value>
+  </data>
+  <data name="ckbDry_BtmClnNzlMove.Text" xml:space="preserve">
+    <value>BOTTOM
+CLEAN
+NOZZLE FORWARD
+</value>
+  </data>
+  <data name="ckbDry_BtmClnNzlMove.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomRight</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_BtmClnNzlMove.Name" xml:space="preserve">
+    <value>ckbDry_BtmClnNzlMove</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_BtmClnNzlMove.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_BtmClnNzlMove.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_BtmClnNzlMove.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="ckbDry_BtmClnAirBlow.Appearance" type="System.Windows.Forms.Appearance, System.Windows.Forms">
+    <value>Button</value>
+  </data>
+  <data name="ckbDry_BtmClnAirBlow.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="ckbDry_BtmClnAirBlow.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 11pt</value>
+  </data>
+  <data name="ckbDry_BtmClnAirBlow.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
+  </data>
+  <data name="ckbDry_BtmClnAirBlow.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbDry_BtmClnAirBlow.Location" type="System.Drawing.Point, System.Drawing">
+    <value>165, 745</value>
+  </data>
+  <data name="ckbDry_BtmClnAirBlow.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="ckbDry_BtmClnAirBlow.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 100</value>
+  </data>
+  <data name="ckbDry_BtmClnAirBlow.TabIndex" type="System.Int32, mscorlib">
+    <value>372</value>
+  </data>
+  <data name="ckbDry_BtmClnAirBlow.Text" xml:space="preserve">
+    <value>BOTTOM CLEAN
+AIR BLOW
+OFF</value>
+  </data>
+  <data name="ckbDry_BtmClnAirBlow.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomRight</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_BtmClnAirBlow.Name" xml:space="preserve">
+    <value>ckbDry_BtmClnAirBlow</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_BtmClnAirBlow.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_BtmClnAirBlow.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_BtmClnAirBlow.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="lblDry_BtmClnNzlForward.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lblDry_BtmClnNzlForward.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblDry_BtmClnNzlForward.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 643</value>
+  </data>
+  <data name="lblDry_BtmClnNzlForward.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="lblDry_BtmClnNzlForward.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="lblDry_BtmClnNzlForward.TabIndex" type="System.Int32, mscorlib">
+    <value>336</value>
+  </data>
+  <data name="lblDry_BtmClnNzlForward.Text" xml:space="preserve">
+    <value>Bottom Cleaner Nozzle Forward Off</value>
+  </data>
+  <data name="lblDry_BtmClnNzlForward.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblDry_BtmClnNzlForward.Name" xml:space="preserve">
+    <value>lblDry_BtmClnNzlForward</value>
+  </data>
+  <data name="&gt;&gt;lblDry_BtmClnNzlForward.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblDry_BtmClnNzlForward.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblDry_BtmClnNzlForward.ZOrder" xml:space="preserve">
+    <value>26</value>
+  </data>
+  <data name="lblDry_BtmClnNzlBackward.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lblDry_BtmClnNzlBackward.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblDry_BtmClnNzlBackward.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 691</value>
+  </data>
+  <data name="lblDry_BtmClnNzlBackward.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="lblDry_BtmClnNzlBackward.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="lblDry_BtmClnNzlBackward.TabIndex" type="System.Int32, mscorlib">
+    <value>336</value>
+  </data>
+  <data name="lblDry_BtmClnNzlBackward.Text" xml:space="preserve">
+    <value>Bottom Cleaner Nozzle Backward Off</value>
+  </data>
+  <data name="lblDry_BtmClnNzlBackward.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblDry_BtmClnNzlBackward.Name" xml:space="preserve">
+    <value>lblDry_BtmClnNzlBackward</value>
+  </data>
+  <data name="&gt;&gt;lblDry_BtmClnNzlBackward.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblDry_BtmClnNzlBackward.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblDry_BtmClnNzlBackward.ZOrder" xml:space="preserve">
+    <value>25</value>
+  </data>
+  <data name="ckbDry_LevelAirBlow.Appearance" type="System.Windows.Forms.Appearance, System.Windows.Forms">
+    <value>Button</value>
+  </data>
+  <data name="ckbDry_LevelAirBlow.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="ckbDry_LevelAirBlow.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 11pt</value>
+  </data>
+  <data name="ckbDry_LevelAirBlow.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
+  </data>
+  <data name="ckbDry_LevelAirBlow.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbDry_LevelAirBlow.Location" type="System.Drawing.Point, System.Drawing">
+    <value>321, 431</value>
+  </data>
+  <data name="ckbDry_LevelAirBlow.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="ckbDry_LevelAirBlow.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 100</value>
+  </data>
+  <data name="ckbDry_LevelAirBlow.TabIndex" type="System.Int32, mscorlib">
+    <value>373</value>
+  </data>
+  <data name="ckbDry_LevelAirBlow.Text" xml:space="preserve">
+    <value>LEVEL SAFETY
+AIR BLOW
+OFF</value>
+  </data>
+  <data name="ckbDry_LevelAirBlow.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomRight</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_LevelAirBlow.Name" xml:space="preserve">
+    <value>ckbDry_LevelAirBlow</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_LevelAirBlow.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_LevelAirBlow.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ckbDry_LevelAirBlow.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="lbl_FrontClamp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_FrontClamp.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_FrontClamp.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 403</value>
+  </data>
+  <data name="lbl_FrontClamp.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="lbl_FrontClamp.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="lbl_FrontClamp.TabIndex" type="System.Int32, mscorlib">
+    <value>380</value>
+  </data>
+  <data name="lbl_FrontClamp.Text" xml:space="preserve">
+    <value>Front Strip Clamp
+Clamp Off
+</value>
+  </data>
+  <data name="lbl_FrontClamp.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_FrontClamp.Name" xml:space="preserve">
+    <value>lbl_FrontClamp</value>
+  </data>
+  <data name="&gt;&gt;lbl_FrontClamp.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_FrontClamp.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_FrontClamp.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="lbl_RearUnClamp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_RearUnClamp.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_RearUnClamp.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 547</value>
+  </data>
+  <data name="lbl_RearUnClamp.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="lbl_RearUnClamp.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="lbl_RearUnClamp.TabIndex" type="System.Int32, mscorlib">
+    <value>381</value>
+  </data>
+  <data name="lbl_RearUnClamp.Text" xml:space="preserve">
+    <value>Rear Strip Clamp
+UnClamp Off
+</value>
+  </data>
+  <data name="lbl_RearUnClamp.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_RearUnClamp.Name" xml:space="preserve">
+    <value>lbl_RearUnClamp</value>
+  </data>
+  <data name="&gt;&gt;lbl_RearUnClamp.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_RearUnClamp.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_RearUnClamp.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lbl_RearClamp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_RearClamp.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_RearClamp.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 499</value>
+  </data>
+  <data name="lbl_RearClamp.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="lbl_RearClamp.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="lbl_RearClamp.TabIndex" type="System.Int32, mscorlib">
+    <value>382</value>
+  </data>
+  <data name="lbl_RearClamp.Text" xml:space="preserve">
+    <value>Rear Strip Clamp
+Clamp Off
+</value>
+  </data>
+  <data name="lbl_RearClamp.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_RearClamp.Name" xml:space="preserve">
+    <value>lbl_RearClamp</value>
+  </data>
+  <data name="&gt;&gt;lbl_RearClamp.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_RearClamp.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_RearClamp.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lbl_FrontUnClamp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_FrontUnClamp.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_FrontUnClamp.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 451</value>
+  </data>
+  <data name="lbl_FrontUnClamp.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="lbl_FrontUnClamp.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="lbl_FrontUnClamp.TabIndex" type="System.Int32, mscorlib">
+    <value>383</value>
+  </data>
+  <data name="lbl_FrontUnClamp.Text" xml:space="preserve">
+    <value>Front Strip Clamp
+UnClamp Off
+</value>
+  </data>
+  <data name="lbl_FrontUnClamp.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_FrontUnClamp.Name" xml:space="preserve">
+    <value>lbl_FrontUnClamp</value>
+  </data>
+  <data name="&gt;&gt;lbl_FrontUnClamp.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_FrontUnClamp.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_FrontUnClamp.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="ckb_ClampOpen.Appearance" type="System.Windows.Forms.Appearance, System.Windows.Forms">
+    <value>Button</value>
+  </data>
+  <data name="ckb_ClampOpen.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="ckb_ClampOpen.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 11pt</value>
+  </data>
+  <data name="ckb_ClampOpen.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
+  </data>
+  <data name="ckb_ClampOpen.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckb_ClampOpen.Location" type="System.Drawing.Point, System.Drawing">
+    <value>321, 535</value>
+  </data>
+  <data name="ckb_ClampOpen.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="ckb_ClampOpen.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 100</value>
+  </data>
+  <data name="ckb_ClampOpen.TabIndex" type="System.Int32, mscorlib">
+    <value>384</value>
+  </data>
+  <data name="ckb_ClampOpen.Text" xml:space="preserve">
+    <value>STRIP
+CLAMP
+CLOSE</value>
+  </data>
+  <data name="ckb_ClampOpen.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomRight</value>
+  </data>
+  <data name="&gt;&gt;ckb_ClampOpen.Name" xml:space="preserve">
+    <value>ckb_ClampOpen</value>
+  </data>
+  <data name="&gt;&gt;ckb_ClampOpen.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ckb_ClampOpen.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ckb_ClampOpen.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btn_Z_Up_Pos.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 11pt</value>
+  </data>
+  <data name="btn_Z_Up_Pos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>321, 640</value>
+  </data>
+  <data name="btn_Z_Up_Pos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 100</value>
+  </data>
+  <data name="btn_Z_Up_Pos.TabIndex" type="System.Int32, mscorlib">
+    <value>385</value>
+  </data>
+  <data name="btn_Z_Up_Pos.Text" xml:space="preserve">
+    <value>Z AXIS
+UP POSITION</value>
+  </data>
+  <data name="btn_Z_Up_Pos.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;btn_Z_Up_Pos.Name" xml:space="preserve">
+    <value>btn_Z_Up_Pos</value>
+  </data>
+  <data name="&gt;&gt;btn_Z_Up_Pos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_Z_Up_Pos.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_Z_Up_Pos.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="$this.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1030, 900</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>vwMan_09Dry</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.UserControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

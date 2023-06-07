@@ -1,0 +1,573 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="btn_Clear_L.Text" xml:space="preserve">
+    <value>清除</value>
+  </data>
+  <data name="btn_Clear_R.Text" xml:space="preserve">
+    <value>清除</value>
+  </data>
+  <data name="btn_MeaStart_L.Text" xml:space="preserve">
+    <value>开始测量</value>
+  </data>
+  <data name="btn_MeaStart_R.Text" xml:space="preserve">
+    <value>开始测量</value>
+  </data>
+  <data name="btn_SaveLeft.Text" xml:space="preserve">
+    <value>保存左边</value>
+  </data>
+  <data name="btn_SaveRight.Text" xml:space="preserve">
+    <value>保存右侧</value>
+  </data>
+  <data name="label100.Text" xml:space="preserve">
+    <value>5 量块</value>
+  </data>
+  <data name="label101.Text" xml:space="preserve">
+    <value>4 量块</value>
+  </data>
+  <data name="label102.Text" xml:space="preserve">
+    <value>3 量块</value>
+  </data>
+  <data name="label103.Text" xml:space="preserve">
+    <value>2 量块</value>
+  </data>
+  <data name="label104.Text" xml:space="preserve">
+    <value>1 量块</value>
+  </data>
+  <data name="label105.Text" xml:space="preserve">
+    <value>10 中心</value>
+  </data>
+  <data name="label106.Text" xml:space="preserve">
+    <value>9 中心</value>
+  </data>
+  <data name="label107.Text" xml:space="preserve">
+    <value>8 中心</value>
+  </data>
+  <data name="label108.Text" xml:space="preserve">
+    <value>7 中心</value>
+  </data>
+  <data name="label109.Text" xml:space="preserve">
+    <value>6 中心</value>
+  </data>
+  <data name="label110.Text" xml:space="preserve">
+    <value>5 中心</value>
+  </data>
+  <data name="label111.Text" xml:space="preserve">
+    <value>4 中心</value>
+  </data>
+  <data name="label112.Text" xml:space="preserve">
+    <value>3 中心</value>
+  </data>
+  <data name="label113.Text" xml:space="preserve">
+    <value>2 中心</value>
+  </data>
+  <data name="label114.Text" xml:space="preserve">
+    <value>1 中心</value>
+  </data>
+  <data name="label115.Text" xml:space="preserve">
+    <value>10 基准</value>
+  </data>
+  <data name="label116.Text" xml:space="preserve">
+    <value>9 基准</value>
+  </data>
+  <data name="label117.Text" xml:space="preserve">
+    <value>8 基准</value>
+  </data>
+  <data name="label118.Text" xml:space="preserve">
+    <value>7 基准</value>
+  </data>
+  <data name="label119.Text" xml:space="preserve">
+    <value>6 基准</value>
+  </data>
+  <data name="label120.Text" xml:space="preserve">
+    <value>5 基准</value>
+  </data>
+  <data name="label121.Text" xml:space="preserve">
+    <value>4 基准</value>
+  </data>
+  <data name="label122.Text" xml:space="preserve">
+    <value>3 基准</value>
+  </data>
+  <data name="label123.Text" xml:space="preserve">
+    <value>2 基准</value>
+  </data>
+  <data name="label124.Text" xml:space="preserve">
+    <value>1 基准</value>
+  </data>
+  <data name="label125.Text" xml:space="preserve">
+    <value>右侧测量结果</value>
+  </data>
+  <data name="label126.Text" xml:space="preserve">
+    <value>&lt;= 基准</value>
+  </data>
+  <data name="label127.Text" xml:space="preserve">
+    <value>&lt;= 中心</value>
+  </data>
+  <data name="label128.Text" xml:space="preserve">
+    <value>1. 清楚平台上的数据。</value>
+  </data>
+  <data name="label129.Text" xml:space="preserve">
+    <value>2. 量块放于平台中心位置。</value>
+  </data>
+  <data name="label130.Text" xml:space="preserve">
+    <value>3. 点击开始测量按钮。</value>
+  </data>
+  <data name="label58.Text" xml:space="preserve">
+    <value>左侧测量结果</value>
+  </data>
+  <data name="label59.Text" xml:space="preserve">
+    <value>2 基准</value>
+  </data>
+  <data name="label60.Text" xml:space="preserve">
+    <value>1 基准</value>
+  </data>
+  <data name="label61.Text" xml:space="preserve">
+    <value>3 基准</value>
+  </data>
+  <data name="label62.Text" xml:space="preserve">
+    <value>4 基准</value>
+  </data>
+  <data name="label63.Text" xml:space="preserve">
+    <value>5 基准</value>
+  </data>
+  <data name="label64.Text" xml:space="preserve">
+    <value>6 基准</value>
+  </data>
+  <data name="label65.Text" xml:space="preserve">
+    <value>7 基准</value>
+  </data>
+  <data name="label66.Text" xml:space="preserve">
+    <value>8 基准</value>
+  </data>
+  <data name="label67.Text" xml:space="preserve">
+    <value>9 基准</value>
+  </data>
+  <data name="label68.Text" xml:space="preserve">
+    <value>10 基准</value>
+  </data>
+  <data name="label69.Text" xml:space="preserve">
+    <value>10 量块</value>
+  </data>
+  <data name="label70.Text" xml:space="preserve">
+    <value>9 量块</value>
+  </data>
+  <data name="label71.Text" xml:space="preserve">
+    <value>10 中心</value>
+  </data>
+  <data name="label72.Text" xml:space="preserve">
+    <value>9 中心</value>
+  </data>
+  <data name="label73.Text" xml:space="preserve">
+    <value>8 中心</value>
+  </data>
+  <data name="label74.Text" xml:space="preserve">
+    <value>7 中心</value>
+  </data>
+  <data name="label75.Text" xml:space="preserve">
+    <value>6 中心</value>
+  </data>
+  <data name="label76.Text" xml:space="preserve">
+    <value>5 中心</value>
+  </data>
+  <data name="label77.Text" xml:space="preserve">
+    <value>4 中心</value>
+  </data>
+  <data name="label78.Text" xml:space="preserve">
+    <value>3 中心</value>
+  </data>
+  <data name="label79.Text" xml:space="preserve">
+    <value>2 中心</value>
+  </data>
+  <data name="label80.Text" xml:space="preserve">
+    <value>1 中心</value>
+  </data>
+  <data name="label81.Text" xml:space="preserve">
+    <value>8 量块</value>
+  </data>
+  <data name="label82.Text" xml:space="preserve">
+    <value>7 量块</value>
+  </data>
+  <data name="label83.Text" xml:space="preserve">
+    <value>6 量块</value>
+  </data>
+  <data name="label84.Text" xml:space="preserve">
+    <value>5 量块</value>
+  </data>
+  <data name="label85.Text" xml:space="preserve">
+    <value>4 量块</value>
+  </data>
+  <data name="label86.Text" xml:space="preserve">
+    <value>3 量块</value>
+  </data>
+  <data name="label87.Text" xml:space="preserve">
+    <value>2 量块</value>
+  </data>
+  <data name="label88.Text" xml:space="preserve">
+    <value>1 量块</value>
+  </data>
+  <data name="label89.Text" xml:space="preserve">
+    <value>TTV 量块</value>
+  </data>
+  <data name="label90.Text" xml:space="preserve">
+    <value>TTV 中心</value>
+  </data>
+  <data name="label91.Text" xml:space="preserve">
+    <value>TTV 基准</value>
+  </data>
+  <data name="label92.Text" xml:space="preserve">
+    <value>TTV 量块</value>
+  </data>
+  <data name="label93.Text" xml:space="preserve">
+    <value>TTV 中心</value>
+  </data>
+  <data name="label94.Text" xml:space="preserve">
+    <value>TTV 基准</value>
+  </data>
+  <data name="label95.Text" xml:space="preserve">
+    <value>10 量块</value>
+  </data>
+  <data name="label96.Text" xml:space="preserve">
+    <value>9 量块</value>
+  </data>
+  <data name="label97.Text" xml:space="preserve">
+    <value>8 量块</value>
+  </data>
+  <data name="label98.Text" xml:space="preserve">
+    <value>7 量块</value>
+  </data>
+  <data name="label99.Text" xml:space="preserve">
+    <value>6 量块</value>
+  </data>
+  <data name="sfd_Repeat.Filter" xml:space="preserve">
+    <value>Repeat|*.csv</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="textBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>212, 185</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="textBox1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 3, 0</value>
+  </data>
+  <data name="textBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>82, 21</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="textBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>364</value>
+  </data>
+  <data name="txt_Base10_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Base10_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Base1_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Base1_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Base2_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Base2_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Base3_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Base3_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Base4_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Base4_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Base5_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Base5_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Base6_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Base6_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Base7_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Base7_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Base8_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Base8_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Base9_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Base9_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_BaseTtv_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_BaseTtv_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Block10_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Block10_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Block1_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Block1_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Block2_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Block2_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Block3_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Block3_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Block4_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Block4_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Block5_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Block5_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Block6_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Block6_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Block7_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Block7_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Block8_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Block8_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Block9_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Block9_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_BlockTtv_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_BlockTtv_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Center10_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Center10_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Center1_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Center1_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Center2_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Center2_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Center3_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Center3_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Center4_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Center4_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Center5_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Center5_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Center6_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Center6_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Center7_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Center7_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Center8_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Center8_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Center9_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Center9_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_CenterTtv_L.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_CenterTtv_R.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+</root>

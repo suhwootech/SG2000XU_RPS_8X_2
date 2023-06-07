@@ -1,0 +1,54 @@
+﻿[2020.03.16][ksg][1.0.0.2] : QC Test Protocal 추가
+[2020.03.17][ksg][1.0.0.2] : QC Test Result 결과 받기 기능 추가 및 Log 기능 추가
+[2020.03.18][mjy][1.0.0.3] : CDataOption에 Package Unit 추가 (SG 2000U)
+[2020.03.18][mjy][1.0.0.3] : INR AlingnU 함수 생성
+[2020.03.18][mjy][1.0.0.3] : GRD Measure Unit 함수 생성
+[2020.03.18][mjy][1.0.0.3] : ONP Pick Table 함수 리뉴얼
+[2020.03.18][ksg][1.0.0.2] : Spindle 부하 측정 관련 수정(200310 ksg : Spindle 부하)
+[2020.03.19][ksg][1.0.0.2] : Auto Run시 Wheel 높이 측정시 1Point만 할 수 있도록 수정(200318 ksg :)
+[2020.03.19][ksg][1.0.0.2] : Servo All On/Off 레벨 지정에 맞게 수정함.
+[2020.03.20][syc][1.0.0.3] : 유닛 측정 시 Column에 따른 테이블 베이스 수정
+[2020.03.20][mjy][1.0.0.3] : After Min, Max, Avg에 Before 값 나오는거 수정
+[2020.03.20][mjy][1.0.0.3] : OFP Pick Table 함수 리뉴얼
+[2020.03.20][mjy][1.0.0.3] : OFP Place DRY 함수 리뉴얼
+[2020.03.20][mjy][1.0.0.3] : ONL Pick 함수 리뉴얼
+[2020.03.24][ksg][1.0.0.2] : Log Save Thread에서 Csv 파일이 아닌데 검사 중 메모리 뻑나서 CSV 파일만 검사하게 수정함.
+[2020.03.24][mjy][1.0.0.3] : ONL Push 함수 리뉴얼
+[2020.03.25][mjy][1.0.0.3] : X001D, Y006E IO 추가
+[2020.03.25][mjy][1.0.0.3] : CSpc.SaveCSV 함수 수정 및 보완
+[2020.03.25][hmi][1.0.0.3] : Error Raider 기능 추가
+[2020.03.26][mjy][1.0.0.3] : Grinding CSV파일에 드레싱 이후 자재 카운트 표시
+[2020.03.26][mjy][1.0.0.3] : 메뉴얼 그라인딩 좌측, 우측 화면에 드레싱 경과 시간 표시 추가
+[2020.03.26][mjy][1.0.0.3] : CSpc에서 CSV 파일 헤더 함수 추가
+[2020.03.26][mjy][1.0.0.3] : 타워램프와 부져에 온,오프 로더 라이트 커튼 감지시 조건 추가
+[2020.03.27][mjy][1.0.0.3] : 리그라인딩 스킵 및 판정 값 설정 UI와 디바이스 파일 저장에 추가
+[2020.03.27][mjy][1.0.0.3] : 리그라인디 스킵 및 판정 값 그라인딩 시퀀스에 추가 
+[2020.03.27][mjy][1.0.0.3] : Raider Error 파일 세이브 로드 시 버그 수정
+[2020.03.27][mjy][1.0.0.3] : MessageBox.Swhow -> CMsg.Show 로 변경
+[2020.03.27][mjy][1.0.0.3] : ASE KR Offloader Picker 대기 시 0도로 대기
+[2020.03.28][jhc][1.0.0.3] : Dynamic Function 측정 포인트 기존 3개 -> 최대 5개로 확장 (20200328 jhc :)
+[2020.03.30][mjy][1.0.0.3] : ASE KR Offloader Picker 홈 완료 시 0도로 대기
+[2020.03.27][mjy][1.0.0.3] : CDataOption에 IsTblWater 추가 하여 Pcik, Dressing, TableClean 완료 시 테이블 워터 상시 온
+[2020.03.27][mjy][1.0.0.3] : Option에 Pick/Place Gap, Delay 추가하여 시퀀스 변경
+[2020.03.31][jhc][1.0.0.3] : Dynamic Function 5 Point 확대 적용 후 Auto 화면과 Manual > InRail 화면에서 Max/Mean/TTV 잘못 표시되는 버그 수정 (20200331 jhc :)
+[2020.04.08][ksg][1.0.0.3] : Redoing Number & Count Max Limit 기능 추가
+[2020.04.09][lks][1.0.0.3] : Device -> Parameter -> Contact -> Chip Row Count, Column Count 증가 시 Error 발생건 수정 (200409 : Chip Count Error)
+[2020.04.10][lks][1.0.0.3] : Right Table Strip Measure 시 X축이 반대로 이동하여 연산식 추가 (200410 pjh : Measure Position)
+[2020.04.10][lks][1.0.0.3] : Manual -> Grind Right 에서 측정 값 Range Over 시 Text 색상 변경 되도록 수정 (200410 pjh : Range Over 시 Color 변경)
+[2020.04.10][lks][1.0.0.3] : D/F 사용업체 JSCK 추가 (200410 pjh : D/F 사용 업체 추가)
+[2020.04.14][jym][1.0.0.3] : VwSPC 에서 Strip/Unit 구분 추가
+[2020.04.15][jhc][1.0.0.3] : Picker Idle Time 개선 기능 추가 (20200415 jhc :)
+[2020.04.16][pjh][1.0.0.3] : Grinding 시 Strip Start Limit 기능 추가 (200416 pjh :)
+[2020.04.20][jhc][1.0.0.3] : Dressing 전 Table Cleaning 스킵하도록 수정 (20200420 jhc :)
+[2020.04.24][jym][1.0.0.3] : Probe 반복 테스트 기능 추가
+[2020.04.24][jym][1.0.0.3] : 디바이스 파라메터 ASE KR 는 테이블 속도 최소 5로 변경 (기본은 1)
+[2020.04.24][jym][1.0.0.3] : ASE KR는 드레싱 시간 표시할 때 측정시간 포함하여 표시
+[2020.04.24][jhc][1.0.0.3] : ASE KR는 Strip과 Picker 클리닝 시 Off-Picker Z축 높이를 각각 분리하여 설정 (20200424 jhc :)
+[2020.04.24][jhc][1.0.0.3] : 회전형 드라이 동작 시 타임아웃 시간 기존 80초 -> 180초 연장 (RPM, 회전 카운트 설정 시 회전 시간 계산하여 표시) (20200424 jhc :)
+[2020.04.29][jym][1.0.0.3] : 드레싱 종료 후 메뉴얼 동장 일때는 테이블 워터 오프
+[2020.04.29][jym][1.0.0.3] : 메뉴얼 그라인딩 듀얼 화면에 동작을 동시 동작 가능하게 수정
+[2020.04.29][jym][1.0.0.3] : Unit Dry에서 체크시 센서에 Air-Blow 동작 추가
+[2020.05.13][jhc][1.0.0.3] : Off-Loader의 매거진 배출 위치를 Bottom과 Top 중 선택할 수 있도록 기능 추가함 (20200513 jym : , 20200513 jhc :)
+[2020.05.20][pjh][1.0.0.3] : Dry Pusher Overload 감지 및 Dry X Wait Position이 아닐 시 Offloader Manual 동작 못하게 Interlock 추가(200508 pjh :)
+[2020.05.21][pjh][1.0.0.3] : Dry X Position Error 추가(200521 pjh :)
+[2020.06.11][jhc][1.0.0.3] : On/Off-로더 매거진 바코드(KEYENCE) 읽기 기능 추가 (20200608 jhc :, 20200611 jhc :)

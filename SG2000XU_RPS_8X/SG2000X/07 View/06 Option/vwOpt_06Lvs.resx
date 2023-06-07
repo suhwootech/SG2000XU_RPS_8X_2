@@ -1,0 +1,4434 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="tp4_Wheel.GenerateMember" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="cbLv_WhlDrsChange.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="cbLv_WhlDrsChange.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_WhlDrsChange.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_WhlDrsChange.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_WhlDrsChange.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_WhlDrsChange.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 196</value>
+  </data>
+  <data name="cbLv_WhlDrsChange.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="cbLv_WhlDrsChange.TabIndex" type="System.Int32, mscorlib">
+    <value>258</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WhlDrsChange.Name" xml:space="preserve">
+    <value>cbLv_WhlDrsChange</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WhlDrsChange.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WhlDrsChange.Parent" xml:space="preserve">
+    <value>tp4_Wheel</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WhlDrsChange.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="cbLv_WhlChange.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_WhlChange.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_WhlChange.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_WhlChange.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_WhlChange.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_WhlChange.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 151</value>
+  </data>
+  <data name="cbLv_WhlChange.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_WhlChange.TabIndex" type="System.Int32, mscorlib">
+    <value>257</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WhlChange.Name" xml:space="preserve">
+    <value>cbLv_WhlChange</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WhlChange.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WhlChange.Parent" xml:space="preserve">
+    <value>tp4_Wheel</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WhlChange.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label264.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label264.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label264.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 190</value>
+  </data>
+  <data name="label264.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 35</value>
+  </data>
+  <data name="label264.TabIndex" type="System.Int32, mscorlib">
+    <value>256</value>
+  </data>
+  <data name="label264.Text" xml:space="preserve">
+    <value>Dressing Board Change</value>
+  </data>
+  <data name="label264.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label264.Name" xml:space="preserve">
+    <value>label264</value>
+  </data>
+  <data name="&gt;&gt;label264.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label264.Parent" xml:space="preserve">
+    <value>tp4_Wheel</value>
+  </data>
+  <data name="&gt;&gt;label264.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label258.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label258.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label258.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 150</value>
+  </data>
+  <data name="label258.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label258.TabIndex" type="System.Int32, mscorlib">
+    <value>255</value>
+  </data>
+  <data name="label258.Text" xml:space="preserve">
+    <value>Wheel Change</value>
+  </data>
+  <data name="label258.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label258.Name" xml:space="preserve">
+    <value>label258</value>
+  </data>
+  <data name="&gt;&gt;label258.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label258.Parent" xml:space="preserve">
+    <value>tp4_Wheel</value>
+  </data>
+  <data name="&gt;&gt;label258.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="cbLv_WhlSave.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_WhlSave.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_WhlSave.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_WhlSave.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_WhlSave.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_WhlSave.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 115</value>
+  </data>
+  <data name="cbLv_WhlSave.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_WhlSave.TabIndex" type="System.Int32, mscorlib">
+    <value>250</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WhlSave.Name" xml:space="preserve">
+    <value>cbLv_WhlSave</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WhlSave.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WhlSave.Parent" xml:space="preserve">
+    <value>tp4_Wheel</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WhlSave.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="label225.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label225.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label225.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 115</value>
+  </data>
+  <data name="label225.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label225.TabIndex" type="System.Int32, mscorlib">
+    <value>249</value>
+  </data>
+  <data name="label225.Text" xml:space="preserve">
+    <value>SAVE</value>
+  </data>
+  <data name="label225.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label225.Name" xml:space="preserve">
+    <value>label225</value>
+  </data>
+  <data name="&gt;&gt;label225.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label225.Parent" xml:space="preserve">
+    <value>tp4_Wheel</value>
+  </data>
+  <data name="&gt;&gt;label225.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="cbLv_WhlDel.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_WhlDel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_WhlDel.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_WhlDel.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_WhlDel.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_WhlDel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 80</value>
+  </data>
+  <data name="cbLv_WhlDel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_WhlDel.TabIndex" type="System.Int32, mscorlib">
+    <value>248</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WhlDel.Name" xml:space="preserve">
+    <value>cbLv_WhlDel</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WhlDel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WhlDel.Parent" xml:space="preserve">
+    <value>tp4_Wheel</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WhlDel.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="label226.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label226.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label226.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 80</value>
+  </data>
+  <data name="label226.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label226.TabIndex" type="System.Int32, mscorlib">
+    <value>247</value>
+  </data>
+  <data name="label226.Text" xml:space="preserve">
+    <value>DELETE</value>
+  </data>
+  <data name="label226.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label226.Name" xml:space="preserve">
+    <value>label226</value>
+  </data>
+  <data name="&gt;&gt;label226.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label226.Parent" xml:space="preserve">
+    <value>tp4_Wheel</value>
+  </data>
+  <data name="&gt;&gt;label226.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="cbLv_WhlSaveAs.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_WhlSaveAs.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_WhlSaveAs.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_WhlSaveAs.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_WhlSaveAs.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_WhlSaveAs.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 45</value>
+  </data>
+  <data name="cbLv_WhlSaveAs.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_WhlSaveAs.TabIndex" type="System.Int32, mscorlib">
+    <value>246</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WhlSaveAs.Name" xml:space="preserve">
+    <value>cbLv_WhlSaveAs</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WhlSaveAs.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WhlSaveAs.Parent" xml:space="preserve">
+    <value>tp4_Wheel</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WhlSaveAs.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="label227.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label227.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label227.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 45</value>
+  </data>
+  <data name="label227.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label227.TabIndex" type="System.Int32, mscorlib">
+    <value>245</value>
+  </data>
+  <data name="label227.Text" xml:space="preserve">
+    <value>SAVE AS</value>
+  </data>
+  <data name="label227.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label227.Name" xml:space="preserve">
+    <value>label227</value>
+  </data>
+  <data name="&gt;&gt;label227.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label227.Parent" xml:space="preserve">
+    <value>tp4_Wheel</value>
+  </data>
+  <data name="&gt;&gt;label227.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="cbLv_WhlNew.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_WhlNew.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_WhlNew.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_WhlNew.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_WhlNew.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_WhlNew.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 10</value>
+  </data>
+  <data name="cbLv_WhlNew.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_WhlNew.TabIndex" type="System.Int32, mscorlib">
+    <value>244</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WhlNew.Name" xml:space="preserve">
+    <value>cbLv_WhlNew</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WhlNew.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WhlNew.Parent" xml:space="preserve">
+    <value>tp4_Wheel</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WhlNew.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="label228.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label228.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label228.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 10</value>
+  </data>
+  <data name="label228.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label228.TabIndex" type="System.Int32, mscorlib">
+    <value>243</value>
+  </data>
+  <data name="label228.Text" xml:space="preserve">
+    <value>NEW</value>
+  </data>
+  <data name="label228.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label228.Name" xml:space="preserve">
+    <value>label228</value>
+  </data>
+  <data name="&gt;&gt;label228.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label228.Parent" xml:space="preserve">
+    <value>tp4_Wheel</value>
+  </data>
+  <data name="&gt;&gt;label228.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="tp4_Wheel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 44</value>
+  </data>
+  <data name="tp4_Wheel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1004, 833</value>
+  </data>
+  <data name="tp4_Wheel.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="tp4_Wheel.Text" xml:space="preserve">
+    <value>WHEEL</value>
+  </data>
+  <data name="&gt;&gt;tp4_Wheel.Name" xml:space="preserve">
+    <value>tp4_Wheel</value>
+  </data>
+  <data name="&gt;&gt;tp4_Wheel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tp4_Wheel.Parent" xml:space="preserve">
+    <value>tap_Level</value>
+  </data>
+  <data name="&gt;&gt;tp4_Wheel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="cbLv_Exit.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_Exit.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_Exit.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_Exit.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_Exit.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_Exit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 220</value>
+  </data>
+  <data name="cbLv_Exit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_Exit.TabIndex" type="System.Int32, mscorlib">
+    <value>208</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Exit.Name" xml:space="preserve">
+    <value>cbLv_Exit</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Exit.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Exit.Parent" xml:space="preserve">
+    <value>tp1_Auto</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Exit.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label184.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label184.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label184.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 220</value>
+  </data>
+  <data name="label184.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label184.TabIndex" type="System.Int32, mscorlib">
+    <value>207</value>
+  </data>
+  <data name="label184.Text" xml:space="preserve">
+    <value>EXIT</value>
+  </data>
+  <data name="label184.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label184.Name" xml:space="preserve">
+    <value>label184</value>
+  </data>
+  <data name="&gt;&gt;label184.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label184.Parent" xml:space="preserve">
+    <value>tp1_Auto</value>
+  </data>
+  <data name="&gt;&gt;label184.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="cbLv_Util.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_Util.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_Util.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_Util.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_Util.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_Util.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 185</value>
+  </data>
+  <data name="cbLv_Util.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_Util.TabIndex" type="System.Int32, mscorlib">
+    <value>206</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Util.Name" xml:space="preserve">
+    <value>cbLv_Util</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Util.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Util.Parent" xml:space="preserve">
+    <value>tp1_Auto</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Util.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label185.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label185.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label185.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 185</value>
+  </data>
+  <data name="label185.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label185.TabIndex" type="System.Int32, mscorlib">
+    <value>205</value>
+  </data>
+  <data name="label185.Text" xml:space="preserve">
+    <value>UTIL</value>
+  </data>
+  <data name="label185.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label185.Name" xml:space="preserve">
+    <value>label185</value>
+  </data>
+  <data name="&gt;&gt;label185.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label185.Parent" xml:space="preserve">
+    <value>tp1_Auto</value>
+  </data>
+  <data name="&gt;&gt;label185.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="cbLv_Option.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_Option.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_Option.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_Option.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_Option.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_Option.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 150</value>
+  </data>
+  <data name="cbLv_Option.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_Option.TabIndex" type="System.Int32, mscorlib">
+    <value>204</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Option.Name" xml:space="preserve">
+    <value>cbLv_Option</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Option.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Option.Parent" xml:space="preserve">
+    <value>tp1_Auto</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Option.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="label188.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label188.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label188.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 150</value>
+  </data>
+  <data name="label188.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label188.TabIndex" type="System.Int32, mscorlib">
+    <value>203</value>
+  </data>
+  <data name="label188.Text" xml:space="preserve">
+    <value>OPTION</value>
+  </data>
+  <data name="label188.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label188.Name" xml:space="preserve">
+    <value>label188</value>
+  </data>
+  <data name="&gt;&gt;label188.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label188.Parent" xml:space="preserve">
+    <value>tp1_Auto</value>
+  </data>
+  <data name="&gt;&gt;label188.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="cbLv_Spc.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_Spc.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_Spc.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_Spc.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_Spc.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_Spc.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 115</value>
+  </data>
+  <data name="cbLv_Spc.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_Spc.TabIndex" type="System.Int32, mscorlib">
+    <value>202</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Spc.Name" xml:space="preserve">
+    <value>cbLv_Spc</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Spc.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Spc.Parent" xml:space="preserve">
+    <value>tp1_Auto</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Spc.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="label190.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label190.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label190.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 115</value>
+  </data>
+  <data name="label190.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label190.TabIndex" type="System.Int32, mscorlib">
+    <value>201</value>
+  </data>
+  <data name="label190.Text" xml:space="preserve">
+    <value>SPC</value>
+  </data>
+  <data name="label190.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label190.Name" xml:space="preserve">
+    <value>label190</value>
+  </data>
+  <data name="&gt;&gt;label190.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label190.Parent" xml:space="preserve">
+    <value>tp1_Auto</value>
+  </data>
+  <data name="&gt;&gt;label190.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="cbLv_Wheel.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_Wheel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_Wheel.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_Wheel.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_Wheel.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_Wheel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 80</value>
+  </data>
+  <data name="cbLv_Wheel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_Wheel.TabIndex" type="System.Int32, mscorlib">
+    <value>200</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Wheel.Name" xml:space="preserve">
+    <value>cbLv_Wheel</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Wheel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Wheel.Parent" xml:space="preserve">
+    <value>tp1_Auto</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Wheel.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="label183.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label183.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label183.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 80</value>
+  </data>
+  <data name="label183.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label183.TabIndex" type="System.Int32, mscorlib">
+    <value>199</value>
+  </data>
+  <data name="label183.Text" xml:space="preserve">
+    <value>WHEEL</value>
+  </data>
+  <data name="label183.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label183.Name" xml:space="preserve">
+    <value>label183</value>
+  </data>
+  <data name="&gt;&gt;label183.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label183.Parent" xml:space="preserve">
+    <value>tp1_Auto</value>
+  </data>
+  <data name="&gt;&gt;label183.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="cbLv_Device.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_Device.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_Device.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_Device.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_Device.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_Device.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 45</value>
+  </data>
+  <data name="cbLv_Device.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_Device.TabIndex" type="System.Int32, mscorlib">
+    <value>198</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Device.Name" xml:space="preserve">
+    <value>cbLv_Device</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Device.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Device.Parent" xml:space="preserve">
+    <value>tp1_Auto</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Device.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="label182.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label182.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label182.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 45</value>
+  </data>
+  <data name="label182.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label182.TabIndex" type="System.Int32, mscorlib">
+    <value>197</value>
+  </data>
+  <data name="label182.Text" xml:space="preserve">
+    <value>DEVICE</value>
+  </data>
+  <data name="label182.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label182.Name" xml:space="preserve">
+    <value>label182</value>
+  </data>
+  <data name="&gt;&gt;label182.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label182.Parent" xml:space="preserve">
+    <value>tp1_Auto</value>
+  </data>
+  <data name="&gt;&gt;label182.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="cbLv_Manual.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_Manual.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_Manual.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_Manual.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_Manual.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_Manual.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 10</value>
+  </data>
+  <data name="cbLv_Manual.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_Manual.TabIndex" type="System.Int32, mscorlib">
+    <value>196</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Manual.Name" xml:space="preserve">
+    <value>cbLv_Manual</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Manual.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Manual.Parent" xml:space="preserve">
+    <value>tp1_Auto</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Manual.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="label181.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label181.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label181.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 10</value>
+  </data>
+  <data name="label181.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label181.TabIndex" type="System.Int32, mscorlib">
+    <value>195</value>
+  </data>
+  <data name="label181.Text" xml:space="preserve">
+    <value>MANUAL</value>
+  </data>
+  <data name="label181.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label181.Name" xml:space="preserve">
+    <value>label181</value>
+  </data>
+  <data name="&gt;&gt;label181.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label181.Parent" xml:space="preserve">
+    <value>tp1_Auto</value>
+  </data>
+  <data name="&gt;&gt;label181.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="tp1_Auto.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 44</value>
+  </data>
+  <data name="tp1_Auto.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tp1_Auto.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1004, 833</value>
+  </data>
+  <data name="tp1_Auto.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="tp1_Auto.Text" xml:space="preserve">
+    <value>AUTO</value>
+  </data>
+  <data name="&gt;&gt;tp1_Auto.Name" xml:space="preserve">
+    <value>tp1_Auto</value>
+  </data>
+  <data name="&gt;&gt;tp1_Auto.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tp1_Auto.Parent" xml:space="preserve">
+    <value>tap_Level</value>
+  </data>
+  <data name="&gt;&gt;tp1_Auto.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="cbLv_AllSvOff.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_AllSvOff.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_AllSvOff.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_AllSvOff.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_AllSvOff.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_AllSvOff.Location" type="System.Drawing.Point, System.Drawing">
+    <value>460, 80</value>
+  </data>
+  <data name="cbLv_AllSvOff.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_AllSvOff.TabIndex" type="System.Int32, mscorlib">
+    <value>236</value>
+  </data>
+  <data name="&gt;&gt;cbLv_AllSvOff.Name" xml:space="preserve">
+    <value>cbLv_AllSvOff</value>
+  </data>
+  <data name="&gt;&gt;cbLv_AllSvOff.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_AllSvOff.Parent" xml:space="preserve">
+    <value>tp2_Manual</value>
+  </data>
+  <data name="&gt;&gt;cbLv_AllSvOff.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label288.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label288.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label288.Location" type="System.Drawing.Point, System.Drawing">
+    <value>330, 80</value>
+  </data>
+  <data name="label288.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label288.TabIndex" type="System.Int32, mscorlib">
+    <value>235</value>
+  </data>
+  <data name="label288.Text" xml:space="preserve">
+    <value>ALL SERVO OFF</value>
+  </data>
+  <data name="label288.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label288.Name" xml:space="preserve">
+    <value>label288</value>
+  </data>
+  <data name="&gt;&gt;label288.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label288.Parent" xml:space="preserve">
+    <value>tp2_Manual</value>
+  </data>
+  <data name="&gt;&gt;label288.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="cbLv_AllSvOn.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_AllSvOn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_AllSvOn.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_AllSvOn.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_AllSvOn.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_AllSvOn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>460, 45</value>
+  </data>
+  <data name="cbLv_AllSvOn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_AllSvOn.TabIndex" type="System.Int32, mscorlib">
+    <value>234</value>
+  </data>
+  <data name="&gt;&gt;cbLv_AllSvOn.Name" xml:space="preserve">
+    <value>cbLv_AllSvOn</value>
+  </data>
+  <data name="&gt;&gt;cbLv_AllSvOn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_AllSvOn.Parent" xml:space="preserve">
+    <value>tp2_Manual</value>
+  </data>
+  <data name="&gt;&gt;cbLv_AllSvOn.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label289.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label289.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label289.Location" type="System.Drawing.Point, System.Drawing">
+    <value>330, 45</value>
+  </data>
+  <data name="label289.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label289.TabIndex" type="System.Int32, mscorlib">
+    <value>233</value>
+  </data>
+  <data name="label289.Text" xml:space="preserve">
+    <value>ALL SERVO ON</value>
+  </data>
+  <data name="label289.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label289.Name" xml:space="preserve">
+    <value>label289</value>
+  </data>
+  <data name="&gt;&gt;label289.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label289.Parent" xml:space="preserve">
+    <value>tp2_Manual</value>
+  </data>
+  <data name="&gt;&gt;label289.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="cbLv_WarmSet.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_WarmSet.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_WarmSet.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_WarmSet.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_WarmSet.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_WarmSet.Location" type="System.Drawing.Point, System.Drawing">
+    <value>460, 10</value>
+  </data>
+  <data name="cbLv_WarmSet.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_WarmSet.TabIndex" type="System.Int32, mscorlib">
+    <value>228</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WarmSet.Name" xml:space="preserve">
+    <value>cbLv_WarmSet</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WarmSet.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WarmSet.Parent" xml:space="preserve">
+    <value>tp2_Manual</value>
+  </data>
+  <data name="&gt;&gt;cbLv_WarmSet.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="label206.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label206.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label206.Location" type="System.Drawing.Point, System.Drawing">
+    <value>330, 10</value>
+  </data>
+  <data name="label206.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label206.TabIndex" type="System.Int32, mscorlib">
+    <value>227</value>
+  </data>
+  <data name="label206.Text" xml:space="preserve">
+    <value>WARM UP SET</value>
+  </data>
+  <data name="label206.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label206.Name" xml:space="preserve">
+    <value>label206</value>
+  </data>
+  <data name="&gt;&gt;label206.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label206.Parent" xml:space="preserve">
+    <value>tp2_Manual</value>
+  </data>
+  <data name="&gt;&gt;label206.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="cbLv_OfL.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_OfL.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_OfL.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_OfL.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_OfL.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_OfL.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 290</value>
+  </data>
+  <data name="cbLv_OfL.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_OfL.TabIndex" type="System.Int32, mscorlib">
+    <value>226</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OfL.Name" xml:space="preserve">
+    <value>cbLv_OfL</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OfL.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OfL.Parent" xml:space="preserve">
+    <value>tp2_Manual</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OfL.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="label203.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label203.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label203.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 290</value>
+  </data>
+  <data name="label203.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label203.TabIndex" type="System.Int32, mscorlib">
+    <value>225</value>
+  </data>
+  <data name="label203.Text" xml:space="preserve">
+    <value>OFF LOADER</value>
+  </data>
+  <data name="label203.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label203.Name" xml:space="preserve">
+    <value>label203</value>
+  </data>
+  <data name="&gt;&gt;label203.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label203.Parent" xml:space="preserve">
+    <value>tp2_Manual</value>
+  </data>
+  <data name="&gt;&gt;label203.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="cbLv_Dry.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_Dry.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_Dry.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_Dry.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_Dry.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_Dry.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 255</value>
+  </data>
+  <data name="cbLv_Dry.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_Dry.TabIndex" type="System.Int32, mscorlib">
+    <value>224</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Dry.Name" xml:space="preserve">
+    <value>cbLv_Dry</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Dry.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Dry.Parent" xml:space="preserve">
+    <value>tp2_Manual</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Dry.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="label205.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label205.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label205.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 255</value>
+  </data>
+  <data name="label205.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label205.TabIndex" type="System.Int32, mscorlib">
+    <value>223</value>
+  </data>
+  <data name="label205.Text" xml:space="preserve">
+    <value>DRY</value>
+  </data>
+  <data name="label205.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label205.Name" xml:space="preserve">
+    <value>label205</value>
+  </data>
+  <data name="&gt;&gt;label205.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label205.Parent" xml:space="preserve">
+    <value>tp2_Manual</value>
+  </data>
+  <data name="&gt;&gt;label205.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="cbLv_Ofp.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_Ofp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_Ofp.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_Ofp.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_Ofp.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_Ofp.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 220</value>
+  </data>
+  <data name="cbLv_Ofp.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_Ofp.TabIndex" type="System.Int32, mscorlib">
+    <value>222</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Ofp.Name" xml:space="preserve">
+    <value>cbLv_Ofp</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Ofp.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Ofp.Parent" xml:space="preserve">
+    <value>tp2_Manual</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Ofp.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="label179.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label179.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label179.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 220</value>
+  </data>
+  <data name="label179.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label179.TabIndex" type="System.Int32, mscorlib">
+    <value>221</value>
+  </data>
+  <data name="label179.Text" xml:space="preserve">
+    <value>OFF PICKER</value>
+  </data>
+  <data name="label179.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label179.Name" xml:space="preserve">
+    <value>label179</value>
+  </data>
+  <data name="&gt;&gt;label179.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label179.Parent" xml:space="preserve">
+    <value>tp2_Manual</value>
+  </data>
+  <data name="&gt;&gt;label179.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="cbLv_Grr.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_Grr.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_Grr.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_Grr.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_Grr.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_Grr.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 185</value>
+  </data>
+  <data name="cbLv_Grr.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_Grr.TabIndex" type="System.Int32, mscorlib">
+    <value>220</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Grr.Name" xml:space="preserve">
+    <value>cbLv_Grr</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Grr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Grr.Parent" xml:space="preserve">
+    <value>tp2_Manual</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Grr.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="label191.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label191.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label191.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 185</value>
+  </data>
+  <data name="label191.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label191.TabIndex" type="System.Int32, mscorlib">
+    <value>219</value>
+  </data>
+  <data name="label191.Text" xml:space="preserve">
+    <value>GRIND RIGHT</value>
+  </data>
+  <data name="label191.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label191.Name" xml:space="preserve">
+    <value>label191</value>
+  </data>
+  <data name="&gt;&gt;label191.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label191.Parent" xml:space="preserve">
+    <value>tp2_Manual</value>
+  </data>
+  <data name="&gt;&gt;label191.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="cbLv_Grd.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_Grd.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_Grd.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_Grd.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_Grd.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_Grd.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 150</value>
+  </data>
+  <data name="cbLv_Grd.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_Grd.TabIndex" type="System.Int32, mscorlib">
+    <value>218</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Grd.Name" xml:space="preserve">
+    <value>cbLv_Grd</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Grd.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Grd.Parent" xml:space="preserve">
+    <value>tp2_Manual</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Grd.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="label192.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label192.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label192.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 150</value>
+  </data>
+  <data name="label192.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label192.TabIndex" type="System.Int32, mscorlib">
+    <value>217</value>
+  </data>
+  <data name="label192.Text" xml:space="preserve">
+    <value>GRIND DUAL</value>
+  </data>
+  <data name="label192.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label192.Name" xml:space="preserve">
+    <value>label192</value>
+  </data>
+  <data name="&gt;&gt;label192.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label192.Parent" xml:space="preserve">
+    <value>tp2_Manual</value>
+  </data>
+  <data name="&gt;&gt;label192.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="cbLv_GrL.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_GrL.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_GrL.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_GrL.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_GrL.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_GrL.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 115</value>
+  </data>
+  <data name="cbLv_GrL.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_GrL.TabIndex" type="System.Int32, mscorlib">
+    <value>216</value>
+  </data>
+  <data name="&gt;&gt;cbLv_GrL.Name" xml:space="preserve">
+    <value>cbLv_GrL</value>
+  </data>
+  <data name="&gt;&gt;cbLv_GrL.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_GrL.Parent" xml:space="preserve">
+    <value>tp2_Manual</value>
+  </data>
+  <data name="&gt;&gt;cbLv_GrL.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="label193.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label193.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label193.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 115</value>
+  </data>
+  <data name="label193.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label193.TabIndex" type="System.Int32, mscorlib">
+    <value>215</value>
+  </data>
+  <data name="label193.Text" xml:space="preserve">
+    <value>GRIND LEFT</value>
+  </data>
+  <data name="label193.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label193.Name" xml:space="preserve">
+    <value>label193</value>
+  </data>
+  <data name="&gt;&gt;label193.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label193.Parent" xml:space="preserve">
+    <value>tp2_Manual</value>
+  </data>
+  <data name="&gt;&gt;label193.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="cbLv_Onp.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_Onp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_Onp.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_Onp.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_Onp.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_Onp.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 80</value>
+  </data>
+  <data name="cbLv_Onp.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_Onp.TabIndex" type="System.Int32, mscorlib">
+    <value>214</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Onp.Name" xml:space="preserve">
+    <value>cbLv_Onp</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Onp.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Onp.Parent" xml:space="preserve">
+    <value>tp2_Manual</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Onp.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="label195.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label195.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label195.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 80</value>
+  </data>
+  <data name="label195.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label195.TabIndex" type="System.Int32, mscorlib">
+    <value>213</value>
+  </data>
+  <data name="label195.Text" xml:space="preserve">
+    <value>ON PICKER</value>
+  </data>
+  <data name="label195.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label195.Name" xml:space="preserve">
+    <value>label195</value>
+  </data>
+  <data name="&gt;&gt;label195.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label195.Parent" xml:space="preserve">
+    <value>tp2_Manual</value>
+  </data>
+  <data name="&gt;&gt;label195.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="cbLv_Inr.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_Inr.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_Inr.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_Inr.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_Inr.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_Inr.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 45</value>
+  </data>
+  <data name="cbLv_Inr.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_Inr.TabIndex" type="System.Int32, mscorlib">
+    <value>212</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Inr.Name" xml:space="preserve">
+    <value>cbLv_Inr</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Inr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Inr.Parent" xml:space="preserve">
+    <value>tp2_Manual</value>
+  </data>
+  <data name="&gt;&gt;cbLv_Inr.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="label199.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label199.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label199.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 45</value>
+  </data>
+  <data name="label199.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label199.TabIndex" type="System.Int32, mscorlib">
+    <value>211</value>
+  </data>
+  <data name="label199.Text" xml:space="preserve">
+    <value>IN RAIL</value>
+  </data>
+  <data name="label199.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label199.Name" xml:space="preserve">
+    <value>label199</value>
+  </data>
+  <data name="&gt;&gt;label199.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label199.Parent" xml:space="preserve">
+    <value>tp2_Manual</value>
+  </data>
+  <data name="&gt;&gt;label199.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <data name="cbLv_OnL.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_OnL.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_OnL.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_OnL.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_OnL.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_OnL.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 10</value>
+  </data>
+  <data name="cbLv_OnL.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_OnL.TabIndex" type="System.Int32, mscorlib">
+    <value>210</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OnL.Name" xml:space="preserve">
+    <value>cbLv_OnL</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OnL.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OnL.Parent" xml:space="preserve">
+    <value>tp2_Manual</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OnL.ZOrder" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <data name="label202.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label202.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label202.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 10</value>
+  </data>
+  <data name="label202.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label202.TabIndex" type="System.Int32, mscorlib">
+    <value>209</value>
+  </data>
+  <data name="label202.Text" xml:space="preserve">
+    <value>ON LOADER</value>
+  </data>
+  <data name="label202.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label202.Name" xml:space="preserve">
+    <value>label202</value>
+  </data>
+  <data name="&gt;&gt;label202.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label202.Parent" xml:space="preserve">
+    <value>tp2_Manual</value>
+  </data>
+  <data name="&gt;&gt;label202.ZOrder" xml:space="preserve">
+    <value>23</value>
+  </data>
+  <data name="tp2_Manual.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 44</value>
+  </data>
+  <data name="tp2_Manual.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tp2_Manual.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1004, 833</value>
+  </data>
+  <data name="tp2_Manual.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="tp2_Manual.Text" xml:space="preserve">
+    <value>MANUAL</value>
+  </data>
+  <data name="&gt;&gt;tp2_Manual.Name" xml:space="preserve">
+    <value>tp2_Manual</value>
+  </data>
+  <data name="&gt;&gt;tp2_Manual.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tp2_Manual.Parent" xml:space="preserve">
+    <value>tap_Level</value>
+  </data>
+  <data name="&gt;&gt;tp2_Manual.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="cbLv_DvPosView.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_DvPosView.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_DvPosView.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_DvPosView.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_DvPosView.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_DvPosView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 325</value>
+  </data>
+  <data name="cbLv_DvPosView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_DvPosView.TabIndex" type="System.Int32, mscorlib">
+    <value>256</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvPosView.Name" xml:space="preserve">
+    <value>cbLv_DvPosView</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvPosView.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvPosView.Parent" xml:space="preserve">
+    <value>tp3_Device</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvPosView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label286.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label286.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label286.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 325</value>
+  </data>
+  <data name="label286.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label286.TabIndex" type="System.Int32, mscorlib">
+    <value>255</value>
+  </data>
+  <data name="label286.Text" xml:space="preserve">
+    <value>POSITION VIEW</value>
+  </data>
+  <data name="label286.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label286.Name" xml:space="preserve">
+    <value>label286</value>
+  </data>
+  <data name="&gt;&gt;label286.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label286.Parent" xml:space="preserve">
+    <value>tp3_Device</value>
+  </data>
+  <data name="&gt;&gt;label286.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="cbLv_DvParaEnable.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_DvParaEnable.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_DvParaEnable.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_DvParaEnable.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_DvParaEnable.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_DvParaEnable.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 290</value>
+  </data>
+  <data name="cbLv_DvParaEnable.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_DvParaEnable.TabIndex" type="System.Int32, mscorlib">
+    <value>254</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvParaEnable.Name" xml:space="preserve">
+    <value>cbLv_DvParaEnable</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvParaEnable.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvParaEnable.Parent" xml:space="preserve">
+    <value>tp3_Device</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvParaEnable.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label287.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label287.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label287.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 290</value>
+  </data>
+  <data name="label287.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label287.TabIndex" type="System.Int32, mscorlib">
+    <value>253</value>
+  </data>
+  <data name="label287.Text" xml:space="preserve">
+    <value>PARA ENABLE</value>
+  </data>
+  <data name="label287.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label287.Name" xml:space="preserve">
+    <value>label287</value>
+  </data>
+  <data name="&gt;&gt;label287.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label287.Parent" xml:space="preserve">
+    <value>tp3_Device</value>
+  </data>
+  <data name="&gt;&gt;label287.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="cbLv_DvSave.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_DvSave.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_DvSave.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_DvSave.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_DvSave.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_DvSave.Location" type="System.Drawing.Point, System.Drawing">
+    <value>460, 10</value>
+  </data>
+  <data name="cbLv_DvSave.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_DvSave.TabIndex" type="System.Int32, mscorlib">
+    <value>244</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvSave.Name" xml:space="preserve">
+    <value>cbLv_DvSave</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvSave.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvSave.Parent" xml:space="preserve">
+    <value>tp3_Device</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvSave.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="label207.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label207.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label207.Location" type="System.Drawing.Point, System.Drawing">
+    <value>330, 10</value>
+  </data>
+  <data name="label207.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label207.TabIndex" type="System.Int32, mscorlib">
+    <value>243</value>
+  </data>
+  <data name="label207.Text" xml:space="preserve">
+    <value>SAVE</value>
+  </data>
+  <data name="label207.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label207.Name" xml:space="preserve">
+    <value>label207</value>
+  </data>
+  <data name="&gt;&gt;label207.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label207.Parent" xml:space="preserve">
+    <value>tp3_Device</value>
+  </data>
+  <data name="&gt;&gt;label207.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="cbLv_DvCurrent.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_DvCurrent.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_DvCurrent.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_DvCurrent.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_DvCurrent.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_DvCurrent.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 255</value>
+  </data>
+  <data name="cbLv_DvCurrent.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_DvCurrent.TabIndex" type="System.Int32, mscorlib">
+    <value>242</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvCurrent.Name" xml:space="preserve">
+    <value>cbLv_DvCurrent</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvCurrent.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvCurrent.Parent" xml:space="preserve">
+    <value>tp3_Device</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvCurrent.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="label208.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label208.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label208.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 255</value>
+  </data>
+  <data name="label208.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label208.TabIndex" type="System.Int32, mscorlib">
+    <value>241</value>
+  </data>
+  <data name="label208.Text" xml:space="preserve">
+    <value>CURRENT</value>
+  </data>
+  <data name="label208.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label208.Name" xml:space="preserve">
+    <value>label208</value>
+  </data>
+  <data name="&gt;&gt;label208.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label208.Parent" xml:space="preserve">
+    <value>tp3_Device</value>
+  </data>
+  <data name="&gt;&gt;label208.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="cbLv_DvLoad.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_DvLoad.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_DvLoad.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_DvLoad.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_DvLoad.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_DvLoad.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 220</value>
+  </data>
+  <data name="cbLv_DvLoad.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_DvLoad.TabIndex" type="System.Int32, mscorlib">
+    <value>240</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvLoad.Name" xml:space="preserve">
+    <value>cbLv_DvLoad</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvLoad.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvLoad.Parent" xml:space="preserve">
+    <value>tp3_Device</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvLoad.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="label209.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label209.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label209.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 220</value>
+  </data>
+  <data name="label209.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label209.TabIndex" type="System.Int32, mscorlib">
+    <value>239</value>
+  </data>
+  <data name="label209.Text" xml:space="preserve">
+    <value>LOAD / APPLY</value>
+  </data>
+  <data name="label209.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label209.Name" xml:space="preserve">
+    <value>label209</value>
+  </data>
+  <data name="&gt;&gt;label209.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label209.Parent" xml:space="preserve">
+    <value>tp3_Device</value>
+  </data>
+  <data name="&gt;&gt;label209.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="cbLv_DvDel.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_DvDel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_DvDel.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_DvDel.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_DvDel.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_DvDel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 185</value>
+  </data>
+  <data name="cbLv_DvDel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_DvDel.TabIndex" type="System.Int32, mscorlib">
+    <value>238</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvDel.Name" xml:space="preserve">
+    <value>cbLv_DvDel</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvDel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvDel.Parent" xml:space="preserve">
+    <value>tp3_Device</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvDel.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="label211.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label211.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label211.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 185</value>
+  </data>
+  <data name="label211.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label211.TabIndex" type="System.Int32, mscorlib">
+    <value>237</value>
+  </data>
+  <data name="label211.Text" xml:space="preserve">
+    <value>DEVICE DELETE</value>
+  </data>
+  <data name="label211.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label211.Name" xml:space="preserve">
+    <value>label211</value>
+  </data>
+  <data name="&gt;&gt;label211.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label211.Parent" xml:space="preserve">
+    <value>tp3_Device</value>
+  </data>
+  <data name="&gt;&gt;label211.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="cbLv_DvSaveAs.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_DvSaveAs.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_DvSaveAs.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_DvSaveAs.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_DvSaveAs.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_DvSaveAs.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 150</value>
+  </data>
+  <data name="cbLv_DvSaveAs.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_DvSaveAs.TabIndex" type="System.Int32, mscorlib">
+    <value>236</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvSaveAs.Name" xml:space="preserve">
+    <value>cbLv_DvSaveAs</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvSaveAs.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvSaveAs.Parent" xml:space="preserve">
+    <value>tp3_Device</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvSaveAs.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="label212.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label212.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label212.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 150</value>
+  </data>
+  <data name="label212.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label212.TabIndex" type="System.Int32, mscorlib">
+    <value>235</value>
+  </data>
+  <data name="label212.Text" xml:space="preserve">
+    <value>DEVICE SAVE AS</value>
+  </data>
+  <data name="label212.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label212.Name" xml:space="preserve">
+    <value>label212</value>
+  </data>
+  <data name="&gt;&gt;label212.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label212.Parent" xml:space="preserve">
+    <value>tp3_Device</value>
+  </data>
+  <data name="&gt;&gt;label212.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="cbLv_DvNew.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_DvNew.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_DvNew.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_DvNew.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_DvNew.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_DvNew.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 115</value>
+  </data>
+  <data name="cbLv_DvNew.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_DvNew.TabIndex" type="System.Int32, mscorlib">
+    <value>234</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvNew.Name" xml:space="preserve">
+    <value>cbLv_DvNew</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvNew.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvNew.Parent" xml:space="preserve">
+    <value>tp3_Device</value>
+  </data>
+  <data name="&gt;&gt;cbLv_DvNew.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="label214.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label214.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label214.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 115</value>
+  </data>
+  <data name="label214.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label214.TabIndex" type="System.Int32, mscorlib">
+    <value>233</value>
+  </data>
+  <data name="label214.Text" xml:space="preserve">
+    <value>DEVICE NEW</value>
+  </data>
+  <data name="label214.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label214.Name" xml:space="preserve">
+    <value>label214</value>
+  </data>
+  <data name="&gt;&gt;label214.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label214.Parent" xml:space="preserve">
+    <value>tp3_Device</value>
+  </data>
+  <data name="&gt;&gt;label214.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="cbLv_GpDel.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_GpDel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_GpDel.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_GpDel.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_GpDel.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_GpDel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 80</value>
+  </data>
+  <data name="cbLv_GpDel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_GpDel.TabIndex" type="System.Int32, mscorlib">
+    <value>232</value>
+  </data>
+  <data name="&gt;&gt;cbLv_GpDel.Name" xml:space="preserve">
+    <value>cbLv_GpDel</value>
+  </data>
+  <data name="&gt;&gt;cbLv_GpDel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_GpDel.Parent" xml:space="preserve">
+    <value>tp3_Device</value>
+  </data>
+  <data name="&gt;&gt;cbLv_GpDel.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="label215.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label215.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label215.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 80</value>
+  </data>
+  <data name="label215.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label215.TabIndex" type="System.Int32, mscorlib">
+    <value>231</value>
+  </data>
+  <data name="label215.Text" xml:space="preserve">
+    <value>GROUP DELETE</value>
+  </data>
+  <data name="label215.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label215.Name" xml:space="preserve">
+    <value>label215</value>
+  </data>
+  <data name="&gt;&gt;label215.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label215.Parent" xml:space="preserve">
+    <value>tp3_Device</value>
+  </data>
+  <data name="&gt;&gt;label215.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="cbLv_GpSaveAs.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_GpSaveAs.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_GpSaveAs.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_GpSaveAs.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_GpSaveAs.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_GpSaveAs.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 45</value>
+  </data>
+  <data name="cbLv_GpSaveAs.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_GpSaveAs.TabIndex" type="System.Int32, mscorlib">
+    <value>230</value>
+  </data>
+  <data name="&gt;&gt;cbLv_GpSaveAs.Name" xml:space="preserve">
+    <value>cbLv_GpSaveAs</value>
+  </data>
+  <data name="&gt;&gt;cbLv_GpSaveAs.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_GpSaveAs.Parent" xml:space="preserve">
+    <value>tp3_Device</value>
+  </data>
+  <data name="&gt;&gt;cbLv_GpSaveAs.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="label217.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label217.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label217.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 45</value>
+  </data>
+  <data name="label217.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label217.TabIndex" type="System.Int32, mscorlib">
+    <value>229</value>
+  </data>
+  <data name="label217.Text" xml:space="preserve">
+    <value>GROUP SAVE AS</value>
+  </data>
+  <data name="label217.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label217.Name" xml:space="preserve">
+    <value>label217</value>
+  </data>
+  <data name="&gt;&gt;label217.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label217.Parent" xml:space="preserve">
+    <value>tp3_Device</value>
+  </data>
+  <data name="&gt;&gt;label217.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="cbLv_GpNew.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_GpNew.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_GpNew.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_GpNew.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_GpNew.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_GpNew.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 10</value>
+  </data>
+  <data name="cbLv_GpNew.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_GpNew.TabIndex" type="System.Int32, mscorlib">
+    <value>228</value>
+  </data>
+  <data name="&gt;&gt;cbLv_GpNew.Name" xml:space="preserve">
+    <value>cbLv_GpNew</value>
+  </data>
+  <data name="&gt;&gt;cbLv_GpNew.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_GpNew.Parent" xml:space="preserve">
+    <value>tp3_Device</value>
+  </data>
+  <data name="&gt;&gt;cbLv_GpNew.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="label218.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label218.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label218.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 10</value>
+  </data>
+  <data name="label218.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label218.TabIndex" type="System.Int32, mscorlib">
+    <value>227</value>
+  </data>
+  <data name="label218.Text" xml:space="preserve">
+    <value>GROUP NEW</value>
+  </data>
+  <data name="label218.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label218.Name" xml:space="preserve">
+    <value>label218</value>
+  </data>
+  <data name="&gt;&gt;label218.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label218.Parent" xml:space="preserve">
+    <value>tp3_Device</value>
+  </data>
+  <data name="&gt;&gt;label218.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <data name="tp3_Device.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 44</value>
+  </data>
+  <data name="tp3_Device.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1004, 833</value>
+  </data>
+  <data name="tp3_Device.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="tp3_Device.Text" xml:space="preserve">
+    <value>DEVICE</value>
+  </data>
+  <data name="&gt;&gt;tp3_Device.Name" xml:space="preserve">
+    <value>tp3_Device</value>
+  </data>
+  <data name="&gt;&gt;tp3_Device.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tp3_Device.Parent" xml:space="preserve">
+    <value>tap_Level</value>
+  </data>
+  <data name="&gt;&gt;tp3_Device.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="cbLv_SpcErrHisSave.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_SpcErrHisSave.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_SpcErrHisSave.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_SpcErrHisSave.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_SpcErrHisSave.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_SpcErrHisSave.Location" type="System.Drawing.Point, System.Drawing">
+    <value>780, 80</value>
+  </data>
+  <data name="cbLv_SpcErrHisSave.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_SpcErrHisSave.TabIndex" type="System.Int32, mscorlib">
+    <value>240</value>
+  </data>
+  <data name="&gt;&gt;cbLv_SpcErrHisSave.Name" xml:space="preserve">
+    <value>cbLv_SpcErrHisSave</value>
+  </data>
+  <data name="&gt;&gt;cbLv_SpcErrHisSave.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_SpcErrHisSave.Parent" xml:space="preserve">
+    <value>tp5_Spc</value>
+  </data>
+  <data name="&gt;&gt;cbLv_SpcErrHisSave.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label230.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label230.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label230.Location" type="System.Drawing.Point, System.Drawing">
+    <value>650, 80</value>
+  </data>
+  <data name="label230.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label230.TabIndex" type="System.Int32, mscorlib">
+    <value>239</value>
+  </data>
+  <data name="label230.Text" xml:space="preserve">
+    <value>ERR LOG SAVE</value>
+  </data>
+  <data name="label230.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label230.Name" xml:space="preserve">
+    <value>label230</value>
+  </data>
+  <data name="&gt;&gt;label230.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label230.Parent" xml:space="preserve">
+    <value>tp5_Spc</value>
+  </data>
+  <data name="&gt;&gt;label230.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="cbLv_SpcErrHisView.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_SpcErrHisView.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_SpcErrHisView.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_SpcErrHisView.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_SpcErrHisView.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_SpcErrHisView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>780, 45</value>
+  </data>
+  <data name="cbLv_SpcErrHisView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_SpcErrHisView.TabIndex" type="System.Int32, mscorlib">
+    <value>238</value>
+  </data>
+  <data name="&gt;&gt;cbLv_SpcErrHisView.Name" xml:space="preserve">
+    <value>cbLv_SpcErrHisView</value>
+  </data>
+  <data name="&gt;&gt;cbLv_SpcErrHisView.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_SpcErrHisView.Parent" xml:space="preserve">
+    <value>tp5_Spc</value>
+  </data>
+  <data name="&gt;&gt;cbLv_SpcErrHisView.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label229.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label229.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label229.Location" type="System.Drawing.Point, System.Drawing">
+    <value>650, 45</value>
+  </data>
+  <data name="label229.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label229.TabIndex" type="System.Int32, mscorlib">
+    <value>237</value>
+  </data>
+  <data name="label229.Text" xml:space="preserve">
+    <value>VIEW DATE</value>
+  </data>
+  <data name="label229.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label229.Name" xml:space="preserve">
+    <value>label229</value>
+  </data>
+  <data name="&gt;&gt;label229.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label229.Parent" xml:space="preserve">
+    <value>tp5_Spc</value>
+  </data>
+  <data name="&gt;&gt;label229.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="cbLv_SpcGpSave.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_SpcGpSave.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_SpcGpSave.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_SpcGpSave.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_SpcGpSave.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_SpcGpSave.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 10</value>
+  </data>
+  <data name="cbLv_SpcGpSave.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_SpcGpSave.TabIndex" type="System.Int32, mscorlib">
+    <value>236</value>
+  </data>
+  <data name="&gt;&gt;cbLv_SpcGpSave.Name" xml:space="preserve">
+    <value>cbLv_SpcGpSave</value>
+  </data>
+  <data name="&gt;&gt;cbLv_SpcGpSave.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_SpcGpSave.Parent" xml:space="preserve">
+    <value>tp5_Spc</value>
+  </data>
+  <data name="&gt;&gt;cbLv_SpcGpSave.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="label223.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label223.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label223.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 10</value>
+  </data>
+  <data name="label223.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label223.TabIndex" type="System.Int32, mscorlib">
+    <value>235</value>
+  </data>
+  <data name="label223.Text" xml:space="preserve">
+    <value>GRAPH SAVE</value>
+  </data>
+  <data name="label223.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label223.Name" xml:space="preserve">
+    <value>label223</value>
+  </data>
+  <data name="&gt;&gt;label223.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label223.Parent" xml:space="preserve">
+    <value>tp5_Spc</value>
+  </data>
+  <data name="&gt;&gt;label223.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="cbLv_SpcErrHis.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_SpcErrHis.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_SpcErrHis.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_SpcErrHis.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_SpcErrHis.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_SpcErrHis.Location" type="System.Drawing.Point, System.Drawing">
+    <value>780, 10</value>
+  </data>
+  <data name="cbLv_SpcErrHis.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_SpcErrHis.TabIndex" type="System.Int32, mscorlib">
+    <value>234</value>
+  </data>
+  <data name="&gt;&gt;cbLv_SpcErrHis.Name" xml:space="preserve">
+    <value>cbLv_SpcErrHis</value>
+  </data>
+  <data name="&gt;&gt;cbLv_SpcErrHis.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_SpcErrHis.Parent" xml:space="preserve">
+    <value>tp5_Spc</value>
+  </data>
+  <data name="&gt;&gt;cbLv_SpcErrHis.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="label222.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label222.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label222.Location" type="System.Drawing.Point, System.Drawing">
+    <value>650, 10</value>
+  </data>
+  <data name="label222.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label222.TabIndex" type="System.Int32, mscorlib">
+    <value>233</value>
+  </data>
+  <data name="label222.Text" xml:space="preserve">
+    <value>ERROR HISTORY</value>
+  </data>
+  <data name="label222.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label222.Name" xml:space="preserve">
+    <value>label222</value>
+  </data>
+  <data name="&gt;&gt;label222.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label222.Parent" xml:space="preserve">
+    <value>tp5_Spc</value>
+  </data>
+  <data name="&gt;&gt;label222.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="cbLv_SpcErrList.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_SpcErrList.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_SpcErrList.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_SpcErrList.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_SpcErrList.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_SpcErrList.Location" type="System.Drawing.Point, System.Drawing">
+    <value>460, 10</value>
+  </data>
+  <data name="cbLv_SpcErrList.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_SpcErrList.TabIndex" type="System.Int32, mscorlib">
+    <value>232</value>
+  </data>
+  <data name="&gt;&gt;cbLv_SpcErrList.Name" xml:space="preserve">
+    <value>cbLv_SpcErrList</value>
+  </data>
+  <data name="&gt;&gt;cbLv_SpcErrList.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_SpcErrList.Parent" xml:space="preserve">
+    <value>tp5_Spc</value>
+  </data>
+  <data name="&gt;&gt;cbLv_SpcErrList.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="label220.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label220.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label220.Location" type="System.Drawing.Point, System.Drawing">
+    <value>330, 10</value>
+  </data>
+  <data name="label220.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label220.TabIndex" type="System.Int32, mscorlib">
+    <value>231</value>
+  </data>
+  <data name="label220.Text" xml:space="preserve">
+    <value>ERROR LIST</value>
+  </data>
+  <data name="label220.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label220.Name" xml:space="preserve">
+    <value>label220</value>
+  </data>
+  <data name="&gt;&gt;label220.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label220.Parent" xml:space="preserve">
+    <value>tp5_Spc</value>
+  </data>
+  <data name="&gt;&gt;label220.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="tp5_Spc.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 44</value>
+  </data>
+  <data name="tp5_Spc.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1004, 833</value>
+  </data>
+  <data name="tp5_Spc.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="tp5_Spc.Text" xml:space="preserve">
+    <value>SPC</value>
+  </data>
+  <data name="&gt;&gt;tp5_Spc.Name" xml:space="preserve">
+    <value>tp5_Spc</value>
+  </data>
+  <data name="&gt;&gt;tp5_Spc.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tp5_Spc.Parent" xml:space="preserve">
+    <value>tap_Level</value>
+  </data>
+  <data name="&gt;&gt;tp5_Spc.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="cbLv_OptGeneral.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_OptGeneral.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_OptGeneral.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_OptGeneral.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_OptGeneral.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_OptGeneral.Location" type="System.Drawing.Point, System.Drawing">
+    <value>439, 10</value>
+  </data>
+  <data name="cbLv_OptGeneral.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_OptGeneral.TabIndex" type="System.Int32, mscorlib">
+    <value>258</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptGeneral.Name" xml:space="preserve">
+    <value>cbLv_OptGeneral</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptGeneral.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptGeneral.Parent" xml:space="preserve">
+    <value>tp6_Option</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptGeneral.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label7.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label7.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>309, 10</value>
+  </data>
+  <data name="label7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label7.TabIndex" type="System.Int32, mscorlib">
+    <value>257</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>GENERAL</value>
+  </data>
+  <data name="label7.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label7.Name" xml:space="preserve">
+    <value>label7</value>
+  </data>
+  <data name="&gt;&gt;label7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label7.Parent" xml:space="preserve">
+    <value>tp6_Option</value>
+  </data>
+  <data name="&gt;&gt;label7.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="cbLv_OptMnt.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_OptMnt.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_OptMnt.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_OptMnt.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_OptMnt.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_OptMnt.Location" type="System.Drawing.Point, System.Drawing">
+    <value>439, 185</value>
+  </data>
+  <data name="cbLv_OptMnt.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_OptMnt.TabIndex" type="System.Int32, mscorlib">
+    <value>256</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptMnt.Name" xml:space="preserve">
+    <value>cbLv_OptMnt</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptMnt.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptMnt.Parent" xml:space="preserve">
+    <value>tp6_Option</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptMnt.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label6.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label6.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>309, 185</value>
+  </data>
+  <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label6.TabIndex" type="System.Int32, mscorlib">
+    <value>255</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>MAINTENANCE</value>
+  </data>
+  <data name="label6.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label6.Name" xml:space="preserve">
+    <value>label6</value>
+  </data>
+  <data name="&gt;&gt;label6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label6.Parent" xml:space="preserve">
+    <value>tp6_Option</value>
+  </data>
+  <data name="&gt;&gt;label6.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="cbLv_OptTbGrd.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_OptTbGrd.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_OptTbGrd.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_OptTbGrd.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_OptTbGrd.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_OptTbGrd.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 45</value>
+  </data>
+  <data name="cbLv_OptTbGrd.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_OptTbGrd.TabIndex" type="System.Int32, mscorlib">
+    <value>254</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptTbGrd.Name" xml:space="preserve">
+    <value>cbLv_OptTbGrd</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptTbGrd.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptTbGrd.Parent" xml:space="preserve">
+    <value>tp6_Option</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptTbGrd.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="label221.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label221.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label221.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 45</value>
+  </data>
+  <data name="label221.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label221.TabIndex" type="System.Int32, mscorlib">
+    <value>253</value>
+  </data>
+  <data name="label221.Text" xml:space="preserve">
+    <value>TABLE GRINDING</value>
+  </data>
+  <data name="label221.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label221.Name" xml:space="preserve">
+    <value>label221</value>
+  </data>
+  <data name="&gt;&gt;label221.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label221.Parent" xml:space="preserve">
+    <value>tp6_Option</value>
+  </data>
+  <data name="&gt;&gt;label221.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="cbLv_OptGrind.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_OptGrind.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_OptGrind.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_OptGrind.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_OptGrind.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_OptGrind.Location" type="System.Drawing.Point, System.Drawing">
+    <value>439, 150</value>
+  </data>
+  <data name="cbLv_OptGrind.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_OptGrind.TabIndex" type="System.Int32, mscorlib">
+    <value>252</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptGrind.Name" xml:space="preserve">
+    <value>cbLv_OptGrind</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptGrind.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptGrind.Parent" xml:space="preserve">
+    <value>tp6_Option</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptGrind.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="cbLv_OptPicker.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_OptPicker.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_OptPicker.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_OptPicker.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_OptPicker.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_OptPicker.Location" type="System.Drawing.Point, System.Drawing">
+    <value>439, 115</value>
+  </data>
+  <data name="cbLv_OptPicker.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_OptPicker.TabIndex" type="System.Int32, mscorlib">
+    <value>252</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptPicker.Name" xml:space="preserve">
+    <value>cbLv_OptPicker</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptPicker.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptPicker.Parent" xml:space="preserve">
+    <value>tp6_Option</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptPicker.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="cbLv_OptRailDry.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_OptRailDry.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_OptRailDry.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_OptRailDry.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_OptRailDry.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_OptRailDry.Location" type="System.Drawing.Point, System.Drawing">
+    <value>439, 80</value>
+  </data>
+  <data name="cbLv_OptRailDry.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_OptRailDry.TabIndex" type="System.Int32, mscorlib">
+    <value>252</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptRailDry.Name" xml:space="preserve">
+    <value>cbLv_OptRailDry</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptRailDry.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptRailDry.Parent" xml:space="preserve">
+    <value>tp6_Option</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptRailDry.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="cbLv_OptLoader.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_OptLoader.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_OptLoader.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_OptLoader.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_OptLoader.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_OptLoader.Location" type="System.Drawing.Point, System.Drawing">
+    <value>439, 45</value>
+  </data>
+  <data name="cbLv_OptLoader.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_OptLoader.TabIndex" type="System.Int32, mscorlib">
+    <value>252</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptLoader.Name" xml:space="preserve">
+    <value>cbLv_OptLoader</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptLoader.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptLoader.Parent" xml:space="preserve">
+    <value>tp6_Option</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptLoader.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="label5.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>309, 150</value>
+  </data>
+  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label5.TabIndex" type="System.Int32, mscorlib">
+    <value>251</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>LEFT / RIGHT GRIND</value>
+  </data>
+  <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label5.Name" xml:space="preserve">
+    <value>label5</value>
+  </data>
+  <data name="&gt;&gt;label5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label5.Parent" xml:space="preserve">
+    <value>tp6_Option</value>
+  </data>
+  <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="label4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>309, 115</value>
+  </data>
+  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label4.TabIndex" type="System.Int32, mscorlib">
+    <value>251</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>ON / OFF PICKER</value>
+  </data>
+  <data name="label4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label4.Name" xml:space="preserve">
+    <value>label4</value>
+  </data>
+  <data name="&gt;&gt;label4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label4.Parent" xml:space="preserve">
+    <value>tp6_Option</value>
+  </data>
+  <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="label3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>309, 80</value>
+  </data>
+  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label3.TabIndex" type="System.Int32, mscorlib">
+    <value>251</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>INRAIL / DRY</value>
+  </data>
+  <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>tp6_Option</value>
+  </data>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>309, 45</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>251</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>ON / OFF LOADER</value>
+  </data>
+  <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>tp6_Option</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="cbLv_OptSysPos.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_OptSysPos.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_OptSysPos.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_OptSysPos.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_OptSysPos.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_OptSysPos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 10</value>
+  </data>
+  <data name="cbLv_OptSysPos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_OptSysPos.TabIndex" type="System.Int32, mscorlib">
+    <value>252</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptSysPos.Name" xml:space="preserve">
+    <value>cbLv_OptSysPos</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptSysPos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptSysPos.Parent" xml:space="preserve">
+    <value>tp6_Option</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OptSysPos.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="label231.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label231.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label231.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 10</value>
+  </data>
+  <data name="label231.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label231.TabIndex" type="System.Int32, mscorlib">
+    <value>251</value>
+  </data>
+  <data name="label231.Text" xml:space="preserve">
+    <value>SYSTEM POSITION</value>
+  </data>
+  <data name="label231.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label231.Name" xml:space="preserve">
+    <value>label231</value>
+  </data>
+  <data name="&gt;&gt;label231.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label231.Parent" xml:space="preserve">
+    <value>tp6_Option</value>
+  </data>
+  <data name="&gt;&gt;label231.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="tp6_Option.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 44</value>
+  </data>
+  <data name="tp6_Option.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1004, 833</value>
+  </data>
+  <data name="tp6_Option.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="tp6_Option.Text" xml:space="preserve">
+    <value>OPTION</value>
+  </data>
+  <data name="&gt;&gt;tp6_Option.Name" xml:space="preserve">
+    <value>tp6_Option</value>
+  </data>
+  <data name="&gt;&gt;tp6_Option.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tp6_Option.Parent" xml:space="preserve">
+    <value>tap_Level</value>
+  </data>
+  <data name="&gt;&gt;tp6_Option.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="cbLv_UtilRepeat.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_UtilRepeat.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_UtilRepeat.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_UtilRepeat.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_UtilRepeat.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_UtilRepeat.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 255</value>
+  </data>
+  <data name="cbLv_UtilRepeat.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_UtilRepeat.TabIndex" type="System.Int32, mscorlib">
+    <value>224</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilRepeat.Name" xml:space="preserve">
+    <value>cbLv_UtilRepeat</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilRepeat.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilRepeat.Parent" xml:space="preserve">
+    <value>tp7_Util</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilRepeat.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label240.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label240.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label240.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 255</value>
+  </data>
+  <data name="label240.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label240.TabIndex" type="System.Int32, mscorlib">
+    <value>223</value>
+  </data>
+  <data name="label240.Text" xml:space="preserve">
+    <value>REPEAT</value>
+  </data>
+  <data name="label240.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label240.Name" xml:space="preserve">
+    <value>label240</value>
+  </data>
+  <data name="&gt;&gt;label240.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label240.Parent" xml:space="preserve">
+    <value>tp7_Util</value>
+  </data>
+  <data name="&gt;&gt;label240.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="cbLv_UtilBcr.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_UtilBcr.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_UtilBcr.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_UtilBcr.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_UtilBcr.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_UtilBcr.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 220</value>
+  </data>
+  <data name="cbLv_UtilBcr.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_UtilBcr.TabIndex" type="System.Int32, mscorlib">
+    <value>222</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilBcr.Name" xml:space="preserve">
+    <value>cbLv_UtilBcr</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilBcr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilBcr.Parent" xml:space="preserve">
+    <value>tp7_Util</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilBcr.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label233.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label233.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label233.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 220</value>
+  </data>
+  <data name="label233.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label233.TabIndex" type="System.Int32, mscorlib">
+    <value>221</value>
+  </data>
+  <data name="label233.Text" xml:space="preserve">
+    <value>BARCODE</value>
+  </data>
+  <data name="label233.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label233.Name" xml:space="preserve">
+    <value>label233</value>
+  </data>
+  <data name="&gt;&gt;label233.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label233.Parent" xml:space="preserve">
+    <value>tp7_Util</value>
+  </data>
+  <data name="&gt;&gt;label233.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="cbLv_UtilTw.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_UtilTw.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_UtilTw.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_UtilTw.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_UtilTw.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_UtilTw.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 185</value>
+  </data>
+  <data name="cbLv_UtilTw.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_UtilTw.TabIndex" type="System.Int32, mscorlib">
+    <value>220</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilTw.Name" xml:space="preserve">
+    <value>cbLv_UtilTw</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilTw.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilTw.Parent" xml:space="preserve">
+    <value>tp7_Util</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilTw.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="label234.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label234.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label234.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 185</value>
+  </data>
+  <data name="label234.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label234.TabIndex" type="System.Int32, mscorlib">
+    <value>219</value>
+  </data>
+  <data name="label234.Text" xml:space="preserve">
+    <value>TOWER LAMP</value>
+  </data>
+  <data name="label234.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label234.Name" xml:space="preserve">
+    <value>label234</value>
+  </data>
+  <data name="&gt;&gt;label234.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label234.Parent" xml:space="preserve">
+    <value>tp7_Util</value>
+  </data>
+  <data name="&gt;&gt;label234.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="cbLv_UtilPrb.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_UtilPrb.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_UtilPrb.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_UtilPrb.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_UtilPrb.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_UtilPrb.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 150</value>
+  </data>
+  <data name="cbLv_UtilPrb.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_UtilPrb.TabIndex" type="System.Int32, mscorlib">
+    <value>218</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilPrb.Name" xml:space="preserve">
+    <value>cbLv_UtilPrb</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilPrb.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilPrb.Parent" xml:space="preserve">
+    <value>tp7_Util</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilPrb.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="label235.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label235.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label235.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 150</value>
+  </data>
+  <data name="label235.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label235.TabIndex" type="System.Int32, mscorlib">
+    <value>217</value>
+  </data>
+  <data name="label235.Text" xml:space="preserve">
+    <value>PROBE</value>
+  </data>
+  <data name="label235.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label235.Name" xml:space="preserve">
+    <value>label235</value>
+  </data>
+  <data name="&gt;&gt;label235.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label235.Parent" xml:space="preserve">
+    <value>tp7_Util</value>
+  </data>
+  <data name="&gt;&gt;label235.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="cbLv_UtilOut.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_UtilOut.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_UtilOut.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_UtilOut.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_UtilOut.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_UtilOut.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 115</value>
+  </data>
+  <data name="cbLv_UtilOut.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_UtilOut.TabIndex" type="System.Int32, mscorlib">
+    <value>216</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilOut.Name" xml:space="preserve">
+    <value>cbLv_UtilOut</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilOut.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilOut.Parent" xml:space="preserve">
+    <value>tp7_Util</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilOut.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="label236.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label236.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label236.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 115</value>
+  </data>
+  <data name="label236.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label236.TabIndex" type="System.Int32, mscorlib">
+    <value>215</value>
+  </data>
+  <data name="label236.Text" xml:space="preserve">
+    <value>OUTPUT</value>
+  </data>
+  <data name="label236.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label236.Name" xml:space="preserve">
+    <value>label236</value>
+  </data>
+  <data name="&gt;&gt;label236.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label236.Parent" xml:space="preserve">
+    <value>tp7_Util</value>
+  </data>
+  <data name="&gt;&gt;label236.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="cbLv_UtilIn.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_UtilIn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_UtilIn.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_UtilIn.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_UtilIn.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_UtilIn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 80</value>
+  </data>
+  <data name="cbLv_UtilIn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_UtilIn.TabIndex" type="System.Int32, mscorlib">
+    <value>214</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilIn.Name" xml:space="preserve">
+    <value>cbLv_UtilIn</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilIn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilIn.Parent" xml:space="preserve">
+    <value>tp7_Util</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilIn.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="label237.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label237.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label237.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 80</value>
+  </data>
+  <data name="label237.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label237.TabIndex" type="System.Int32, mscorlib">
+    <value>213</value>
+  </data>
+  <data name="label237.Text" xml:space="preserve">
+    <value>INPUT</value>
+  </data>
+  <data name="label237.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label237.Name" xml:space="preserve">
+    <value>label237</value>
+  </data>
+  <data name="&gt;&gt;label237.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label237.Parent" xml:space="preserve">
+    <value>tp7_Util</value>
+  </data>
+  <data name="&gt;&gt;label237.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="cbLv_UtilSpd.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_UtilSpd.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_UtilSpd.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_UtilSpd.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_UtilSpd.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_UtilSpd.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 45</value>
+  </data>
+  <data name="cbLv_UtilSpd.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_UtilSpd.TabIndex" type="System.Int32, mscorlib">
+    <value>212</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilSpd.Name" xml:space="preserve">
+    <value>cbLv_UtilSpd</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilSpd.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilSpd.Parent" xml:space="preserve">
+    <value>tp7_Util</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilSpd.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="label238.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label238.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label238.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 45</value>
+  </data>
+  <data name="label238.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label238.TabIndex" type="System.Int32, mscorlib">
+    <value>211</value>
+  </data>
+  <data name="label238.Text" xml:space="preserve">
+    <value>SPINDLE</value>
+  </data>
+  <data name="label238.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label238.Name" xml:space="preserve">
+    <value>label238</value>
+  </data>
+  <data name="&gt;&gt;label238.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label238.Parent" xml:space="preserve">
+    <value>tp7_Util</value>
+  </data>
+  <data name="&gt;&gt;label238.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="cbLv_UtilMot.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_UtilMot.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_UtilMot.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_UtilMot.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_UtilMot.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_UtilMot.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 10</value>
+  </data>
+  <data name="cbLv_UtilMot.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_UtilMot.TabIndex" type="System.Int32, mscorlib">
+    <value>210</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilMot.Name" xml:space="preserve">
+    <value>cbLv_UtilMot</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilMot.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilMot.Parent" xml:space="preserve">
+    <value>tp7_Util</value>
+  </data>
+  <data name="&gt;&gt;cbLv_UtilMot.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="label239.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label239.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label239.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 10</value>
+  </data>
+  <data name="label239.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label239.TabIndex" type="System.Int32, mscorlib">
+    <value>209</value>
+  </data>
+  <data name="label239.Text" xml:space="preserve">
+    <value>MOTION</value>
+  </data>
+  <data name="label239.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label239.Name" xml:space="preserve">
+    <value>label239</value>
+  </data>
+  <data name="&gt;&gt;label239.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label239.Parent" xml:space="preserve">
+    <value>tp7_Util</value>
+  </data>
+  <data name="&gt;&gt;label239.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="tp7_Util.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 44</value>
+  </data>
+  <data name="tp7_Util.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1004, 833</value>
+  </data>
+  <data name="tp7_Util.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="tp7_Util.Text" xml:space="preserve">
+    <value>UTIL</value>
+  </data>
+  <data name="&gt;&gt;tp7_Util.Name" xml:space="preserve">
+    <value>tp7_Util</value>
+  </data>
+  <data name="&gt;&gt;tp7_Util.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tp7_Util.Parent" xml:space="preserve">
+    <value>tap_Level</value>
+  </data>
+  <data name="&gt;&gt;tp7_Util.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="cbLv_OpStripExistEdit.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_OpStripExistEdit.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_OpStripExistEdit.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_OpStripExistEdit.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_OpStripExistEdit.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_OpStripExistEdit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 45</value>
+  </data>
+  <data name="cbLv_OpStripExistEdit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_OpStripExistEdit.TabIndex" type="System.Int32, mscorlib">
+    <value>216</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OpStripExistEdit.Name" xml:space="preserve">
+    <value>cbLv_OpStripExistEdit</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OpStripExistEdit.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OpStripExistEdit.Parent" xml:space="preserve">
+    <value>tp8_OpManual</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OpStripExistEdit.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 45</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>215</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>STRIP EXIST EDIT</value>
+  </data>
+  <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>tp8_OpManual</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="cbLv_OpDrsPos.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbLv_OpDrsPos.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="cbLv_OpDrsPos.Items" xml:space="preserve">
+    <value>OPERATOR</value>
+  </data>
+  <data name="cbLv_OpDrsPos.Items1" xml:space="preserve">
+    <value>TECHNICIAN</value>
+  </data>
+  <data name="cbLv_OpDrsPos.Items2" xml:space="preserve">
+    <value>ENGINEER</value>
+  </data>
+  <data name="cbLv_OpDrsPos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 10</value>
+  </data>
+  <data name="cbLv_OpDrsPos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 21</value>
+  </data>
+  <data name="cbLv_OpDrsPos.TabIndex" type="System.Int32, mscorlib">
+    <value>214</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OpDrsPos.Name" xml:space="preserve">
+    <value>cbLv_OpDrsPos</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OpDrsPos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OpDrsPos.Parent" xml:space="preserve">
+    <value>tp8_OpManual</value>
+  </data>
+  <data name="&gt;&gt;cbLv_OpDrsPos.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label290.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="label290.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label290.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 10</value>
+  </data>
+  <data name="label290.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label290.TabIndex" type="System.Int32, mscorlib">
+    <value>213</value>
+  </data>
+  <data name="label290.Text" xml:space="preserve">
+    <value>DRESSER POS</value>
+  </data>
+  <data name="label290.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label290.Name" xml:space="preserve">
+    <value>label290</value>
+  </data>
+  <data name="&gt;&gt;label290.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label290.Parent" xml:space="preserve">
+    <value>tp8_OpManual</value>
+  </data>
+  <data name="&gt;&gt;label290.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="tp8_OpManual.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 44</value>
+  </data>
+  <data name="tp8_OpManual.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1004, 833</value>
+  </data>
+  <data name="tp8_OpManual.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="tp8_OpManual.Text" xml:space="preserve">
+    <value>OP MANUAL</value>
+  </data>
+  <data name="&gt;&gt;tp8_OpManual.Name" xml:space="preserve">
+    <value>tp8_OpManual</value>
+  </data>
+  <data name="&gt;&gt;tp8_OpManual.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tp8_OpManual.Parent" xml:space="preserve">
+    <value>tap_Level</value>
+  </data>
+  <data name="&gt;&gt;tp8_OpManual.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="tap_Level.ItemSize" type="System.Drawing.Size, System.Drawing">
+    <value>120, 40</value>
+  </data>
+  <data name="tap_Level.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 10</value>
+  </data>
+  <data name="tap_Level.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1012, 881</value>
+  </data>
+  <data name="tap_Level.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;tap_Level.Name" xml:space="preserve">
+    <value>tap_Level</value>
+  </data>
+  <data name="&gt;&gt;tap_Level.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tap_Level.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;tap_Level.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="$this.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1030, 900</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>vwOpt_06Lvs</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.UserControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

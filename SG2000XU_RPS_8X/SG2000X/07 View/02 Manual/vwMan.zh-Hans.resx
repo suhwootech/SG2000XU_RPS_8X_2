@@ -1,0 +1,2219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="lbl0_IdleT_T.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="lbl0_IdleT_T.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn0_Save.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12pt, style=Bold</value>
+  </data>
+  <data name="btn0_Save.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl0_GrrHD.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="lbl0_GrrHD.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl0_GrlHD.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="lbl0_GrlHD.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl0_DryHD.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="lbl0_DryHD.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl0_InrHD.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="lbl0_InrHD.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl0_OfpHD.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="lbl0_OfpHD.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl0_OnpHD.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="lbl0_OnpHD.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl0_OflHD.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="lbl0_OflHD.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl0_OnlHD.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="lbl0_OnlHD.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn0_AllWOff.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 15pt, style=Bold</value>
+  </data>
+  <data name="btn0_AllWOff.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn0_Stop.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btn0_Stop.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl0_WmTitle.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl0_IdleTime.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn0_AllH.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 15pt, style=Bold</value>
+  </data>
+  <data name="btn0_AllH.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn0_SrvOff.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 15pt, style=Bold</value>
+  </data>
+  <data name="btn0_SrvOff.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn0_Idle.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 15pt, style=Bold</value>
+  </data>
+  <data name="btn0_Idle.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn0_SrvOn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 15pt, style=Bold</value>
+  </data>
+  <data name="btn0_SrvOn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl1_ZPos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl1_ZTit.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="lbl1_ZTit.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl1_ZStat.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl1_YPos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl1_YTit.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="lbl1_YTit.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl1_YStat.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl1_XPos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl1_XTit.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="lbl1_XTit.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl1_XStat.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn1_Push.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btn1_Push.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl1_MgzD2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lbl1_MgzD2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl1_MgzD1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lbl1_MgzD1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl1_PushO.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lbl1_PushO.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl1_BtMgzD.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lbl1_BtMgzD.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl1_TcMgzF.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lbl1_TcMgzF.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl1_TcMgzD.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lbl1_TcMgzD.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl1_LiCur.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lbl1_LiCur.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl1_DorR.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lbl1_DorR.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl1_DorL.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lbl1_DorL.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl1_DorF.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lbl1_DorF.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl1_EmgR.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lbl1_EmgR.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl1_EmgF.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lbl1_EmgF.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckb1_CCW.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckb1_CCW.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckb1_BtmRun.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckb1_BtmRun.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckb1_TopRun.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckb1_TopRun.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckb1_Pusher.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckb1_Pusher.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckb1_Clamp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckb1_Clamp.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn1_Place.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btn1_Place.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn1_Pick.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btn1_Pick.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn1_Stop.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn1_Hm.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btn1_Hm.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn1_Wait.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btn1_Wait.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblM_PcbTtv.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label69.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="label69.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label45.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label45.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblM_PcbMax.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblM_Pcb1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label33.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label33.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label42.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label42.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblM_PcbMean.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label41.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label41.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label37.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label37.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblM_Pcb2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblM_Pcb3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label68.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="label68.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_BcrTitle.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="lbl_BcrTitle.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbInr_ProbeAirOn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbInr_ProbeAirOn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbInr_ProbeDn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbInr_ProbeDn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnInr_Dynamic.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnInr_Dynamic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button13.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10.5pt, style=Bold</value>
+  </data>
+  <data name="button13.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblInr_YPos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label29.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label29.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblInr_YStat.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblInr_XPos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label34.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label34.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblInr_XStat.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbInr_LiftUp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbInr_LiftUp.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbInr_GripClpOn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbInr_GripClpOn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblInr_LiftU.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblInr_LiftU.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblInr_GripD.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblInr_GripD.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblInr_StripBtm.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblInr_StripBtm.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblInr_StripIn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblInr_StripIn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnInr_Algn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnInr_Algn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button31.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="button31.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbInr_AlgnF.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbInr_AlgnF.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOnp_ZPos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label19.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOnp_ZStat.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOnp_XPos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label36.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label36.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOnp_XStat.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbOnP_Drn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbOnP_Drn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOnP_LdCell.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblOnP_LdCell.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOnP_Vac.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblOnP_Vac.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOnP_R90.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblOnP_R90.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOnP_R0.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblOnP_R0.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbOnP_R0.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbOnP_R0.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbOnP_Ejt.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbOnP_Ejt.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnOnP_PlaceR.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnOnP_PlaceR.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnOnP_PlaceL.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnOnP_PlaceL.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnOnP_PickLTbl.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnOnP_PickLTbl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnOnP_PickRail.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnOnP_PickRail.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbOnP_Vac.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbOnP_Vac.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button5.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="button5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnOnP_H.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnOnP_H.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnOnP_Wait.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnOnP_Wait.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_AAvg.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_BAvg.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_AMax.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_AMin.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_BMin.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_BMax.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label82.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="label82.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label83.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="label83.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label84.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="label84.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label85.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label86.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label87.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label46.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="label46.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_GrdTime_L.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_ZPos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label27.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label27.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_ZStat.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="lblGrL_ZStat.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_YPos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label23.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label23.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_YStat.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="lblGrL_YStat.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnGrL_StInsp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnGrL_StInsp.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnGrL_DrInsp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnGrL_DrInsp.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="button4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnGrL_WhInsp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnGrL_WhInsp.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbGrL_TcW.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbGrL_TcW.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbGrL_TcAKn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbGrL_TcAKn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbGrL_TcWKn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbGrL_TcWKn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbGrL_TcDn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbGrL_TcDn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_XPos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label20.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label20.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_XStat.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="lblGrL_XStat.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_BtmFlw.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrL_BtmFlw.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_GrdTmp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrL_GrdTmp.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_GrdFlw.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrL_GrdFlw.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_SplPcwTmp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrL_SplPcwTmp.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_SplPcw.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrL_SplPcw.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_SplZig.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrL_SplZig.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_PrbAMP.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrL_PrbAMP.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_TcFlw.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrL_TcFlw.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_TcDn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrL_TcDn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_TblFlw.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrL_TblFlw.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_TblVac.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrL_TblVac.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnGrL_Grd.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnGrL_Grd.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label13.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label13.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_FiOne.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_Fi.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrL_Fi.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_FiToTh.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_FiCyTh.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_FiTbl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_FiCnt.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_FiSpl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_FiTar.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_R3One.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_R3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrL_R3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_R3ToTh.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_R3CyTh.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_R3Tbl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_R3Cnt.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_R3Spl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_R3Tar.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_R2One.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_R2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrL_R2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_R2ToTh.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_R2CyTh.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_R2Tbl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_R2Cnt.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_R2Spl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_R2Tar.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_R1One.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_R1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrL_R1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_R1ToTh.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_R1CyTh.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_R1Tbl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_R1Cnt.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_R1Spl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_R1Tar.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label63.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label63.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label58.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label58.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label53.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label53.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label48.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label48.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label43.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label43.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label25.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label25.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_Mod.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrL_Mod.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrL_ModT.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="lblGrL_ModT.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnGrL_Drs.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnGrL_Drs.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbGrL_Ejt.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbGrL_Ejt.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbGrL_Wtr.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbGrL_Wtr.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbGrL_Vac.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbGrL_Vac.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnGrL_Stop.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnGrL_Stop.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnGrL_H.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnGrL_H.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnGrL_Wait.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnGrL_Wait.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnGrd_DrsReplace.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnGrd_DrsReplace.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnGrd_H.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnGrd_H.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnGrd_Wait.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnGrd_Wait.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label47.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="label47.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_GrdTime_R.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button12.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="button12.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_AAvg.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_BAvg.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_AMax.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_AMin.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_BMin.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_BMax.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label49.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="label49.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label61.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="label61.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label60.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="label60.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label59.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="label59.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label57.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="label57.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label56.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="label56.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_ZPos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label21.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label21.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_ZStat.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_YPos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label26.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label26.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_YStat.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_XPos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label30.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label30.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_XStat.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbGrR_TcW.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbGrR_TcW.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbGrR_TcAKn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbGrR_TcAKn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbGrR_TcWKn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbGrR_TcWKn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbGrR_TcDn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbGrR_TcDn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_BtmFlw.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrR_BtmFlw.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_GrdFlw.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrR_GrdFlw.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_SplPcw.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrR_SplPcw.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_SplZig.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrR_SplZig.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_PrbAMP.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrR_PrbAMP.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_TcFlw.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrR_TcFlw.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_TcDn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrR_TcDn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_TblFlw.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrR_TblFlw.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_TblVac.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrR_TblVac.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnGrR_Grd.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnGrR_Grd.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label15.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label15.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_FiOne.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_Fi.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrR_Fi.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_FiToTh.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_FiCyTh.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_FiTbl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_FiCnt.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_FiSpl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_FiTar.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_R3One.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_R3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrR_R3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_R3ToTh.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_R3CyTh.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_R3Tbl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_R3Cnt.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_R3Spl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_R3Tar.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_R2One.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_R2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrR_R2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_R2ToTh.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_R2CyTh.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_R2Tbl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_R2Cnt.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_R2Spl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_R2Tar.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_R1One.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_R1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrR_R1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_R1ToTh.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_R1CyTh.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_R1Tbl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_R1Cnt.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_R1Spl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_R1Tar.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label5.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label7.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label7.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label9.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label9.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label11.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label11.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_Mod.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblGrR_Mod.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGrR_ModT.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="lblGrR_ModT.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnGrR_Drs.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnGrR_Drs.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbGrR_Ejt.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbGrR_Ejt.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbGrR_Wtr.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbGrR_Wtr.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbGrR_Vac.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbGrR_Vac.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnGrR_StInsp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnGrR_StInsp.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnGrR_DrInsp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnGrR_DrInsp.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnGrR_WhInsp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnGrR_WhInsp.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnGrR_Stop.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnGrR_Stop.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnGrR_H.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnGrR_H.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnGrR_Wait.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnGrR_Wait.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfp_ZPos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label22.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label22.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfp_ZStat.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfp_XPos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label38.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label38.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfp_XStat.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbOfP_Drn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbOfP_Drn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfP_LdCell.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblOfP_LdCell.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfP_Vac.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblOfP_Vac.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfP_R90.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblOfP_R90.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfP_R0.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblOfP_R0.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbOfP_R0.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbOfP_R0.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbOfP_Ejt.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbOfP_Ejt.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnOfP_PickCl.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnOfP_PickCl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnOfP_StripCl.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnOfP_StripCl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnOfP_Place.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnOfP_Place.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnOfP_PickR.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnOfP_PickR.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnOfP_PickL.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnOfP_PickL.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbOfP_Vac.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbOfP_Vac.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button8.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="button8.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnOfP_H.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnOfP_H.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnOfP_Wait.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnOfP_Wait.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnDry_Work.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnDry_Work.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbDry_Flow.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbDry_Flow.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbDry_Stick.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbDry_Stick.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbDry_Btm.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbDry_Btm.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbDry_Top.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbDry_Top.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblDry_ZPos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label35.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label35.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblDry_ZStat.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="lblDry_ZStat.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblDry_RPos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label28.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label28.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblDry_RStat.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="lblDry_RStat.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblDry_XPos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label40.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label40.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblDry_XStat.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="lblDry_XStat.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="button1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="button2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblDry_BtmFlow.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblDry_BtmFlow.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblDry_BtmTarget.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblDry_BtmTarget.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblDry_BtmStandby.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblDry_BtmStandby.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblDry_Lv2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblDry_Lv2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblDry_Lv1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblDry_Lv1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblDry_StpOutD.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblDry_StpOutD.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblDry_PushO.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblDry_PushO.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button9.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnDry_Home.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnDry_Home.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnDry_Wait.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnDry_Wait.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfl_ZPos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label44.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label44.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfl_ZStat.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfl_YPos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label39.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label39.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfl_YStat.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfl_XPos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label32.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label32.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfl_XStat.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbOfL_BmUp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbOfL_BmUp.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbOfL_BmOn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbOfL_BmOn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbOfL_TmUp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbOfL_TmUp.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbOfL_TmOn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbOfL_TmOn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbOfL_BcR.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbOfL_BcR.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbOfL_McCCW.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbOfL_McCCW.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbOfL_McR.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbOfL_McR.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ckbOfL_TcR.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="ckbOfL_TcR.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfL_BmUp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblOfL_BmUp.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfL_BmOn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblOfL_BmOn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfL_BmD2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblOfL_BmD2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfL_BmD1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblOfL_BmD1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfL_TmUp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblOfL_TmUp.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfL_BcMgzF.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblOfL_BcMgzF.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfL_BcMgzD.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblOfL_BcMgzD.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfL_TmOn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblOfL_TmOn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfL_TmD2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblOfL_TmD2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfL_TmD1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblOfL_TmD1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfL_McMgzD.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblOfL_McMgzD.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfL_TcMgzF.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblOfL_TcMgzF.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfL_TcMgzD.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblOfL_TcMgzD.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfL_LiCur.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblOfL_LiCur.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfL_DorR.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblOfL_DorR.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfL_DorRg.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblOfL_DorRg.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfL_DorF.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblOfL_DorF.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfL_EmgR.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblOfL_EmgR.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblOfL_EmgF.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt</value>
+  </data>
+  <data name="lblOfL_EmgF.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnOfL_RcvBtm.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnOfL_RcvBtm.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btmOfL_PlaceBtm.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btmOfL_PlaceBtm.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnOfL_PickBtm.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnOfL_PickBtm.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnOfL_RcvTop.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnOfL_RcvTop.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnOfL_PlaceTop.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnOfL_PlaceTop.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnOfL_PickTop.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnOfL_PickTop.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button10.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="button10.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnOfL_Home.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnOfL_Home.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnOfL_Wait.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="btnOfL_Wait.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button16.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12pt</value>
+  </data>
+  <data name="button16.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label67.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="label67.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button18.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12pt</value>
+  </data>
+  <data name="button18.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button14.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12pt</value>
+  </data>
+  <data name="button14.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label65.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="label65.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button17.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12pt</value>
+  </data>
+  <data name="button17.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button15.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12pt</value>
+  </data>
+  <data name="button15.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label66.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="label66.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_ConOfLPick.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12pt</value>
+  </data>
+  <data name="btn_ConOfLPick.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label64.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="label64.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_ConOnLPick.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12pt</value>
+  </data>
+  <data name="btn_ConOnLPick.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label62.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="label62.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="rdbM_10Con.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12pt, style=Bold</value>
+  </data>
+  <data name="rdbM_10Con.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="rdb_11Cnv.Text" xml:space="preserve">
+    <value>补偿值</value>
+  </data>
+  <data name="rdbM_9OfL.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12pt, style=Bold</value>
+  </data>
+  <data name="rdbM_9OfL.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="rdb_10OfL.Text" xml:space="preserve">
+    <value>下料区</value>
+  </data>
+  <data name="rdbM_8Dry.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12pt, style=Bold</value>
+  </data>
+  <data name="rdbM_8Dry.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="rdb_9Dry.Text" xml:space="preserve">
+    <value>甩干机</value>
+  </data>
+  <data name="rdbM_7OfP.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12pt, style=Bold</value>
+  </data>
+  <data name="rdbM_7OfP.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="rdb_8OfP.Text" xml:space="preserve">
+    <value>下料抓手</value>
+  </data>
+  <data name="rdbM_6GrR.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12pt, style=Bold</value>
+  </data>
+  <data name="rdbM_6GrR.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="rdb_7GrR.Text" xml:space="preserve">
+    <value>右侧研磨区</value>
+  </data>
+  <data name="rdbM_5GrD.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12pt, style=Bold</value>
+  </data>
+  <data name="rdbM_5GrD.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="rdb_6GrD.Text" xml:space="preserve">
+    <value>同步研磨区</value>
+  </data>
+  <data name="rdbM_4GrL.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12pt, style=Bold</value>
+  </data>
+  <data name="rdbM_4GrL.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="rdb_5GrL.Text" xml:space="preserve">
+    <value>左侧研磨区</value>
+  </data>
+  <data name="rdbM_3Onp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12pt, style=Bold</value>
+  </data>
+  <data name="rdbM_3Onp.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="rdb_4Onp.Text" xml:space="preserve">
+    <value>上料抓手</value>
+  </data>
+  <data name="rdbM_2Inr.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12pt, style=Bold</value>
+  </data>
+  <data name="rdbM_2Inr.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="rdb_3Inr.Text" xml:space="preserve">
+    <value>进料轨道</value>
+  </data>
+  <data name="rdbM_1Onl.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12pt, style=Bold</value>
+  </data>
+  <data name="rdbM_1Onl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="rdb_2Onl.Text" xml:space="preserve">
+    <value>上料区</value>
+  </data>
+  <data name="rdbM_0Man.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12pt, style=Bold</value>
+  </data>
+  <data name="rdbM_0Man.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="rdb_1Man.Text" xml:space="preserve">
+    <value>手动操作</value>
+  </data>
+</root>

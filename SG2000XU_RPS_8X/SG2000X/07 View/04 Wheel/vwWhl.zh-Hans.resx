@@ -1,0 +1,1081 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btnL_Del.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12pt, style=Bold</value>
+  </data>
+  <data name="btnL_Del.Text" xml:space="preserve">
+    <value>删除</value>
+  </data>
+  <data name="btnL_SaveAs.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12pt, style=Bold</value>
+  </data>
+  <data name="btnL_SaveAs.Text" xml:space="preserve">
+    <value>另存为</value>
+  </data>
+  <data name="btnL_New.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12pt, style=Bold</value>
+  </data>
+  <data name="btnL_New.Text" xml:space="preserve">
+    <value>新建</value>
+  </data>
+  <data name="label37.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label37.Text" xml:space="preserve">
+    <value>名称</value>
+  </data>
+  <data name="label42.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="label42.Text" xml:space="preserve">
+    <value>文件列表</value>
+  </data>
+  <data name="label98.Text" xml:space="preserve">
+    <value>(范围 1 ~ 4 [mm])</value>
+  </data>
+  <data name="label97.Text" xml:space="preserve">
+    <value>(范围 1 ~ 9 [mm])</value>
+  </data>
+  <data name="lblL_DrsLimit.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="lblL_DrsLimit.Text" xml:space="preserve">
+    <value>磨刀石限制高度 [mm]</value>
+  </data>
+  <data name="lblL_WhlLimit.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="lblL_WhlLimit.Text" xml:space="preserve">
+    <value>砂轮限制高度 [mm]</value>
+  </data>
+  <data name="label95.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="label95.Text" xml:space="preserve">
+    <value>磨刀石信息</value>
+  </data>
+  <data name="label85.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label85.Text" xml:space="preserve">
+    <value>空切高度 [mm]</value>
+  </data>
+  <data name="label12.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="label12.Text" xml:space="preserve">
+    <value>切换参数</value>
+  </data>
+  <data name="label89.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label89.Text" xml:space="preserve">
+    <value>模式</value>
+  </data>
+  <data name="label13.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label13.Text" xml:space="preserve">
+    <value>方向</value>
+  </data>
+  <data name="cmbL_R1Mod.Items" xml:space="preserve">
+    <value>往复研磨</value>
+  </data>
+  <data name="cmbL_R1Mod.Items1" xml:space="preserve">
+    <value>单向研磨</value>
+  </data>
+  <data name="cmbL_R1Mod.Items2" xml:space="preserve">
+    <value>Z模式</value>
+  </data>
+  <data name="cmbL_R1Dir.Items" xml:space="preserve">
+    <value>向前方</value>
+  </data>
+  <data name="cmbL_R1Dir.Items1" xml:space="preserve">
+    <value>向后方</value>
+  </data>
+  <data name="label14.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label14.Text" xml:space="preserve">
+    <value>主轴转速 [rpm]</value>
+  </data>
+  <data name="label15.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label15.Text" xml:space="preserve">
+    <value>工作台速度 [mm/s]</value>
+  </data>
+  <data name="label17.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label17.Text" xml:space="preserve">
+    <value>单步进给深度 [mm]</value>
+  </data>
+  <data name="label18.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label18.Text" xml:space="preserve">
+    <value>总进给深度 [mm]</value>
+  </data>
+  <data name="label19.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt, style=Bold</value>
+  </data>
+  <data name="label19.Text" xml:space="preserve">
+    <value>步骤 01</value>
+  </data>
+  <data name="label90.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label90.Text" xml:space="preserve">
+    <value>模式</value>
+  </data>
+  <data name="label20.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label20.Text" xml:space="preserve">
+    <value>方向</value>
+  </data>
+  <data name="cmbL_R2Mod.Items" xml:space="preserve">
+    <value>往复研磨</value>
+  </data>
+  <data name="cmbL_R2Mod.Items1" xml:space="preserve">
+    <value>单向研磨</value>
+  </data>
+  <data name="cmbL_R2Mod.Items2" xml:space="preserve">
+    <value>Z模式</value>
+  </data>
+  <data name="cmbL_R2Dir.Items" xml:space="preserve">
+    <value>向前方</value>
+  </data>
+  <data name="cmbL_R2Dir.Items1" xml:space="preserve">
+    <value>向后方</value>
+  </data>
+  <data name="label21.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label21.Text" xml:space="preserve">
+    <value>主轴转速 [rpm]</value>
+  </data>
+  <data name="label22.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label22.Text" xml:space="preserve">
+    <value>工作台速度 [mm/s]</value>
+  </data>
+  <data name="label23.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label23.Text" xml:space="preserve">
+    <value>单步进给深度 [mm]</value>
+  </data>
+  <data name="label24.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label24.Text" xml:space="preserve">
+    <value>总进给深度 [mm]</value>
+  </data>
+  <data name="label25.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt, style=Bold</value>
+  </data>
+  <data name="label25.Text" xml:space="preserve">
+    <value>步骤 02</value>
+  </data>
+  <data name="btnL_Save.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 15pt, style=Bold</value>
+  </data>
+  <data name="btnL_Save.Text" xml:space="preserve">
+    <value>保存&amp;应用</value>
+  </data>
+  <data name="label40.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label40.Text" xml:space="preserve">
+    <value>高度 [mm]</value>
+  </data>
+  <data name="label41.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label41.Text" xml:space="preserve">
+    <value>外径 [mm]</value>
+  </data>
+  <data name="label43.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label43.Text" xml:space="preserve">
+    <value>名称</value>
+  </data>
+  <data name="label44.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="label44.Text" xml:space="preserve">
+    <value>磨刀石信息</value>
+  </data>
+  <data name="label36.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label36.Text" xml:space="preserve">
+    <value>保存数据</value>
+  </data>
+  <data name="label35.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label35.Text" xml:space="preserve">
+    <value>磨刀损耗 [mm]</value>
+  </data>
+  <data name="label34.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label34.Text" xml:space="preserve">
+    <value>1 次磨刀损耗 [mm]</value>
+  </data>
+  <data name="label33.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label33.Text" xml:space="preserve">
+    <value>1 条料损耗 [mm]</value>
+  </data>
+  <data name="label32.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label32.Text" xml:space="preserve">
+    <value>总损耗 [mm]</value>
+  </data>
+  <data name="label31.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label31.Text" xml:space="preserve">
+    <value>磨刀后料条计数</value>
+  </data>
+  <data name="label29.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label29.Text" xml:space="preserve">
+    <value>总料条计数</value>
+  </data>
+  <data name="label28.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label28.Text" xml:space="preserve">
+    <value>齿高度 [mm]</value>
+  </data>
+  <data name="label27.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label27.Text" xml:space="preserve">
+    <value>外径 [mm]</value>
+  </data>
+  <data name="label26.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="label26.Text" xml:space="preserve">
+    <value>砂轮信息</value>
+  </data>
+  <data name="label30.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="label30.Text" xml:space="preserve">
+    <value>正在使用的参数</value>
+  </data>
+  <data name="label88.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label88.Text" xml:space="preserve">
+    <value>模式</value>
+  </data>
+  <data name="cmbL_U2Mod.Items" xml:space="preserve">
+    <value>往复研磨</value>
+  </data>
+  <data name="cmbL_U2Mod.Items1" xml:space="preserve">
+    <value>单向研磨</value>
+  </data>
+  <data name="cmbL_U2Mod.Items2" xml:space="preserve">
+    <value>Z模式</value>
+  </data>
+  <data name="label6.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>方向</value>
+  </data>
+  <data name="cmbL_U2Dir.Items" xml:space="preserve">
+    <value>向前方</value>
+  </data>
+  <data name="cmbL_U2Dir.Items1" xml:space="preserve">
+    <value>向后方</value>
+  </data>
+  <data name="label7.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>主轴转速 [rpm]</value>
+  </data>
+  <data name="label8.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>工作台速度 [mm/s]</value>
+  </data>
+  <data name="label9.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>单步进给深度 [mm]</value>
+  </data>
+  <data name="label10.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>总进给深度 [mm]</value>
+  </data>
+  <data name="label11.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt, style=Bold</value>
+  </data>
+  <data name="label11.Text" xml:space="preserve">
+    <value>步骤 02</value>
+  </data>
+  <data name="label87.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label87.Text" xml:space="preserve">
+    <value>模式</value>
+  </data>
+  <data name="cmbL_U1Mod.Items" xml:space="preserve">
+    <value>往复研磨</value>
+  </data>
+  <data name="cmbL_U1Mod.Items1" xml:space="preserve">
+    <value>单向研磨</value>
+  </data>
+  <data name="cmbL_U1Mod.Items2" xml:space="preserve">
+    <value>Z模式</value>
+  </data>
+  <data name="label4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>方向</value>
+  </data>
+  <data name="cmbL_U1Dir.Items" xml:space="preserve">
+    <value>向前方</value>
+  </data>
+  <data name="cmbL_U1Dir.Items1" xml:space="preserve">
+    <value>向后方</value>
+  </data>
+  <data name="label3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>主轴转速 [rpm]</value>
+  </data>
+  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>工作台速度 [mm/s]</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>单步进给深度 [mm]</value>
+  </data>
+  <data name="label5.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>总深度 [mm]</value>
+  </data>
+  <data name="label16.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt, style=Bold</value>
+  </data>
+  <data name="label16.Text" xml:space="preserve">
+    <value>步骤 01</value>
+  </data>
+  <data name="tpL_Info.Text" xml:space="preserve">
+    <value>信息</value>
+  </data>
+  <data name="Column1.HeaderText" xml:space="preserve">
+    <value>日期</value>
+  </data>
+  <data name="Column2.HeaderText" xml:space="preserve">
+    <value>测深度模式</value>
+  </data>
+  <data name="Column3.HeaderText" xml:space="preserve">
+    <value>齿高度[mm]</value>
+  </data>
+  <data name="Column4.HeaderText" xml:space="preserve">
+    <value>齿损耗[mm]</value>
+  </data>
+  <data name="Column5.HeaderText" xml:space="preserve">
+    <value>磨刀石名称</value>
+  </data>
+  <data name="Column6.HeaderText" xml:space="preserve">
+    <value>磨刀石高度 [mm]</value>
+  </data>
+  <data name="Column7.HeaderText" xml:space="preserve">
+    <value>磨刀石损耗 [mm]</value>
+  </data>
+  <data name="Column8.HeaderText" xml:space="preserve">
+    <value>研磨计数[ea]</value>
+  </data>
+  <data name="Column9.HeaderText" xml:space="preserve">
+    <value>磨刀计数[ea]</value>
+  </data>
+  <data name="Column10.HeaderText" xml:space="preserve">
+    <value>磨刀周期内的研磨条数[ea]</value>
+  </data>
+  <data name="Column11.HeaderText" xml:space="preserve">
+    <value>1条料损耗[mm]</value>
+  </data>
+  <data name="Column12.HeaderText" xml:space="preserve">
+    <value>空磨[mm]</value>
+  </data>
+  <data name="Column13.HeaderText" xml:space="preserve">
+    <value>步骤1 总研磨厚度[mm]</value>
+  </data>
+  <data name="Column14.HeaderText" xml:space="preserve">
+    <value>步骤1 单步厚度[mm]</value>
+  </data>
+  <data name="Column15.HeaderText" xml:space="preserve">
+    <value>步骤1 工作台速度[mm/s]</value>
+  </data>
+  <data name="Column16.HeaderText" xml:space="preserve">
+    <value>步骤1 主轴转速</value>
+  </data>
+  <data name="Column17.HeaderText" xml:space="preserve">
+    <value>步骤2 总研磨厚度[mm]</value>
+  </data>
+  <data name="Column18.HeaderText" xml:space="preserve">
+    <value>步骤2 单步厚度[mm]</value>
+  </data>
+  <data name="Column19.HeaderText" xml:space="preserve">
+    <value>步骤2 工作台速度[mm/s]</value>
+  </data>
+  <data name="Column20.HeaderText" xml:space="preserve">
+    <value>步骤2 主轴转速</value>
+  </data>
+  <data name="tpL_Hist.Text" xml:space="preserve">
+    <value>历史记录</value>
+  </data>
+  <data name="rdbL_SubMenu2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="rdbL_SubMenu2.Text" xml:space="preserve">
+    <value>历史记录</value>
+  </data>
+  <data name="rdbL_SubMenu1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="rdbL_SubMenu1.Text" xml:space="preserve">
+    <value>参数</value>
+  </data>
+  <data name="tpWhl1.Text" xml:space="preserve">
+    <value>左侧砂轮</value>
+  </data>
+  <data name="btnR_Del.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12pt, style=Bold</value>
+  </data>
+  <data name="btnR_Del.Text" xml:space="preserve">
+    <value>删除</value>
+  </data>
+  <data name="btnR_SaveAs.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12pt, style=Bold</value>
+  </data>
+  <data name="btnR_SaveAs.Text" xml:space="preserve">
+    <value>另存为</value>
+  </data>
+  <data name="btnR_New.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12pt, style=Bold</value>
+  </data>
+  <data name="btnR_New.Text" xml:space="preserve">
+    <value>新建</value>
+  </data>
+  <data name="label38.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label38.Text" xml:space="preserve">
+    <value>名称</value>
+  </data>
+  <data name="label39.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="label39.Text" xml:space="preserve">
+    <value>文件列表</value>
+  </data>
+  <data name="label99.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 8pt</value>
+  </data>
+  <data name="label99.Text" xml:space="preserve">
+    <value>(范围 1 ~ 4 [mm])</value>
+  </data>
+  <data name="label100.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 8pt</value>
+  </data>
+  <data name="label100.Text" xml:space="preserve">
+    <value>(范围 1 ~ 9 [mm])</value>
+  </data>
+  <data name="label101.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label101.Text" xml:space="preserve">
+    <value>磨刀石限制高度 [mm]</value>
+  </data>
+  <data name="label102.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label102.Text" xml:space="preserve">
+    <value>砂轮限制高度 [mm]</value>
+  </data>
+  <data name="label45.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="label45.Text" xml:space="preserve">
+    <value>磨刀石信息</value>
+  </data>
+  <data name="label46.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label46.Text" xml:space="preserve">
+    <value>空磨厚度 [mm]</value>
+  </data>
+  <data name="label47.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="label47.Text" xml:space="preserve">
+    <value>切换参数</value>
+  </data>
+  <data name="label48.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label48.Text" xml:space="preserve">
+    <value>模式</value>
+  </data>
+  <data name="label49.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label49.Text" xml:space="preserve">
+    <value>方向</value>
+  </data>
+  <data name="cmbR_R1Mod.Items" xml:space="preserve">
+    <value>往复研磨</value>
+  </data>
+  <data name="cmbR_R1Mod.Items1" xml:space="preserve">
+    <value>单向研磨</value>
+  </data>
+  <data name="cmbR_R1Mod.Items2" xml:space="preserve">
+    <value>Z模式</value>
+  </data>
+  <data name="cmbR_R1Dir.Items" xml:space="preserve">
+    <value>向前方</value>
+  </data>
+  <data name="cmbR_R1Dir.Items1" xml:space="preserve">
+    <value>向后方</value>
+  </data>
+  <data name="label50.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label50.Text" xml:space="preserve">
+    <value>主轴转速 [rpm]</value>
+  </data>
+  <data name="label51.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label51.Text" xml:space="preserve">
+    <value>平台运行速度 [mm/s]</value>
+  </data>
+  <data name="label52.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label52.Text" xml:space="preserve">
+    <value>单步进给深度 [mm]</value>
+  </data>
+  <data name="label53.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label53.Text" xml:space="preserve">
+    <value>总进给深度 [mm]</value>
+  </data>
+  <data name="label54.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt, style=Bold</value>
+  </data>
+  <data name="label54.Text" xml:space="preserve">
+    <value>步骤 01</value>
+  </data>
+  <data name="label55.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label55.Text" xml:space="preserve">
+    <value>模式</value>
+  </data>
+  <data name="label56.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label56.Text" xml:space="preserve">
+    <value>方向</value>
+  </data>
+  <data name="cmbR_R2Mod.Items" xml:space="preserve">
+    <value>往复研磨</value>
+  </data>
+  <data name="cmbR_R2Mod.Items1" xml:space="preserve">
+    <value>单向研磨</value>
+  </data>
+  <data name="cmbR_R2Mod.Items2" xml:space="preserve">
+    <value>Z模式</value>
+  </data>
+  <data name="cmbR_R2Dir.Items" xml:space="preserve">
+    <value>向前方</value>
+  </data>
+  <data name="cmbR_R2Dir.Items1" xml:space="preserve">
+    <value>向后方</value>
+  </data>
+  <data name="label57.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label57.Text" xml:space="preserve">
+    <value>主轴转速 [rpm]</value>
+  </data>
+  <data name="label58.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label58.Text" xml:space="preserve">
+    <value>平台运行速度 [mm/s]</value>
+  </data>
+  <data name="label59.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label59.Text" xml:space="preserve">
+    <value>单步进给深度 [mm]</value>
+  </data>
+  <data name="label60.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label60.Text" xml:space="preserve">
+    <value>总进给深度 [mm]</value>
+  </data>
+  <data name="label61.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt, style=Bold</value>
+  </data>
+  <data name="label61.Text" xml:space="preserve">
+    <value>步骤 02</value>
+  </data>
+  <data name="btnR_Save.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 15pt, style=Bold</value>
+  </data>
+  <data name="btnR_Save.Text" xml:space="preserve">
+    <value>保存&amp;应用</value>
+  </data>
+  <data name="label62.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label62.Text" xml:space="preserve">
+    <value>高度 [mm]</value>
+  </data>
+  <data name="label63.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label63.Text" xml:space="preserve">
+    <value>外径 [mm]</value>
+  </data>
+  <data name="label64.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label64.Text" xml:space="preserve">
+    <value>名称</value>
+  </data>
+  <data name="label65.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="label65.Text" xml:space="preserve">
+    <value>磨刀石信息</value>
+  </data>
+  <data name="label66.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label66.Text" xml:space="preserve">
+    <value>保存数据</value>
+  </data>
+  <data name="label67.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label67.Text" xml:space="preserve">
+    <value>磨刀损耗 [mm]</value>
+  </data>
+  <data name="label68.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label68.Text" xml:space="preserve">
+    <value>1 次磨刀损耗 [mm]</value>
+  </data>
+  <data name="label69.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label69.Text" xml:space="preserve">
+    <value>1 条料损耗 [mm]</value>
+  </data>
+  <data name="label70.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label70.Text" xml:space="preserve">
+    <value>总损耗 [mm]</value>
+  </data>
+  <data name="label71.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label71.Text" xml:space="preserve">
+    <value>磨刀后料条计数</value>
+  </data>
+  <data name="label72.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label72.Text" xml:space="preserve">
+    <value>总料条计数</value>
+  </data>
+  <data name="label73.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label73.Text" xml:space="preserve">
+    <value>齿高度 [mm]</value>
+  </data>
+  <data name="label74.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label74.Text" xml:space="preserve">
+    <value>外径 [mm]</value>
+  </data>
+  <data name="label75.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="label75.Text" xml:space="preserve">
+    <value>砂轮信息</value>
+  </data>
+  <data name="label76.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 10pt, style=Bold</value>
+  </data>
+  <data name="label76.Text" xml:space="preserve">
+    <value>正在使用的参数</value>
+  </data>
+  <data name="label77.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label77.Text" xml:space="preserve">
+    <value>模式</value>
+  </data>
+  <data name="cmbR_U2Mod.Items" xml:space="preserve">
+    <value>往复研磨</value>
+  </data>
+  <data name="cmbR_U2Mod.Items1" xml:space="preserve">
+    <value>单向研磨</value>
+  </data>
+  <data name="cmbR_U2Mod.Items2" xml:space="preserve">
+    <value>Z模式</value>
+  </data>
+  <data name="label78.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label78.Text" xml:space="preserve">
+    <value>方向</value>
+  </data>
+  <data name="cmbR_U2Dir.Items" xml:space="preserve">
+    <value>向前方</value>
+  </data>
+  <data name="cmbR_U2Dir.Items1" xml:space="preserve">
+    <value>向后方</value>
+  </data>
+  <data name="label79.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label79.Text" xml:space="preserve">
+    <value>主轴转速 [rpm]</value>
+  </data>
+  <data name="label80.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label80.Text" xml:space="preserve">
+    <value>工作台速度 [mm/s]</value>
+  </data>
+  <data name="label81.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label81.Text" xml:space="preserve">
+    <value>单步进给深度 [mm]</value>
+  </data>
+  <data name="label82.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label82.Text" xml:space="preserve">
+    <value>总进给深度 [mm]</value>
+  </data>
+  <data name="label83.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt, style=Bold</value>
+  </data>
+  <data name="label83.Text" xml:space="preserve">
+    <value>步骤 02</value>
+  </data>
+  <data name="label84.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label84.Text" xml:space="preserve">
+    <value>模式</value>
+  </data>
+  <data name="cmbR_U1Mod.Items" xml:space="preserve">
+    <value>往复研磨</value>
+  </data>
+  <data name="cmbR_U1Mod.Items1" xml:space="preserve">
+    <value>单向研磨</value>
+  </data>
+  <data name="cmbR_U1Mod.Items2" xml:space="preserve">
+    <value>Z模式</value>
+  </data>
+  <data name="label86.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label86.Text" xml:space="preserve">
+    <value>方向</value>
+  </data>
+  <data name="cmbR_U1Dir.Items" xml:space="preserve">
+    <value>向前方</value>
+  </data>
+  <data name="cmbR_U1Dir.Items1" xml:space="preserve">
+    <value>向后方</value>
+  </data>
+  <data name="label91.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label91.Text" xml:space="preserve">
+    <value>主轴转速 [rpm]</value>
+  </data>
+  <data name="label92.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label92.Text" xml:space="preserve">
+    <value>工作台速度 [mm/s]</value>
+  </data>
+  <data name="label93.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label93.Text" xml:space="preserve">
+    <value>单步进给深度 [mm]</value>
+  </data>
+  <data name="label94.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label94.Text" xml:space="preserve">
+    <value>总进给深度 [mm]</value>
+  </data>
+  <data name="label96.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt, style=Bold</value>
+  </data>
+  <data name="label96.Text" xml:space="preserve">
+    <value>步骤 01</value>
+  </data>
+  <data name="tpR_Info.Text" xml:space="preserve">
+    <value>信息</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn1.HeaderText" xml:space="preserve">
+    <value>日期</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn2.HeaderText" xml:space="preserve">
+    <value>测深度模式</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn3.HeaderText" xml:space="preserve">
+    <value>齿高度[mm]</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn4.HeaderText" xml:space="preserve">
+    <value>齿损耗[mm]</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn5.HeaderText" xml:space="preserve">
+    <value>磨刀石名称</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn6.HeaderText" xml:space="preserve">
+    <value>磨刀石高度 [mm]</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn7.HeaderText" xml:space="preserve">
+    <value>磨刀石损耗 [mm]</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn8.HeaderText" xml:space="preserve">
+    <value>研磨计数[ea]</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn9.HeaderText" xml:space="preserve">
+    <value>磨刀计数[ea]</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn10.HeaderText" xml:space="preserve">
+    <value>磨刀周期内的研磨条数[ea]</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn11.HeaderText" xml:space="preserve">
+    <value>1条料损耗[mm]</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn12.HeaderText" xml:space="preserve">
+    <value>空磨[mm]</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn13.HeaderText" xml:space="preserve">
+    <value>步骤1 总研磨厚度[mm]</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn14.HeaderText" xml:space="preserve">
+    <value>步骤1 单步厚度[mm]</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn15.HeaderText" xml:space="preserve">
+    <value>步骤1 工作台速度[mm/s]</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn16.HeaderText" xml:space="preserve">
+    <value>步骤1 主轴转速</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn17.HeaderText" xml:space="preserve">
+    <value>步骤2 总研磨厚度[mm]</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn18.HeaderText" xml:space="preserve">
+    <value>步骤2 单步厚度[mm]</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn19.HeaderText" xml:space="preserve">
+    <value>步骤2 工作台速度[mm/s]</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn20.HeaderText" xml:space="preserve">
+    <value>步骤2 主轴转速</value>
+  </data>
+  <data name="tpR_Hist.Text" xml:space="preserve">
+    <value>历史记录</value>
+  </data>
+  <data name="rdbR_SubMenu2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="rdbR_SubMenu2.Text" xml:space="preserve">
+    <value>历史记录</value>
+  </data>
+  <data name="rdbR_SubMenu1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 11pt, style=Bold</value>
+  </data>
+  <data name="rdbR_SubMenu1.Text" xml:space="preserve">
+    <value>参数</value>
+  </data>
+  <data name="tpWhl2.Text" xml:space="preserve">
+    <value>右侧砂轮</value>
+  </data>
+  <data name="rdbWhl_Right.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12pt, style=Bold</value>
+  </data>
+  <data name="rdbWhl_Right.Text" xml:space="preserve">
+    <value>右侧</value>
+  </data>
+  <data name="rdbWhl_Left.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12pt, style=Bold</value>
+  </data>
+  <data name="rdbWhl_Left.Text" xml:space="preserve">
+    <value>左侧</value>
+  </data>
+</root>

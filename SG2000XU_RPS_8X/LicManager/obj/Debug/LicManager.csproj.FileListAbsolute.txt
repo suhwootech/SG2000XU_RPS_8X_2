@@ -1,0 +1,62 @@
+D:\GitHub\SG2000XU\trunk\SG2000X_U\LicManager\obj\Debug\LicManager.csprojAssemblyReference.cache
+D:\GitHub\SG2000XU\trunk\SG2000X_U\LicManager\obj\Debug\LicManager.LicenseManager.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\LicManager\obj\Debug\LicManager.Properties.Resources.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\LicManager\obj\Debug\LicManager.csproj.GenerateResource.cache
+D:\GitHub\SG2000XU\trunk\SG2000X_U\LicManager\obj\Debug\LicManager.csproj.CoreCompileInputs.cache
+D:\GitHub\SG2000XU\trunk\SG2000X_U\LicManager\obj\Debug\LicManager.csproj.CopyComplete
+D:\GitHub\SG2000XU\trunk\SG2000X_U\LicManager\obj\Debug\LicManager.exe
+D:\GitHub\SG2000XU\trunk\SG2000X_U\LicManager\obj\Debug\LicManager.pdb
+D:\Suhwoo\SG2000X\Config\LicManager.exe.config
+D:\Suhwoo\SG2000X\Config\LicManager.exe
+D:\Suhwoo\SG2000X\Config\LicManager.pdb
+D:\Source\SG2000X_U_220929\LicManager\obj\Debug\LicManager.LicenseManager.resources
+D:\Source\SG2000X_U_220929\LicManager\obj\Debug\LicManager.Properties.Resources.resources
+D:\Source\SG2000X_U_220929\LicManager\obj\Debug\LicManager.csproj.GenerateResource.Cache
+D:\Source\SG2000X_U_220929\LicManager\obj\Debug\LicManager.exe
+D:\Source\SG2000X_U_220929\LicManager\obj\Debug\LicManager.pdb
+D:\Source\SG2000X_U_220929\LicManager\obj\Debug\LicManager.csproj.AssemblyReference.cache
+D:\Source\SG2000X_U_220929\LicManager\obj\Debug\LicManager.csproj.CoreCompileInputs.cache
+D:\Source\SG2000X_U_220929\LicManager\obj\Debug\LicManager.csproj.CopyComplete
+C:\Suhwoo\SG2000X\Config\LicManager.exe.config
+C:\Suhwoo\SG2000X\Config\LicManager.exe
+C:\Suhwoo\SG2000X\Config\LicManager.pdb
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\LicManager\obj\Debug\LicManager.csproj.AssemblyReference.cache
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\LicManager\obj\Debug\LicManager.LicenseManager.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\LicManager\obj\Debug\LicManager.Properties.Resources.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\LicManager\obj\Debug\LicManager.csproj.GenerateResource.cache
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\LicManager\obj\Debug\LicManager.csproj.CoreCompileInputs.cache
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\LicManager\obj\Debug\LicManager.csproj.CopyComplete
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\LicManager\obj\Debug\LicManager.exe
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\LicManager\obj\Debug\LicManager.pdb
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\LicManager\obj\Debug\LicManager.csproj.AssemblyReference.cache
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\LicManager\obj\Debug\LicManager.LicenseManager.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\LicManager\obj\Debug\LicManager.Properties.Resources.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\LicManager\obj\Debug\LicManager.csproj.GenerateResource.cache
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\LicManager\obj\Debug\LicManager.csproj.CoreCompileInputs.cache
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\LicManager\obj\Debug\LicManager.csproj.CopyComplete
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\LicManager\obj\Debug\LicManager.exe
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\LicManager\obj\Debug\LicManager.pdb
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\LicManager\obj\Debug\LicManager.csproj.AssemblyReference.cache
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\LicManager\obj\Debug\LicManager.LicenseManager.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\LicManager\obj\Debug\LicManager.Properties.Resources.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\LicManager\obj\Debug\LicManager.csproj.GenerateResource.cache
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\LicManager\obj\Debug\LicManager.csproj.CoreCompileInputs.cache
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\LicManager\obj\Debug\LicManager.csproj.CopyComplete
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\LicManager\obj\Debug\LicManager.exe
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\LicManager\obj\Debug\LicManager.pdb
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\LicManager\obj\Debug\LicManager.csproj.AssemblyReference.cache
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\LicManager\obj\Debug\LicManager.LicenseManager.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\LicManager\obj\Debug\LicManager.Properties.Resources.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\LicManager\obj\Debug\LicManager.csproj.GenerateResource.cache
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\LicManager\obj\Debug\LicManager.csproj.CoreCompileInputs.cache
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\LicManager\obj\Debug\LicManager.csproj.CopyComplete
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\LicManager\obj\Debug\LicManager.exe
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\LicManager\obj\Debug\LicManager.pdb
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\LicManager\obj\Debug\LicManager.csproj.AssemblyReference.cache
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\LicManager\obj\Debug\LicManager.LicenseManager.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\LicManager\obj\Debug\LicManager.Properties.Resources.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\LicManager\obj\Debug\LicManager.csproj.GenerateResource.cache
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\LicManager\obj\Debug\LicManager.csproj.CoreCompileInputs.cache
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\LicManager\obj\Debug\LicManager.csproj.CopyComplete
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\LicManager\obj\Debug\LicManager.exe
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\LicManager\obj\Debug\LicManager.pdb

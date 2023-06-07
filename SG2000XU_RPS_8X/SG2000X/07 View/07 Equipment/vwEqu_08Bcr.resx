@@ -1,0 +1,2619 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="lbl_Rfid.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="lbl_Rfid.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_Rfid.Location" type="System.Drawing.Point, System.Drawing">
+    <value>182, 276</value>
+  </data>
+  <data name="lbl_Rfid.Size" type="System.Drawing.Size, System.Drawing">
+    <value>528, 25</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="lbl_Rfid.TabIndex" type="System.Int32, mscorlib">
+    <value>179</value>
+  </data>
+  <data name="lbl_Rfid.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_Rfid.Name" xml:space="preserve">
+    <value>lbl_Rfid</value>
+  </data>
+  <data name="&gt;&gt;lbl_Rfid.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_Rfid.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_Rfid.ZOrder" xml:space="preserve">
+    <value>23</value>
+  </data>
+  <data name="btn_BtmRfid.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn_BtmRfid.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btn_BtmRfid.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_BtmRfid.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 301</value>
+  </data>
+  <data name="btn_BtmRfid.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 60</value>
+  </data>
+  <data name="btn_BtmRfid.TabIndex" type="System.Int32, mscorlib">
+    <value>178</value>
+  </data>
+  <data name="btn_BtmRfid.Text" xml:space="preserve">
+    <value>BOTTOM READ RFID</value>
+  </data>
+  <data name="&gt;&gt;btn_BtmRfid.Name" xml:space="preserve">
+    <value>btn_BtmRfid</value>
+  </data>
+  <data name="&gt;&gt;btn_BtmRfid.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_BtmRfid.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_BtmRfid.ZOrder" xml:space="preserve">
+    <value>24</value>
+  </data>
+  <data name="btn_TopRfid.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn_TopRfid.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btn_TopRfid.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_TopRfid.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 213</value>
+  </data>
+  <data name="btn_TopRfid.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 60</value>
+  </data>
+  <data name="btn_TopRfid.TabIndex" type="System.Int32, mscorlib">
+    <value>177</value>
+  </data>
+  <data name="btn_TopRfid.Text" xml:space="preserve">
+    <value>TOP READ RFID</value>
+  </data>
+  <data name="&gt;&gt;btn_TopRfid.Name" xml:space="preserve">
+    <value>btn_TopRfid</value>
+  </data>
+  <data name="&gt;&gt;btn_TopRfid.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_TopRfid.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_TopRfid.ZOrder" xml:space="preserve">
+    <value>25</value>
+  </data>
+  <data name="lbl_Ocr.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_Ocr.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_Ocr.Location" type="System.Drawing.Point, System.Drawing">
+    <value>182, 130</value>
+  </data>
+  <data name="lbl_Ocr.Size" type="System.Drawing.Size, System.Drawing">
+    <value>528, 25</value>
+  </data>
+  <data name="lbl_Ocr.TabIndex" type="System.Int32, mscorlib">
+    <value>176</value>
+  </data>
+  <data name="lbl_Ocr.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_Ocr.Name" xml:space="preserve">
+    <value>lbl_Ocr</value>
+  </data>
+  <data name="&gt;&gt;lbl_Ocr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_Ocr.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_Ocr.ZOrder" xml:space="preserve">
+    <value>26</value>
+  </data>
+  <data name="lbl_OcrTitle.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="lbl_OcrTitle.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OcrTitle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 130</value>
+  </data>
+  <data name="lbl_OcrTitle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 25</value>
+  </data>
+  <data name="lbl_OcrTitle.TabIndex" type="System.Int32, mscorlib">
+    <value>175</value>
+  </data>
+  <data name="lbl_OcrTitle.Text" xml:space="preserve">
+    <value>OCR</value>
+  </data>
+  <data name="lbl_OcrTitle.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomLeft</value>
+  </data>
+  <data name="&gt;&gt;lbl_OcrTitle.Name" xml:space="preserve">
+    <value>lbl_OcrTitle</value>
+  </data>
+  <data name="&gt;&gt;lbl_OcrTitle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OcrTitle.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_OcrTitle.ZOrder" xml:space="preserve">
+    <value>27</value>
+  </data>
+  <data name="btn_Bcr.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn_Bcr.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btn_Bcr.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_Bcr.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 10</value>
+  </data>
+  <data name="btn_Bcr.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 60</value>
+  </data>
+  <data name="btn_Bcr.TabIndex" type="System.Int32, mscorlib">
+    <value>174</value>
+  </data>
+  <data name="btn_Bcr.Text" xml:space="preserve">
+    <value>TRIGGER</value>
+  </data>
+  <data name="&gt;&gt;btn_Bcr.Name" xml:space="preserve">
+    <value>btn_Bcr</value>
+  </data>
+  <data name="&gt;&gt;btn_Bcr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_Bcr.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_Bcr.ZOrder" xml:space="preserve">
+    <value>28</value>
+  </data>
+  <data name="lbl_Bcr.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_Bcr.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_Bcr.Location" type="System.Drawing.Point, System.Drawing">
+    <value>182, 81</value>
+  </data>
+  <data name="lbl_Bcr.Size" type="System.Drawing.Size, System.Drawing">
+    <value>528, 25</value>
+  </data>
+  <data name="lbl_Bcr.TabIndex" type="System.Int32, mscorlib">
+    <value>173</value>
+  </data>
+  <data name="lbl_Bcr.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_Bcr.Name" xml:space="preserve">
+    <value>lbl_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_Bcr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_Bcr.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_Bcr.ZOrder" xml:space="preserve">
+    <value>29</value>
+  </data>
+  <data name="lbl_BcrTitle.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="lbl_BcrTitle.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_BcrTitle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 81</value>
+  </data>
+  <data name="lbl_BcrTitle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 25</value>
+  </data>
+  <data name="lbl_BcrTitle.TabIndex" type="System.Int32, mscorlib">
+    <value>172</value>
+  </data>
+  <data name="lbl_BcrTitle.Text" xml:space="preserve">
+    <value>BARCODE</value>
+  </data>
+  <data name="lbl_BcrTitle.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomLeft</value>
+  </data>
+  <data name="&gt;&gt;lbl_BcrTitle.Name" xml:space="preserve">
+    <value>lbl_BcrTitle</value>
+  </data>
+  <data name="&gt;&gt;lbl_BcrTitle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_BcrTitle.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_BcrTitle.ZOrder" xml:space="preserve">
+    <value>30</value>
+  </data>
+  <data name="btn_OnlRfid.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn_OnlRfid.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btn_OnlRfid.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_OnlRfid.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 395</value>
+  </data>
+  <data name="btn_OnlRfid.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 60</value>
+  </data>
+  <data name="btn_OnlRfid.TabIndex" type="System.Int32, mscorlib">
+    <value>180</value>
+  </data>
+  <data name="btn_OnlRfid.Text" xml:space="preserve">
+    <value>ONLOAD READ RFID</value>
+  </data>
+  <data name="&gt;&gt;btn_OnlRfid.Name" xml:space="preserve">
+    <value>btn_OnlRfid</value>
+  </data>
+  <data name="&gt;&gt;btn_OnlRfid.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OnlRfid.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_OnlRfid.ZOrder" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <data name="lbl_OnlRfid.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_OnlRfid.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OnlRfid.Location" type="System.Drawing.Point, System.Drawing">
+    <value>182, 415</value>
+  </data>
+  <data name="lbl_OnlRfid.Size" type="System.Drawing.Size, System.Drawing">
+    <value>528, 25</value>
+  </data>
+  <data name="lbl_OnlRfid.TabIndex" type="System.Int32, mscorlib">
+    <value>181</value>
+  </data>
+  <data name="lbl_OnlRfid.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnlRfid.Name" xml:space="preserve">
+    <value>lbl_OnlRfid</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnlRfid.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnlRfid.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnlRfid.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <data name="lbl_OriTitle.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="lbl_OriTitle.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OriTitle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>738, 81</value>
+  </data>
+  <data name="lbl_OriTitle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 25</value>
+  </data>
+  <data name="lbl_OriTitle.TabIndex" type="System.Int32, mscorlib">
+    <value>187</value>
+  </data>
+  <data name="lbl_OriTitle.Text" xml:space="preserve">
+    <value>ORIENTATION</value>
+  </data>
+  <data name="lbl_OriTitle.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomLeft</value>
+  </data>
+  <data name="&gt;&gt;lbl_OriTitle.Name" xml:space="preserve">
+    <value>lbl_OriTitle</value>
+  </data>
+  <data name="&gt;&gt;lbl_OriTitle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OriTitle.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_OriTitle.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="lbl_Ori.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_Ori.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_Ori.Location" type="System.Drawing.Point, System.Drawing">
+    <value>894, 81</value>
+  </data>
+  <data name="lbl_Ori.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 25</value>
+  </data>
+  <data name="lbl_Ori.TabIndex" type="System.Int32, mscorlib">
+    <value>186</value>
+  </data>
+  <data name="lbl_Ori.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_Ori.Name" xml:space="preserve">
+    <value>lbl_Ori</value>
+  </data>
+  <data name="&gt;&gt;lbl_Ori.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_Ori.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_Ori.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="btn_Ori.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn_Ori.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btn_Ori.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_Ori.Location" type="System.Drawing.Point, System.Drawing">
+    <value>738, 10</value>
+  </data>
+  <data name="btn_Ori.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 60</value>
+  </data>
+  <data name="btn_Ori.TabIndex" type="System.Int32, mscorlib">
+    <value>185</value>
+  </data>
+  <data name="btn_Ori.Text" xml:space="preserve">
+    <value>ORIENTATION</value>
+  </data>
+  <data name="&gt;&gt;btn_Ori.Name" xml:space="preserve">
+    <value>btn_Ori</value>
+  </data>
+  <data name="&gt;&gt;btn_Ori.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_Ori.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_Ori.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="btn_VisAuto.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn_VisAuto.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btn_VisAuto.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_VisAuto.Location" type="System.Drawing.Point, System.Drawing">
+    <value>738, 130</value>
+  </data>
+  <data name="btn_VisAuto.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 60</value>
+  </data>
+  <data name="btn_VisAuto.TabIndex" type="System.Int32, mscorlib">
+    <value>188</value>
+  </data>
+  <data name="btn_VisAuto.Text" xml:space="preserve">
+    <value>AUTO MODE</value>
+  </data>
+  <data name="&gt;&gt;btn_VisAuto.Name" xml:space="preserve">
+    <value>btn_VisAuto</value>
+  </data>
+  <data name="&gt;&gt;btn_VisAuto.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_VisAuto.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_VisAuto.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="btn_VisUiAuto.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn_VisUiAuto.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btn_VisUiAuto.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_VisUiAuto.Location" type="System.Drawing.Point, System.Drawing">
+    <value>738, 213</value>
+  </data>
+  <data name="btn_VisUiAuto.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 60</value>
+  </data>
+  <data name="btn_VisUiAuto.TabIndex" type="System.Int32, mscorlib">
+    <value>189</value>
+  </data>
+  <data name="btn_VisUiAuto.Text" xml:space="preserve">
+    <value>VISION UI AUTO</value>
+  </data>
+  <data name="&gt;&gt;btn_VisUiAuto.Name" xml:space="preserve">
+    <value>btn_VisUiAuto</value>
+  </data>
+  <data name="&gt;&gt;btn_VisUiAuto.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_VisUiAuto.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_VisUiAuto.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="btn_VisUiTrain.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn_VisUiTrain.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btn_VisUiTrain.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_VisUiTrain.Location" type="System.Drawing.Point, System.Drawing">
+    <value>738, 301</value>
+  </data>
+  <data name="btn_VisUiTrain.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 60</value>
+  </data>
+  <data name="btn_VisUiTrain.TabIndex" type="System.Int32, mscorlib">
+    <value>190</value>
+  </data>
+  <data name="btn_VisUiTrain.Text" xml:space="preserve">
+    <value>VISION UI TRAIN</value>
+  </data>
+  <data name="&gt;&gt;btn_VisUiTrain.Name" xml:space="preserve">
+    <value>btn_VisUiTrain</value>
+  </data>
+  <data name="&gt;&gt;btn_VisUiTrain.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_VisUiTrain.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_VisUiTrain.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="lbl_VisProcessTitle.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="lbl_VisProcessTitle.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_VisProcessTitle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>894, 137</value>
+  </data>
+  <data name="lbl_VisProcessTitle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 25</value>
+  </data>
+  <data name="lbl_VisProcessTitle.TabIndex" type="System.Int32, mscorlib">
+    <value>194</value>
+  </data>
+  <data name="lbl_VisProcessTitle.Text" xml:space="preserve">
+    <value>Vision Process</value>
+  </data>
+  <data name="lbl_VisProcessTitle.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomLeft</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisProcessTitle.Name" xml:space="preserve">
+    <value>lbl_VisProcessTitle</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisProcessTitle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisProcessTitle.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisProcessTitle.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="lbl_VisProcess.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_VisProcess.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_VisProcess.Location" type="System.Drawing.Point, System.Drawing">
+    <value>894, 165</value>
+  </data>
+  <data name="lbl_VisProcess.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 25</value>
+  </data>
+  <data name="lbl_VisProcess.TabIndex" type="System.Int32, mscorlib">
+    <value>193</value>
+  </data>
+  <data name="lbl_VisProcess.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisProcess.Name" xml:space="preserve">
+    <value>lbl_VisProcess</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisProcess.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisProcess.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisProcess.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="lbl_VisConnTitle.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="lbl_VisConnTitle.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_VisConnTitle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>894, 196</value>
+  </data>
+  <data name="lbl_VisConnTitle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 25</value>
+  </data>
+  <data name="lbl_VisConnTitle.TabIndex" type="System.Int32, mscorlib">
+    <value>196</value>
+  </data>
+  <data name="lbl_VisConnTitle.Text" xml:space="preserve">
+    <value>Vision Connection</value>
+  </data>
+  <data name="lbl_VisConnTitle.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomLeft</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisConnTitle.Name" xml:space="preserve">
+    <value>lbl_VisConnTitle</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisConnTitle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisConnTitle.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisConnTitle.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="lbl_VisConn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_VisConn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_VisConn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>894, 224</value>
+  </data>
+  <data name="lbl_VisConn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 25</value>
+  </data>
+  <data name="lbl_VisConn.TabIndex" type="System.Int32, mscorlib">
+    <value>195</value>
+  </data>
+  <data name="lbl_VisConn.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisConn.Name" xml:space="preserve">
+    <value>lbl_VisConn</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisConn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisConn.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisConn.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="lbl_VisULevelTitle.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="lbl_VisULevelTitle.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_VisULevelTitle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>894, 260</value>
+  </data>
+  <data name="lbl_VisULevelTitle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 25</value>
+  </data>
+  <data name="lbl_VisULevelTitle.TabIndex" type="System.Int32, mscorlib">
+    <value>198</value>
+  </data>
+  <data name="lbl_VisULevelTitle.Text" xml:space="preserve">
+    <value>Vision User Level</value>
+  </data>
+  <data name="lbl_VisULevelTitle.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomLeft</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisULevelTitle.Name" xml:space="preserve">
+    <value>lbl_VisULevelTitle</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisULevelTitle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisULevelTitle.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisULevelTitle.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="lbl_VisULevel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_VisULevel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_VisULevel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>894, 288</value>
+  </data>
+  <data name="lbl_VisULevel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 25</value>
+  </data>
+  <data name="lbl_VisULevel.TabIndex" type="System.Int32, mscorlib">
+    <value>197</value>
+  </data>
+  <data name="lbl_VisULevel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisULevel.Name" xml:space="preserve">
+    <value>lbl_VisULevel</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisULevel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisULevel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisULevel.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="lbl_VisUIModeTitle.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="lbl_VisUIModeTitle.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_VisUIModeTitle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>894, 323</value>
+  </data>
+  <data name="lbl_VisUIModeTitle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 25</value>
+  </data>
+  <data name="lbl_VisUIModeTitle.TabIndex" type="System.Int32, mscorlib">
+    <value>200</value>
+  </data>
+  <data name="lbl_VisUIModeTitle.Text" xml:space="preserve">
+    <value>Vision UI Mode</value>
+  </data>
+  <data name="lbl_VisUIModeTitle.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomLeft</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisUIModeTitle.Name" xml:space="preserve">
+    <value>lbl_VisUIModeTitle</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisUIModeTitle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisUIModeTitle.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisUIModeTitle.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="lbl_VisUIMode.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_VisUIMode.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_VisUIMode.Location" type="System.Drawing.Point, System.Drawing">
+    <value>894, 351</value>
+  </data>
+  <data name="lbl_VisUIMode.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 25</value>
+  </data>
+  <data name="lbl_VisUIMode.TabIndex" type="System.Int32, mscorlib">
+    <value>199</value>
+  </data>
+  <data name="lbl_VisUIMode.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisUIMode.Name" xml:space="preserve">
+    <value>lbl_VisUIMode</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisUIMode.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisUIMode.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisUIMode.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="lbl_VisStatusTitle.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="lbl_VisStatusTitle.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_VisStatusTitle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>894, 387</value>
+  </data>
+  <data name="lbl_VisStatusTitle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 25</value>
+  </data>
+  <data name="lbl_VisStatusTitle.TabIndex" type="System.Int32, mscorlib">
+    <value>202</value>
+  </data>
+  <data name="lbl_VisStatusTitle.Text" xml:space="preserve">
+    <value>Vision Status</value>
+  </data>
+  <data name="lbl_VisStatusTitle.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomLeft</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisStatusTitle.Name" xml:space="preserve">
+    <value>lbl_VisStatusTitle</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisStatusTitle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisStatusTitle.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisStatusTitle.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="lbl_VisStatus.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_VisStatus.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_VisStatus.Location" type="System.Drawing.Point, System.Drawing">
+    <value>894, 415</value>
+  </data>
+  <data name="lbl_VisStatus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 25</value>
+  </data>
+  <data name="lbl_VisStatus.TabIndex" type="System.Int32, mscorlib">
+    <value>201</value>
+  </data>
+  <data name="lbl_VisStatus.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisStatus.Name" xml:space="preserve">
+    <value>lbl_VisStatus</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisStatus.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisStatus.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbl_VisStatus.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrTcp_Title.Name" xml:space="preserve">
+    <value>lbl_OnL_BcrTcp_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrTcp_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrTcp_Title.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrTcp_Title.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrTcp.Name" xml:space="preserve">
+    <value>lbl_OnL_BcrTcp</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrTcp.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrTcp.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrTcp.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrBcr_Title.Name" xml:space="preserve">
+    <value>lbl_OnL_BcrBcr_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrBcr_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrBcr_Title.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrBcr_Title.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrBcr.Name" xml:space="preserve">
+    <value>lbl_OnL_BcrBcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrBcr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrBcr.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrBcr.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrErr_Title.Name" xml:space="preserve">
+    <value>lbl_OnL_BcrErr_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrErr_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrErr_Title.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrErr_Title.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrErr.Name" xml:space="preserve">
+    <value>lbl_OnL_BcrErr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrErr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrErr.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrErr.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmdResult_Title.Name" xml:space="preserve">
+    <value>lbl_OnL_BcrCmdResult_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmdResult_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmdResult_Title.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmdResult_Title.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmdResult.Name" xml:space="preserve">
+    <value>lbl_OnL_BcrCmdResult</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmdResult.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmdResult.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmdResult.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmd_Title.Name" xml:space="preserve">
+    <value>lbl_OnL_BcrCmd_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmd_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmd_Title.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmd_Title.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmd.Name" xml:space="preserve">
+    <value>lbl_OnL_BcrCmd</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmd.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmd.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmd.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrState_Title.Name" xml:space="preserve">
+    <value>lbl_OnL_BcrState_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrState_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrState_Title.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrState_Title.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrState.Name" xml:space="preserve">
+    <value>lbl_OnL_BcrState</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrState.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrState.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrState.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_BCLR.Name" xml:space="preserve">
+    <value>btn_OnL_BCLR</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_BCLR.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_BCLR.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_BCLR.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_LOFF.Name" xml:space="preserve">
+    <value>btn_OnL_LOFF</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_LOFF.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_LOFF.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_LOFF.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_LON.Name" xml:space="preserve">
+    <value>btn_OnL_LON</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_LON.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_LON.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_LON.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_BcrConnect.Name" xml:space="preserve">
+    <value>btn_OnL_BcrConnect</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_BcrConnect.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_BcrConnect.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_BcrConnect.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_Bcr_Title.Name" xml:space="preserve">
+    <value>lbl_OnL_Bcr_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_Bcr_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_Bcr_Title.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_Bcr_Title.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="pnl_OnL_Bcr.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 501</value>
+  </data>
+  <data name="pnl_OnL_Bcr.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>10, 10, 0, 0</value>
+  </data>
+  <data name="pnl_OnL_Bcr.Size" type="System.Drawing.Size, System.Drawing">
+    <value>471, 306</value>
+  </data>
+  <data name="pnl_OnL_Bcr.TabIndex" type="System.Int32, mscorlib">
+    <value>219</value>
+  </data>
+  <data name="pnl_OnL_Bcr.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;pnl_OnL_Bcr.Name" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;pnl_OnL_Bcr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnl_OnL_Bcr.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pnl_OnL_Bcr.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="lbl_OnL_BcrTcp_Title.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="lbl_OnL_BcrTcp_Title.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OnL_BcrTcp_Title.Location" type="System.Drawing.Point, System.Drawing">
+    <value>168, 36</value>
+  </data>
+  <data name="lbl_OnL_BcrTcp_Title.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 25</value>
+  </data>
+  <data name="lbl_OnL_BcrTcp_Title.TabIndex" type="System.Int32, mscorlib">
+    <value>234</value>
+  </data>
+  <data name="lbl_OnL_BcrTcp_Title.Text" xml:space="preserve">
+    <value>IP Address / Port</value>
+  </data>
+  <data name="lbl_OnL_BcrTcp_Title.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrTcp_Title.Name" xml:space="preserve">
+    <value>lbl_OnL_BcrTcp_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrTcp_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrTcp_Title.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrTcp_Title.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lbl_OnL_BcrTcp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="lbl_OnL_BcrTcp.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OnL_BcrTcp.Location" type="System.Drawing.Point, System.Drawing">
+    <value>286, 36</value>
+  </data>
+  <data name="lbl_OnL_BcrTcp.Size" type="System.Drawing.Size, System.Drawing">
+    <value>170, 25</value>
+  </data>
+  <data name="lbl_OnL_BcrTcp.TabIndex" type="System.Int32, mscorlib">
+    <value>233</value>
+  </data>
+  <data name="lbl_OnL_BcrTcp.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrTcp.Name" xml:space="preserve">
+    <value>lbl_OnL_BcrTcp</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrTcp.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrTcp.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrTcp.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lbl_OnL_BcrBcr_Title.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="lbl_OnL_BcrBcr_Title.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OnL_BcrBcr_Title.Location" type="System.Drawing.Point, System.Drawing">
+    <value>168, 69</value>
+  </data>
+  <data name="lbl_OnL_BcrBcr_Title.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 25</value>
+  </data>
+  <data name="lbl_OnL_BcrBcr_Title.TabIndex" type="System.Int32, mscorlib">
+    <value>232</value>
+  </data>
+  <data name="lbl_OnL_BcrBcr_Title.Text" xml:space="preserve">
+    <value>BCR Code</value>
+  </data>
+  <data name="lbl_OnL_BcrBcr_Title.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrBcr_Title.Name" xml:space="preserve">
+    <value>lbl_OnL_BcrBcr_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrBcr_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrBcr_Title.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrBcr_Title.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lbl_OnL_BcrBcr.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt, style=Bold</value>
+  </data>
+  <data name="lbl_OnL_BcrBcr.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OnL_BcrBcr.Location" type="System.Drawing.Point, System.Drawing">
+    <value>286, 69</value>
+  </data>
+  <data name="lbl_OnL_BcrBcr.Size" type="System.Drawing.Size, System.Drawing">
+    <value>170, 25</value>
+  </data>
+  <data name="lbl_OnL_BcrBcr.TabIndex" type="System.Int32, mscorlib">
+    <value>231</value>
+  </data>
+  <data name="lbl_OnL_BcrBcr.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrBcr.Name" xml:space="preserve">
+    <value>lbl_OnL_BcrBcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrBcr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrBcr.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrBcr.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lbl_OnL_BcrErr_Title.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="lbl_OnL_BcrErr_Title.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OnL_BcrErr_Title.Location" type="System.Drawing.Point, System.Drawing">
+    <value>168, 201</value>
+  </data>
+  <data name="lbl_OnL_BcrErr_Title.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 25</value>
+  </data>
+  <data name="lbl_OnL_BcrErr_Title.TabIndex" type="System.Int32, mscorlib">
+    <value>230</value>
+  </data>
+  <data name="lbl_OnL_BcrErr_Title.Text" xml:space="preserve">
+    <value>Error Code</value>
+  </data>
+  <data name="lbl_OnL_BcrErr_Title.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrErr_Title.Name" xml:space="preserve">
+    <value>lbl_OnL_BcrErr_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrErr_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrErr_Title.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrErr_Title.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="lbl_OnL_BcrErr.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_OnL_BcrErr.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OnL_BcrErr.Location" type="System.Drawing.Point, System.Drawing">
+    <value>286, 201</value>
+  </data>
+  <data name="lbl_OnL_BcrErr.Size" type="System.Drawing.Size, System.Drawing">
+    <value>170, 25</value>
+  </data>
+  <data name="lbl_OnL_BcrErr.TabIndex" type="System.Int32, mscorlib">
+    <value>229</value>
+  </data>
+  <data name="lbl_OnL_BcrErr.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrErr.Name" xml:space="preserve">
+    <value>lbl_OnL_BcrErr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrErr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrErr.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrErr.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="lbl_OnL_BcrCmdResult_Title.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="lbl_OnL_BcrCmdResult_Title.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OnL_BcrCmdResult_Title.Location" type="System.Drawing.Point, System.Drawing">
+    <value>168, 168</value>
+  </data>
+  <data name="lbl_OnL_BcrCmdResult_Title.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 25</value>
+  </data>
+  <data name="lbl_OnL_BcrCmdResult_Title.TabIndex" type="System.Int32, mscorlib">
+    <value>228</value>
+  </data>
+  <data name="lbl_OnL_BcrCmdResult_Title.Text" xml:space="preserve">
+    <value>Command Result</value>
+  </data>
+  <data name="lbl_OnL_BcrCmdResult_Title.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmdResult_Title.Name" xml:space="preserve">
+    <value>lbl_OnL_BcrCmdResult_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmdResult_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmdResult_Title.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmdResult_Title.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="lbl_OnL_BcrCmdResult.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_OnL_BcrCmdResult.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OnL_BcrCmdResult.Location" type="System.Drawing.Point, System.Drawing">
+    <value>286, 168</value>
+  </data>
+  <data name="lbl_OnL_BcrCmdResult.Size" type="System.Drawing.Size, System.Drawing">
+    <value>170, 25</value>
+  </data>
+  <data name="lbl_OnL_BcrCmdResult.TabIndex" type="System.Int32, mscorlib">
+    <value>227</value>
+  </data>
+  <data name="lbl_OnL_BcrCmdResult.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmdResult.Name" xml:space="preserve">
+    <value>lbl_OnL_BcrCmdResult</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmdResult.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmdResult.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmdResult.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="lbl_OnL_BcrCmd_Title.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="lbl_OnL_BcrCmd_Title.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OnL_BcrCmd_Title.Location" type="System.Drawing.Point, System.Drawing">
+    <value>168, 135</value>
+  </data>
+  <data name="lbl_OnL_BcrCmd_Title.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 25</value>
+  </data>
+  <data name="lbl_OnL_BcrCmd_Title.TabIndex" type="System.Int32, mscorlib">
+    <value>226</value>
+  </data>
+  <data name="lbl_OnL_BcrCmd_Title.Text" xml:space="preserve">
+    <value>Command</value>
+  </data>
+  <data name="lbl_OnL_BcrCmd_Title.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmd_Title.Name" xml:space="preserve">
+    <value>lbl_OnL_BcrCmd_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmd_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmd_Title.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmd_Title.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="lbl_OnL_BcrCmd.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_OnL_BcrCmd.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OnL_BcrCmd.Location" type="System.Drawing.Point, System.Drawing">
+    <value>286, 135</value>
+  </data>
+  <data name="lbl_OnL_BcrCmd.Size" type="System.Drawing.Size, System.Drawing">
+    <value>170, 25</value>
+  </data>
+  <data name="lbl_OnL_BcrCmd.TabIndex" type="System.Int32, mscorlib">
+    <value>225</value>
+  </data>
+  <data name="lbl_OnL_BcrCmd.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmd.Name" xml:space="preserve">
+    <value>lbl_OnL_BcrCmd</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmd.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmd.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrCmd.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="lbl_OnL_BcrState_Title.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="lbl_OnL_BcrState_Title.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OnL_BcrState_Title.Location" type="System.Drawing.Point, System.Drawing">
+    <value>168, 102</value>
+  </data>
+  <data name="lbl_OnL_BcrState_Title.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 25</value>
+  </data>
+  <data name="lbl_OnL_BcrState_Title.TabIndex" type="System.Int32, mscorlib">
+    <value>224</value>
+  </data>
+  <data name="lbl_OnL_BcrState_Title.Text" xml:space="preserve">
+    <value>State</value>
+  </data>
+  <data name="lbl_OnL_BcrState_Title.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrState_Title.Name" xml:space="preserve">
+    <value>lbl_OnL_BcrState_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrState_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrState_Title.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrState_Title.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="lbl_OnL_BcrState.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_OnL_BcrState.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OnL_BcrState.Location" type="System.Drawing.Point, System.Drawing">
+    <value>286, 102</value>
+  </data>
+  <data name="lbl_OnL_BcrState.Size" type="System.Drawing.Size, System.Drawing">
+    <value>170, 25</value>
+  </data>
+  <data name="lbl_OnL_BcrState.TabIndex" type="System.Int32, mscorlib">
+    <value>223</value>
+  </data>
+  <data name="lbl_OnL_BcrState.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrState.Name" xml:space="preserve">
+    <value>lbl_OnL_BcrState</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrState.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrState.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_BcrState.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="btn_OnL_BCLR.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn_OnL_BCLR.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btn_OnL_BCLR.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_OnL_BCLR.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 234</value>
+  </data>
+  <data name="btn_OnL_BCLR.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 60</value>
+  </data>
+  <data name="btn_OnL_BCLR.TabIndex" type="System.Int32, mscorlib">
+    <value>222</value>
+  </data>
+  <data name="btn_OnL_BCLR.Text" xml:space="preserve">
+    <value>BCLR</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_BCLR.Name" xml:space="preserve">
+    <value>btn_OnL_BCLR</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_BCLR.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_BCLR.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_BCLR.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="btn_OnL_LOFF.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn_OnL_LOFF.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btn_OnL_LOFF.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_OnL_LOFF.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 168</value>
+  </data>
+  <data name="btn_OnL_LOFF.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 60</value>
+  </data>
+  <data name="btn_OnL_LOFF.TabIndex" type="System.Int32, mscorlib">
+    <value>221</value>
+  </data>
+  <data name="btn_OnL_LOFF.Text" xml:space="preserve">
+    <value>LOFF</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_LOFF.Name" xml:space="preserve">
+    <value>btn_OnL_LOFF</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_LOFF.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_LOFF.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_LOFF.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="btn_OnL_LON.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn_OnL_LON.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btn_OnL_LON.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_OnL_LON.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 102</value>
+  </data>
+  <data name="btn_OnL_LON.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 60</value>
+  </data>
+  <data name="btn_OnL_LON.TabIndex" type="System.Int32, mscorlib">
+    <value>220</value>
+  </data>
+  <data name="btn_OnL_LON.Text" xml:space="preserve">
+    <value>LON</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_LON.Name" xml:space="preserve">
+    <value>btn_OnL_LON</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_LON.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_LON.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_LON.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="btn_OnL_BcrConnect.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn_OnL_BcrConnect.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btn_OnL_BcrConnect.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_OnL_BcrConnect.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 36</value>
+  </data>
+  <data name="btn_OnL_BcrConnect.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 60</value>
+  </data>
+  <data name="btn_OnL_BcrConnect.TabIndex" type="System.Int32, mscorlib">
+    <value>219</value>
+  </data>
+  <data name="btn_OnL_BcrConnect.Text" xml:space="preserve">
+    <value>CONNECT</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_BcrConnect.Name" xml:space="preserve">
+    <value>btn_OnL_BcrConnect</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_BcrConnect.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_BcrConnect.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;btn_OnL_BcrConnect.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="lbl_OnL_Bcr_Title.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt, style=Bold</value>
+  </data>
+  <data name="lbl_OnL_Bcr_Title.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OnL_Bcr_Title.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="lbl_OnL_Bcr_Title.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 0, 0, 0</value>
+  </data>
+  <data name="lbl_OnL_Bcr_Title.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 25</value>
+  </data>
+  <data name="lbl_OnL_Bcr_Title.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lbl_OnL_Bcr_Title.Text" xml:space="preserve">
+    <value>OnLoader Barcode</value>
+  </data>
+  <data name="lbl_OnL_Bcr_Title.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_Bcr_Title.Name" xml:space="preserve">
+    <value>lbl_OnL_Bcr_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_Bcr_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_Bcr_Title.Parent" xml:space="preserve">
+    <value>pnl_OnL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OnL_Bcr_Title.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrTcp_Title.Name" xml:space="preserve">
+    <value>lbl_OffL_BcrTcp_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrTcp_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrTcp_Title.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrTcp_Title.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrTcp.Name" xml:space="preserve">
+    <value>lbl_OffL_BcrTcp</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrTcp.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrTcp.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrTcp.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrBcr_Title.Name" xml:space="preserve">
+    <value>lbl_OffL_BcrBcr_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrBcr_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrBcr_Title.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrBcr_Title.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrBcr.Name" xml:space="preserve">
+    <value>lbl_OffL_BcrBcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrBcr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrBcr.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrBcr.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrErr_Title.Name" xml:space="preserve">
+    <value>lbl_OffL_BcrErr_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrErr_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrErr_Title.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrErr_Title.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrErr.Name" xml:space="preserve">
+    <value>lbl_OffL_BcrErr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrErr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrErr.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrErr.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmdResult_Title.Name" xml:space="preserve">
+    <value>lbl_OffL_BcrCmdResult_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmdResult_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmdResult_Title.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmdResult_Title.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmdResult.Name" xml:space="preserve">
+    <value>lbl_OffL_BcrCmdResult</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmdResult.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmdResult.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmdResult.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmd_Title.Name" xml:space="preserve">
+    <value>lbl_OffL_BcrCmd_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmd_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmd_Title.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmd_Title.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmd.Name" xml:space="preserve">
+    <value>lbl_OffL_BcrCmd</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmd.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmd.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmd.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrState_Title.Name" xml:space="preserve">
+    <value>lbl_OffL_BcrState_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrState_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrState_Title.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrState_Title.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrState.Name" xml:space="preserve">
+    <value>lbl_OffL_BcrState</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrState.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrState.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrState.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_BCLR.Name" xml:space="preserve">
+    <value>btn_OffL_BCLR</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_BCLR.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_BCLR.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_BCLR.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_LOFF.Name" xml:space="preserve">
+    <value>btn_OffL_LOFF</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_LOFF.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_LOFF.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_LOFF.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_LON.Name" xml:space="preserve">
+    <value>btn_OffL_LON</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_LON.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_LON.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_LON.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_BcrConnect.Name" xml:space="preserve">
+    <value>btn_OffL_BcrConnect</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_BcrConnect.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_BcrConnect.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_BcrConnect.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_Bcr_Title.Name" xml:space="preserve">
+    <value>lbl_OffL_Bcr_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_Bcr_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_Bcr_Title.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_Bcr_Title.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="pnl_OffL_Bcr.Location" type="System.Drawing.Point, System.Drawing">
+    <value>535, 501</value>
+  </data>
+  <data name="pnl_OffL_Bcr.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>10, 10, 0, 0</value>
+  </data>
+  <data name="pnl_OffL_Bcr.Size" type="System.Drawing.Size, System.Drawing">
+    <value>471, 306</value>
+  </data>
+  <data name="pnl_OffL_Bcr.TabIndex" type="System.Int32, mscorlib">
+    <value>235</value>
+  </data>
+  <data name="pnl_OffL_Bcr.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;pnl_OffL_Bcr.Name" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;pnl_OffL_Bcr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnl_OffL_Bcr.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pnl_OffL_Bcr.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lbl_OffL_BcrTcp_Title.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="lbl_OffL_BcrTcp_Title.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OffL_BcrTcp_Title.Location" type="System.Drawing.Point, System.Drawing">
+    <value>168, 36</value>
+  </data>
+  <data name="lbl_OffL_BcrTcp_Title.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 25</value>
+  </data>
+  <data name="lbl_OffL_BcrTcp_Title.TabIndex" type="System.Int32, mscorlib">
+    <value>234</value>
+  </data>
+  <data name="lbl_OffL_BcrTcp_Title.Text" xml:space="preserve">
+    <value>IP Address / Port</value>
+  </data>
+  <data name="lbl_OffL_BcrTcp_Title.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrTcp_Title.Name" xml:space="preserve">
+    <value>lbl_OffL_BcrTcp_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrTcp_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrTcp_Title.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrTcp_Title.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lbl_OffL_BcrTcp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="lbl_OffL_BcrTcp.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OffL_BcrTcp.Location" type="System.Drawing.Point, System.Drawing">
+    <value>286, 36</value>
+  </data>
+  <data name="lbl_OffL_BcrTcp.Size" type="System.Drawing.Size, System.Drawing">
+    <value>170, 25</value>
+  </data>
+  <data name="lbl_OffL_BcrTcp.TabIndex" type="System.Int32, mscorlib">
+    <value>233</value>
+  </data>
+  <data name="lbl_OffL_BcrTcp.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrTcp.Name" xml:space="preserve">
+    <value>lbl_OffL_BcrTcp</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrTcp.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrTcp.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrTcp.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lbl_OffL_BcrBcr_Title.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="lbl_OffL_BcrBcr_Title.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OffL_BcrBcr_Title.Location" type="System.Drawing.Point, System.Drawing">
+    <value>168, 69</value>
+  </data>
+  <data name="lbl_OffL_BcrBcr_Title.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 25</value>
+  </data>
+  <data name="lbl_OffL_BcrBcr_Title.TabIndex" type="System.Int32, mscorlib">
+    <value>232</value>
+  </data>
+  <data name="lbl_OffL_BcrBcr_Title.Text" xml:space="preserve">
+    <value>BCR Code</value>
+  </data>
+  <data name="lbl_OffL_BcrBcr_Title.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrBcr_Title.Name" xml:space="preserve">
+    <value>lbl_OffL_BcrBcr_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrBcr_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrBcr_Title.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrBcr_Title.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lbl_OffL_BcrBcr.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt, style=Bold</value>
+  </data>
+  <data name="lbl_OffL_BcrBcr.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OffL_BcrBcr.Location" type="System.Drawing.Point, System.Drawing">
+    <value>286, 69</value>
+  </data>
+  <data name="lbl_OffL_BcrBcr.Size" type="System.Drawing.Size, System.Drawing">
+    <value>170, 25</value>
+  </data>
+  <data name="lbl_OffL_BcrBcr.TabIndex" type="System.Int32, mscorlib">
+    <value>231</value>
+  </data>
+  <data name="lbl_OffL_BcrBcr.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrBcr.Name" xml:space="preserve">
+    <value>lbl_OffL_BcrBcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrBcr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrBcr.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrBcr.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lbl_OffL_BcrErr_Title.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="lbl_OffL_BcrErr_Title.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OffL_BcrErr_Title.Location" type="System.Drawing.Point, System.Drawing">
+    <value>168, 201</value>
+  </data>
+  <data name="lbl_OffL_BcrErr_Title.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 25</value>
+  </data>
+  <data name="lbl_OffL_BcrErr_Title.TabIndex" type="System.Int32, mscorlib">
+    <value>230</value>
+  </data>
+  <data name="lbl_OffL_BcrErr_Title.Text" xml:space="preserve">
+    <value>Error Code</value>
+  </data>
+  <data name="lbl_OffL_BcrErr_Title.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrErr_Title.Name" xml:space="preserve">
+    <value>lbl_OffL_BcrErr_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrErr_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrErr_Title.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrErr_Title.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="lbl_OffL_BcrErr.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_OffL_BcrErr.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OffL_BcrErr.Location" type="System.Drawing.Point, System.Drawing">
+    <value>286, 201</value>
+  </data>
+  <data name="lbl_OffL_BcrErr.Size" type="System.Drawing.Size, System.Drawing">
+    <value>170, 25</value>
+  </data>
+  <data name="lbl_OffL_BcrErr.TabIndex" type="System.Int32, mscorlib">
+    <value>229</value>
+  </data>
+  <data name="lbl_OffL_BcrErr.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrErr.Name" xml:space="preserve">
+    <value>lbl_OffL_BcrErr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrErr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrErr.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrErr.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="lbl_OffL_BcrCmdResult_Title.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="lbl_OffL_BcrCmdResult_Title.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OffL_BcrCmdResult_Title.Location" type="System.Drawing.Point, System.Drawing">
+    <value>168, 168</value>
+  </data>
+  <data name="lbl_OffL_BcrCmdResult_Title.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 25</value>
+  </data>
+  <data name="lbl_OffL_BcrCmdResult_Title.TabIndex" type="System.Int32, mscorlib">
+    <value>228</value>
+  </data>
+  <data name="lbl_OffL_BcrCmdResult_Title.Text" xml:space="preserve">
+    <value>Command Result</value>
+  </data>
+  <data name="lbl_OffL_BcrCmdResult_Title.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmdResult_Title.Name" xml:space="preserve">
+    <value>lbl_OffL_BcrCmdResult_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmdResult_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmdResult_Title.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmdResult_Title.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="lbl_OffL_BcrCmdResult.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_OffL_BcrCmdResult.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OffL_BcrCmdResult.Location" type="System.Drawing.Point, System.Drawing">
+    <value>286, 168</value>
+  </data>
+  <data name="lbl_OffL_BcrCmdResult.Size" type="System.Drawing.Size, System.Drawing">
+    <value>170, 25</value>
+  </data>
+  <data name="lbl_OffL_BcrCmdResult.TabIndex" type="System.Int32, mscorlib">
+    <value>227</value>
+  </data>
+  <data name="lbl_OffL_BcrCmdResult.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmdResult.Name" xml:space="preserve">
+    <value>lbl_OffL_BcrCmdResult</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmdResult.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmdResult.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmdResult.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="lbl_OffL_BcrCmd_Title.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="lbl_OffL_BcrCmd_Title.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OffL_BcrCmd_Title.Location" type="System.Drawing.Point, System.Drawing">
+    <value>168, 135</value>
+  </data>
+  <data name="lbl_OffL_BcrCmd_Title.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 25</value>
+  </data>
+  <data name="lbl_OffL_BcrCmd_Title.TabIndex" type="System.Int32, mscorlib">
+    <value>226</value>
+  </data>
+  <data name="lbl_OffL_BcrCmd_Title.Text" xml:space="preserve">
+    <value>Command</value>
+  </data>
+  <data name="lbl_OffL_BcrCmd_Title.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmd_Title.Name" xml:space="preserve">
+    <value>lbl_OffL_BcrCmd_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmd_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmd_Title.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmd_Title.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="lbl_OffL_BcrCmd.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_OffL_BcrCmd.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OffL_BcrCmd.Location" type="System.Drawing.Point, System.Drawing">
+    <value>286, 135</value>
+  </data>
+  <data name="lbl_OffL_BcrCmd.Size" type="System.Drawing.Size, System.Drawing">
+    <value>170, 25</value>
+  </data>
+  <data name="lbl_OffL_BcrCmd.TabIndex" type="System.Int32, mscorlib">
+    <value>225</value>
+  </data>
+  <data name="lbl_OffL_BcrCmd.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmd.Name" xml:space="preserve">
+    <value>lbl_OffL_BcrCmd</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmd.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmd.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrCmd.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="lbl_OffL_BcrState_Title.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="lbl_OffL_BcrState_Title.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OffL_BcrState_Title.Location" type="System.Drawing.Point, System.Drawing">
+    <value>168, 102</value>
+  </data>
+  <data name="lbl_OffL_BcrState_Title.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 25</value>
+  </data>
+  <data name="lbl_OffL_BcrState_Title.TabIndex" type="System.Int32, mscorlib">
+    <value>224</value>
+  </data>
+  <data name="lbl_OffL_BcrState_Title.Text" xml:space="preserve">
+    <value>State</value>
+  </data>
+  <data name="lbl_OffL_BcrState_Title.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrState_Title.Name" xml:space="preserve">
+    <value>lbl_OffL_BcrState_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrState_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrState_Title.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrState_Title.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="lbl_OffL_BcrState.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbl_OffL_BcrState.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OffL_BcrState.Location" type="System.Drawing.Point, System.Drawing">
+    <value>286, 102</value>
+  </data>
+  <data name="lbl_OffL_BcrState.Size" type="System.Drawing.Size, System.Drawing">
+    <value>170, 25</value>
+  </data>
+  <data name="lbl_OffL_BcrState.TabIndex" type="System.Int32, mscorlib">
+    <value>223</value>
+  </data>
+  <data name="lbl_OffL_BcrState.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrState.Name" xml:space="preserve">
+    <value>lbl_OffL_BcrState</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrState.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrState.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_BcrState.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="btn_OffL_BCLR.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn_OffL_BCLR.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btn_OffL_BCLR.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_OffL_BCLR.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 234</value>
+  </data>
+  <data name="btn_OffL_BCLR.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 60</value>
+  </data>
+  <data name="btn_OffL_BCLR.TabIndex" type="System.Int32, mscorlib">
+    <value>222</value>
+  </data>
+  <data name="btn_OffL_BCLR.Text" xml:space="preserve">
+    <value>BCLR</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_BCLR.Name" xml:space="preserve">
+    <value>btn_OffL_BCLR</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_BCLR.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_BCLR.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_BCLR.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="btn_OffL_LOFF.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn_OffL_LOFF.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btn_OffL_LOFF.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_OffL_LOFF.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 168</value>
+  </data>
+  <data name="btn_OffL_LOFF.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 60</value>
+  </data>
+  <data name="btn_OffL_LOFF.TabIndex" type="System.Int32, mscorlib">
+    <value>221</value>
+  </data>
+  <data name="btn_OffL_LOFF.Text" xml:space="preserve">
+    <value>LOFF</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_LOFF.Name" xml:space="preserve">
+    <value>btn_OffL_LOFF</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_LOFF.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_LOFF.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_LOFF.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="btn_OffL_LON.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn_OffL_LON.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btn_OffL_LON.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_OffL_LON.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 102</value>
+  </data>
+  <data name="btn_OffL_LON.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 60</value>
+  </data>
+  <data name="btn_OffL_LON.TabIndex" type="System.Int32, mscorlib">
+    <value>220</value>
+  </data>
+  <data name="btn_OffL_LON.Text" xml:space="preserve">
+    <value>LON</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_LON.Name" xml:space="preserve">
+    <value>btn_OffL_LON</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_LON.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_LON.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_LON.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="btn_OffL_BcrConnect.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn_OffL_BcrConnect.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btn_OffL_BcrConnect.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_OffL_BcrConnect.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 36</value>
+  </data>
+  <data name="btn_OffL_BcrConnect.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 60</value>
+  </data>
+  <data name="btn_OffL_BcrConnect.TabIndex" type="System.Int32, mscorlib">
+    <value>219</value>
+  </data>
+  <data name="btn_OffL_BcrConnect.Text" xml:space="preserve">
+    <value>CONNECT</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_BcrConnect.Name" xml:space="preserve">
+    <value>btn_OffL_BcrConnect</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_BcrConnect.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_BcrConnect.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;btn_OffL_BcrConnect.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="lbl_OffL_Bcr_Title.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt, style=Bold</value>
+  </data>
+  <data name="lbl_OffL_Bcr_Title.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_OffL_Bcr_Title.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="lbl_OffL_Bcr_Title.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 0, 0, 0</value>
+  </data>
+  <data name="lbl_OffL_Bcr_Title.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 25</value>
+  </data>
+  <data name="lbl_OffL_Bcr_Title.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lbl_OffL_Bcr_Title.Text" xml:space="preserve">
+    <value>OffLoader Barcode</value>
+  </data>
+  <data name="lbl_OffL_Bcr_Title.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_Bcr_Title.Name" xml:space="preserve">
+    <value>lbl_OffL_Bcr_Title</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_Bcr_Title.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_Bcr_Title.Parent" xml:space="preserve">
+    <value>pnl_OffL_Bcr</value>
+  </data>
+  <data name="&gt;&gt;lbl_OffL_Bcr_Title.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="btn_BCROnly.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn_BCROnly.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btn_BCROnly.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_BCROnly.Location" type="System.Drawing.Point, System.Drawing">
+    <value>182, 10</value>
+  </data>
+  <data name="btn_BCROnly.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 60</value>
+  </data>
+  <data name="btn_BCROnly.TabIndex" type="System.Int32, mscorlib">
+    <value>236</value>
+  </data>
+  <data name="btn_BCROnly.Text" xml:space="preserve">
+    <value>BCR ONLY</value>
+  </data>
+  <data name="&gt;&gt;btn_BCROnly.Name" xml:space="preserve">
+    <value>btn_BCROnly</value>
+  </data>
+  <data name="&gt;&gt;btn_BCROnly.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_BCROnly.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_BCROnly.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btn_OCROnly.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn_OCROnly.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btn_OCROnly.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_OCROnly.Location" type="System.Drawing.Point, System.Drawing">
+    <value>338, 10</value>
+  </data>
+  <data name="btn_OCROnly.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 60</value>
+  </data>
+  <data name="btn_OCROnly.TabIndex" type="System.Int32, mscorlib">
+    <value>237</value>
+  </data>
+  <data name="btn_OCROnly.Text" xml:space="preserve">
+    <value>OCR ONLY</value>
+  </data>
+  <data name="&gt;&gt;btn_OCROnly.Name" xml:space="preserve">
+    <value>btn_OCROnly</value>
+  </data>
+  <data name="&gt;&gt;btn_OCROnly.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_OCROnly.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_OCROnly.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btn_BCROCR.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn_BCROCR.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt</value>
+  </data>
+  <data name="btn_BCROCR.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_BCROCR.Location" type="System.Drawing.Point, System.Drawing">
+    <value>494, 10</value>
+  </data>
+  <data name="btn_BCROCR.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 60</value>
+  </data>
+  <data name="btn_BCROCR.TabIndex" type="System.Int32, mscorlib">
+    <value>238</value>
+  </data>
+  <data name="btn_BCROCR.Text" xml:space="preserve">
+    <value>BCR + OCR</value>
+  </data>
+  <data name="&gt;&gt;btn_BCROCR.Name" xml:space="preserve">
+    <value>btn_BCROCR</value>
+  </data>
+  <data name="&gt;&gt;btn_BCROCR.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_BCROCR.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_BCROCR.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="$this.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1030, 900</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>vwEqu_08Bcr</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.UserControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

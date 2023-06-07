@@ -1,0 +1,440 @@
+﻿[2018.11.25][ksg][1.0.0.0] : 생성
+[2018.11.25][ksg][1.0.0.0] : Lot Open 추가
+[2018.11.25][ksg][1.0.0.0] : ghk Probe inspection 수정 한거 Merge
+[2018.11.27][PGM][1.0.0.0] : Wheel 박는 현상이 있어 그라인더 후 Wheel 마모량 추정치 넣는 구문 주석 처리
+[2018.11.27][ksg][1.0.0.0] : Wheel Zig 감지시 화면 정지 화면 표시, View 화면 좌표 X = -1280이면 왼쪽 화면에 붙음
+[2018.11.27][ksg][1.0.0.0] : Wheel Zig 감지시 화면 정지 화면 표시
+[2018.11.27][jym][1.0.0.0] : UI 수정 - 메세지 창 (frmTxt) 추가 및 적용, CData.Lev 추가(권한 변수)
+[2018.11.27][jym][1.0.0.0] : UI 수정 - Device, Wheel 에 NEW, SAVE AS, DELETE 버튼 기능 작성 
+[2018.11.27][jym][1.0.0.0] : UI 수정 - Wheel 화면에서 파일 선택 버그 해결
+[2018.11.27][jym][1.0.0.0] : UI 수정 - 자재 측정 Limit 화면 추가 및 변수 추가
+[2018.11.27][jym][1.0.0.0] : UI 수정 - 메뉴얼 화면에서 드라이존 버튼 추가 및 포지션 값 표시 확인
+[2018.12.09][ksg][1.0.0.0] : Auto Run시 Home Done 보는 함수 변경 Door Ship과 Barcode 옵션 표시 추가
+[2018.12.12][ksg][1.0.0.0] : Level 추가
+[2018.12.13][ghk][1.0.0.0] : UI 수정 - 메뉴얼 화면 드라이존 버튼 추가
+[2018.12.13][ghk][1.0.0.0] : UI 수정 - 메뉴얼 화면 오프로더피커 이후 X,Y,Z 값 나오지 않는 부분 수정
+[2018.12.13][ghk][1.0.0.0] : UI 수정 - 메뉴얼 / 오토 화면 그라인딩 존 파라미터 스텝 사용 유무에 따라 표시 유무 하도록 수정
+[2018.12.13][ghk][1.0.0.0] : 그라인딩 전후 자재 측정 후 자재 높이 범위 검사 기능 추가
+[2018.12.13][ghk][1.0.0.0] : SPC에 사용 되는 스톱워치 기능 수정
+[2018.12.13][ksg][1.0.0.0] : 종료 버튼에 Level 보게 추가
+[2018.12.13][ksg][1.0.0.0] : Device 선택은 Lot Open 전에 할 수 있으며 Open 후는 볼 수만 있게 수정(Master 등급 이상 Save 가능)
+[2018.12.14][ksg][1.0.0.0] : Table, Dry Stick, Dry Grind Skip 옵션으로 추가
+[2018.12.14][ksg][1.0.0.0] : View창에서 매거진 정보 표시 오류 수정
+[2018.12.14][ghk][1.0.0.0] : SPC 그래프 표시 / SPC 저장시 null 값에 대한 처리 수정
+[2018.12.14][ksg][1.0.0.0] : Auto Run 중 Alram 발생 시 부저 일시 Off 기능 추가
+[2018.12.14][ksg][1.0.0.0] : Manual 동작 중 다른 메뉴얼 동작 못 하게 수
+[2018.12.14][ksg][1.0.0.0] : Table Skip 중일때 Manual Grind 못하게 수정
+[2018.12.18][ksg][1.0.0.0] : Lot open 후 Current Device 불러 오기 할때 option에서 sys Pos 변경 사항 적용 될 수 있도록 수정
+[2018.12.18][ksg][1.0.0.0] : Door Skip시 Door sensor 감지 및 Lock도 안 하게 수정(Front, Rear Cover 포함)
+[2018.12.18][ghk][1.0.0.0] : SPC 그래프 클리어 추가
+[2018.12.18][ghk][1.0.0.0] : UI 수정 - SPC 측정 값 보이는 그리드뷰 글자 폰트 변경
+[2018.12.18][ghk][1.0.0.0] : UI 수정 - 유저 레벨 비밀번호 변경 및 파일로 저장 기능 수정, 파일 경로 : "D:\Suhwoo\SG2000X\Config\PW.cfg"
+[2018.12.19][ghk][1.0.0.0] : UI 수정 - SPC 데이타 그리드 뷰 폰트 수정
+[2018.12.19][ghk][1.0.0.0] : SPC - 그라인딩 후 .ini 파일 저장시 바코드 저장하여 한장마다 바코드값 읽어오게 수정
+[2018.12.19][ghk][1.0.0.0] : SPC - Before 측정값 .ini 파일 저장 되도록 수정
+[2018.12.19][ghk][1.0.0.0] : Dry - AutoRun() 조건 수정 슬롯 큰 번호가 먼저 오프로더메거진에 들어 왔을 경우에 동작 안하는 부분 수정
+[2018.12.19][ghk][1.0.0.0] : Dry - DryOut 작업 끝난 후 데이터 처리에서 오프로더에 슬롯 번호 해당 자재 슬롯 번호가 아닌 메거진 비어있는 슬롯 번호 넘겨지도록 수정
+[2018.12.19][ghk][1.0.0.0] : 오른쪽 스핀들 정지 상태에서 간혈적으로 24000 값 들어오는 부분 일단 20000 보다 크면 0으로 계산되도록 수정 명일 테스트 예정
+[2018.12.20][ksg][1.0.0.0] : SPC Probe 결과 표시 그리드 Font Size 6으로 변경
+[2018.12.20][ksg][1.0.0.0] : SPC 그래프 표시 선에서 점으로 변경(송이사 지시)-> 선으로 보이면 표면이 선과 비슷하게 생각 한다는 이유로
+[2018.12.20][ksg][1.0.0.0] : Lot End시 Buzzer 및 Lot End 표시와 Lot Open Btn 표시 변경
+[2019.01.03][ksg][1.0.0.0] : View에 자재 표시 색 변경(Lime색), 나중에 자재와 Data가 매칭 안될때 깜박임 추가 예정
+[2019.01.03][ksg][1.0.0.0] : OnLoader에서 연속 빈 Slot일 경우 자동 배출 추가 - Test 해야 됨.
+[2019.01.03][jym][1.0.0.0] : Main 화면에 현재 시간 표시
+[2019.01.04][jym][1.0.0.0] : 프로그램 시작 시 Last Config 파일 로딩에서 파일의 실제 존재 유무 판단 (Qorvo 김민엽 사원 출장 시 문제되었던 사항)
+[2019.01.04][jym][1.0.0.0] : frmView Magazine 관리 DataGridView 좌클릭 이벤트 처리
+[2019.01.07][ksg][1.0.0.0] : Grind 중 Error 발생 시 다시 Grinding 들어 가는거 방지
+[2019.01.07][ksg][1.0.0.0] : Lot Open시 설비 Mgz & Strip Check
+[2019.01.07][ksg][1.0.0.0] : Scroll Bar 수정(Left Table Before부분 Option 변경)
+[2019.01.07][ksg][1.0.0.0] : Device명을 파일명으로 수정
+[2019.01.08][ksg][1.0.0.0] : Manual Mode로 장비 진행 시 Stop 되게 수정
+[2019.01.08][ksg][1.0.0.0] : Warm Up Time 버튼 옆에서 설정 가능 하게 수정
+[2019.01.08][ksg][1.0.0.0] : Manual 창에 오타 수정(Zig -> Jig)
+[2019.01.08][ghk][1.0.0.0] : 그라인딩 후 오른쪽 테이블 스킵시, 오프로더 피커가 픽업하러 가지 않고 장비가 동작을 하지 않는 현상 수정
+[2019.01.08][ghk][1.0.0.0] : 그라인딩 레인지 오버 에러 관련 수정, 레인지 오버 발생 시 에러 바로 발생하지 않고 측정이 다끝난 후에 에러 발생
+[2019.01.09][ksg][1.0.0.0] : OffloadPicker Skip 기능 추가(ASE 전용 -> 피커가 빨판으로 변경됨)
+[2019.01.09][ksg][1.0.0.0] : Leak Sensor 추가 및 옵션 추가
+[2019.01.10][ghk][1.0.0.0] : Wheel 저장/불러오기 폴더 변경("d:\...\wheel이름\\wheel이름.whl"), Wheel파일 생성/복사/삭제/세이브 디버깅
+[2019.01.10][ghk][1.0.0.0] : ksg & ghk 소스 Merge
+[2019.01.10][ksg][1.0.0.0] : View Timer Count 잘 못 되는 현상 수정
+[2019.01.10][ksg][1.0.0.0] : Warm Up Check 후 30분 초과 시 Message 표시
+[2019.01.11][ksg][1.0.0.0] : OnLoader에서 연속 빈 Slot일 경우 자동 배출 추가에 조건 추가
+[2019.01.23][ksg][1.0.0.0] : Lot Name 없어도 Lot Open 되는 현상 수정
+[2019.01.28][ksg][1.0.0.0] : Home 후 OnL(X축) / OFL(X축) / InRail(Y축) 대기 위치로 이동
+[2019.01.28][ksg][1.0.0.0] : Right Pump On 안되는 현상 수정(Form에서 수정함->Tag값)
+[2019.01.28][ksg][1.0.0.0] : Manual 동작 시 Pop Up창 모두 변경
+[2019.01.28][ksg][1.0.0.0] : 중국에서 Dressing 중 처 박는 것 때문에 확인 결과 Z축 높이 Check 안 하고 Y축 이동 하기에 추가 함.(Case 16, 17)
+[2019.01.30][ksg][1.0.0.0] : Msg Pop Up창 화면 뒤로 안가게 수정 속성값 중 TopMost를 false -> true로 변경
+[2019.01.30][ksg][1.0.0.0] : Manual Jig msg창 띄우게 수정
+[2019.01.30][ksg][1.0.0.0] : Device Group New, Save as 기능 수정 완료
+[2019.01.31][ksg][1.0.0.0] : Manual 동작에서 Table 관련 Btn에 Strip Check 기능 추가
+[2019.02.11][ksg][1.0.0.0] : Bcr & Orientation 기능 추가
+[2019.02.13][ksg][1.0.0.0] : Off Picker Pick Up 후 각 모터 움직이기 전에 Vac Check 하게 수정
+[2019.02.13][ksg][1.0.0.0] : Right Step parameter UI 표시 잘 못 되는거 수정(Target, TopDown)
+[2019.02.13][ksg][1.0.0.0] : Wheel Jig Sensor Skip 기능 추가 및 emergency때 Jig 기능 동작 안하게 수정
+[2019.02.13][ksg][1.0.0.0] : Device Name 오른쪽 화면에 표시 및 더블 클릭 시 바로 가게 기능 추가
+[2019.02.14][ksg][1.0.0.0] : OffLoader Mgz 배출 옵션 추가
+[2019.02.16][ghk][1.0.0.0] : Wheel 정보 & History 기능 추가
+[2019.02.17][ghk][1.0.0.0] : Wheel Jig Form 기능 추가
+[2019.02.21][ksg][1.0.0.0] : Msg Form에서 Error, Warring을 모두 Notice로 변경, Qorvo에서 Notice외에 경우는 알람 및 램프 변경 요청으로
+[2019.02.21][ksg][1.0.0.0] : Lot open시 Auto & Manual 화면에 Grd 정보 클리어
+[2019.02.21][ksg][1.0.0.0] : Inrail X축 반대로 움직여 수정
+[2019.02.21][ksg][1.0.0.0] : Main과 Manul에서 Grd Mode 값 Nomal -> Target으로 변경
+[2019.02.22][ksg][1.0.0.0] : Dynamic Funtiion 추가
+[2019.02.25][ksg][1.0.0.0] : Qorvo / ASE Kr / Sky Works 옵션 추가 CData.CurCompany로 검색
+[2019.02.26][ksg][1.0.0.0] : Warm Up 진행 시 Table에 자재 존재 하면 중지
+[2019.02.26][ksg][1.0.0.0] : Manual L/R Table에서 Nomal Mode로 Grd 할때 Total Thickness[mm]의 정보를 Target -> Total Grd량을 표시함
+[2019.02.26][ksg][1.0.0.0] : Option에 Table Grinding창에 각 버튼 시작시 Msg창 추가
+[2019.02.27][ksg][1.0.0.0] : Table Skip시 View 화면에 Table에 Skip 표시
+[2019.02.28][ksg][1.0.0.0] : Manual 화면에 All Water Off추가
+[2019.02.28][ksg][1.0.0.0] : ASE kr만 Warm Up Skip 기능 추가
+[2019.03.07][ghk][1.0.0.0] : Error & MTBA 기능 추가
+[2019.03.08][ksg][1.0.0.0] : Log 추가
+[2019.03.08][ksg][1.0.0.0] : Dev, Opt 창에서 OnP 0도 90도 버튼 동작 안되는거 수정
+[2019.03.08][ksg][1.0.0.0] : Dry R, Z축 Pos 바꿔 표시 되는 거 수정
+[2019.03.08][ksg][1.0.0.0] : Warm Up 중 Stop시 Spindle Stop & Water Off
+[2019.03.10][ksg][1.0.0.0] : Bcr & Ocr 추가
+[2019.03.10][ksg][1.0.0.0] : 설비 처음 실행 시 Warm Up Time 초기 셋팅(하루 전)
+[2019.03.12][ksg][1.0.0.0] : Probe와 Micro Meter간 옵셋 값 적용 -> 마스트에 있음
+[2019.03.12][ksg][1.0.0.0] : 0.0005 -> 0.0015로꿈. Sky Works용
+[2019.03.14][ghk][1.0.0.0] : 자재 측정 Log가 일별이 아닌 Lot Name으로 남길 수 있게 수정
+[2019.03.14][ksg][1.0.0.0] : Device Contact Probe 측정 위치 Copy 
+[2019.03.15][ghk][1.0.0.0] : 드레셔 교체 시퀀스 추가
+[2019.03.15][ghk][1.0.0.0] : 휠 Left 목록 갱신 안돼는 버그 수정
+[2019.03.19][ksg][1.0.0.0] : 도어 클로즈 센서 확인시 커버 확인 부분 제외
+[2019.03.19][ksg][1.0.0.0] : Auto Run시 조건이 아니면 bStartSW를 false 시킴
+[2019.03.20][ghk][1.0.0.0] : Lot End 전 Reset 버튼 눌렸을 경우 Lot End 비정상 되는 현상 수정
+[2019.03.19][ksg][1.0.0.0] : Manual Grd 옆 Min, Max, Avg 표시 추가
+[2019.03.19][ksg][1.0.0.0] : Ase용 SPC Log 추가
+[2019.03.19][ksg][1.0.0.0] : Sky Works외에 OffLoader Top Mgz 동작 버튼 숨김 
+[2019.03.19][ksg][1.0.0.0] : OPManual에 Dresser Pos 추가
+[2019.03.19][ksg][1.0.0.0] : Door와 Cover 센서 Check 분리 및 Cover Skip 기능 추가
+[2019.03.19][jym][1.0.0.0] : Global에 ExTextBox 클래스 추가
+[2019.03.19][jym][1.0.0.0] : VwDev에 모든 TextBox를 ExTextBox 로 변경
+[2019.03.20][ksg][1.0.0.0] : VwDev에 ExTextBox 중 일부 속성값을 Double -> int & Min Max값 변경
+[2019.03.22][ghk][1.0.0.0] : Door 각 파트 별로 분류 / Door skip 시 동작 추가
+[2019.03.22][ksg][1.0.0.0] : Manual, Dev Set Posision에서 Move 버튼에 각 축에 해당되는 충돌 방지 Msg 기능 추가
+[2019.03.25][jym][1.0.0.0] : Manual 화면에 IO 라벨에 On/Off 추가 및 IO동작 버튼 텍스트 변경
+[2019.03.28][ksg][1.0.0.0] : 엑셀파일 자동 끄기
+[2019.04.03][ksg][1.0.0.0] : Cyl_MeanStrip 함수내 버그 수정
+[2019.04.03][ksg][1.0.0.0] : Device Form에서 버그 수정
+[2019.04.03][ksg][1.0.0.0] : Cyl_Grd에서 Log가 중복으로 남겨 수정
+[2019.04.04][ghk][1.0.0.0] : 그라인딩 Cyl_grd() 리뉴얼
+[2019.04.04][ghk][1.0.0.0] : 온로더 피커 Place 할때 테이블 워터 대기 시간 추가(Option 폼에 추가됨)
+[2019.04.04][ghk][1.0.0.0] : MC, PCW워터, PCW온도 상시 체크 및 에러 추가(FrmMain.cs에 추가)
+[2019.04.04][ghk][1.0.0.0] : Error 발생 시 View 폼 좌측 하단 내역 남도록 수정(에러 리셋시 사라짐)
+[2019.04.06][ksg][1.0.0.0] : Qc기능 추가
+[2019.04.06][ksg][1.0.0.0] : in / Out Strip Count 기능 추가
+[2019.04.06][ksg][1.0.0.0] : View에 Top Mgz 상태 기능 추가
+[2019.04.07][ksg][1.0.0.0] : 소스 Merge(GRD 변경꺼와 QC꺼)
+[2019.04.10][jym][1.0.0.0] : Manual에 I/O 동작 상태 수정
+[2019.04.10][ksg][1.0.0.0] : 맹꺼에 머지
+[2019.04.10][ksg][1.0.0.0] : QC 통신 및 동작 수정
+[2019.04.10][ksg][1.0.0.0] : 메뉴얼 동작 시 버튼 비활성화
+[2019.04.12][ksg][1.0.0.0] : Dry Run 중 Picker 간 충돌 수정
+[2019.04.15][ksg][1.0.0.0] : In/Out Strip 수량 안맞는 현상 수정
+[2019.04.16][ksg][1.0.0.0] : Offloader Top / Btm Mgz 마지막 Slot 계산 오류로 수정
+[2019.04.16][ksg][1.0.0.0] : Company JSCK 추가
+[2019.04.17][ksg][1.0.0.0] : Dry Leak 추가
+[2019.04.17][ksg][1.0.0.0] : IONAZER I/O 추가 및 버튼 추가(inrail, GRD, DRY)
+[2019.04.18][ksg][1.0.0.0] : Tenkey 기능 추가
+[2019.04.18][ksg][1.0.0.0] : Timer 기능 변경
+[2019.04.18][ksg][1.0.0.0] : JSCK RFID 기능 추가(RS232통신)
+[2019.04.18][ksg][1.0.0.0] : JSCK용 Offloader btm Pick 함수 추가
+[2019.04.19][ksg][1.0.0.0] : 10um 띄우는거 하드 코딩 -> 변수로 변경 및 업체별로 따로 가져감.
+[2019.04.20][ksg][1.0.0.0] : QC와 통신 프로토콜 추가 및 보완
+[2019.04.20][ksg][1.0.0.0] : QC Error 추가
+[2019.04.22][ksg][1.0.0.0] : On / Off Loader Belt 기능 추가
+[2019.04.21][ghk][1.0.0.0] : 리그라인딩 옵셋 추가, 그라인딩 중 휠과 자재가 닫지 않는 양 계산하여 2 / 3 값 다음장 그라인딩 스타트 위치에 누적 적용, 드레싱 할 경우 옵셋 초기화 됨.
+[2019.04.21][ghk][1.0.0.0] : 드레싱 파라미터 New, Use 파라미터 적용 기능 추가, 휠 지그 감지시 New 파라미터 사용, 드레싱 완료 후 Use 파라미터 사용
+[2019.04.21][ghk][1.0.0.0] : 리그라인딩 넘버 변수에 값 넣어 줌.
+[2019.04.23][ksg][1.0.0.0] : View 화면에 Wheel 상태 표시 Bug 수정
+[2019.04.23][ksg][1.0.0.0] : Auto 화면에 GRD 시간 표시 수정
+[2019.04.23][ksg][1.0.0.0] : ReGrd 총카운트 표시 수정
+[2019.04.29][ksg][1.0.0.0] : Sky Works Door Skip 옵션 무조건 false
+[2019.04.29][ksg][1.0.0.0] : view 화면에 Pgm 시작화면 표시 수정 0000:00 -> 00:00:00
+[2019.04.30][ksg][1.0.0.0] : Left / Right Dressing Para 안 보이는 현상 수정
+[2019.04.30][ksg][1.0.0.0] : Dressing Cnt가 Step 1에 모두 표시 되는 현상 수정
+[2019.04.30][ksg][1.0.0.0] : Dressing Cnt가 -1 되는 현상 수정
+[2019.04.30][ksg][1.0.0.0] : Manual 동작 부분에 Auto Run & Manual 동작시 Btn 클릭 방지 함.
+[2019.04.30][ksg][1.0.0.0] : Table Eject On 후 Auto Run시 Eject Off 하는 곳이 없어 수정
+[2019.05.01][ksg][1.0.0.0] : Excel Close 조건 추가 2010과 2016버젼이 다름
+[2019.05.01][ksg][1.0.0.0] : sky Works Door Lock이 따따딱 되는 현상 수정
+[2019.05.01][ksg][1.0.0.0] : Manual & Option에 Position 셋팅창에서 Top blow 버튼 안되는 현상 수정
+[2019.05.02][ksg][1.0.0.0] : Manual에서 Dressing Cnt 잘 못 표시 되는 현상 수정
+[2019.05.02][ksg][1.0.0.0] : GRD Mode 중 TopDown모드시 Start Mode 추가(Max, Avg, Mean, Min)
+[2019.05.02][ksg][1.0.0.0] : Probe - Micro Meter Gap 값을 Master -> Device로 변경
+[2019.05.03][ksg][1.0.0.0] : Mgz First Slot Select 할 수 있게 수정
+[2019.05.06][ksg][1.0.0.0] : Pause 기능 추가
+[2019.05.06][ksg][1.0.0.0] : Level auto Change 기능 추가(Timer 비교)
+[2019.05.09][ghk][1.0.0.0] : SPC 그래프 step 모드 일경우 오른쪽 데이터만 그래프에 표시 하도록 수정, LotData부분 항목 추가(GrdMode : STEP or NOMAL)
+[2019.05.09][ghk][1.0.0.0] : SPC 자재 측정 후 타켓 저장 시 잘못 저장 되는 부분 수정
+[2019.05.11][ksg][1.0.0.0] : Mgz First Slot Select 할 수 있게 수정 -> On / Off Loader 따로 설정 할 수 있도록 요청
+[2019.05.14][ksg][1.0.0.0] : 자재 측정시 Center Line도 옵셋 적용 가능하게 수정
+[2019.05.14][ksg][1.0.0.0] : Puase 기능 변경
+[2019.05.14][ksg][1.0.0.0] : On / Off Clamp 동작 완료 안될 시 Error 발생하게 수정
+[2019.05.14][ksg][1.0.0.0] : Auto 화면 데이터 갱신이 장비 Stop이 아니면 갱신되게 수정
+[2019.05.14][ksg][1.0.0.0] : Dry Part Home 동작 후 Wait 위치로 이동 요청으로 수정
+[2019.05.16][ksg][1.0.0.0] : D/F 측정시 Inrail Y축 Align 동작 추가(Inr에 Dynaminc seq함수)
+[2019.05.20][ksg][1.0.0.0] : Sky Works QC 통신 방식 Merge & JSCK RFID 읽는거 Merge
+[2019.05.21][ksg][1.0.0.0] : 장비 처음 가동 시 시간 계산 버그 수정(CData.WarmUpS)
+[2019.05.21][ksg][1.0.0.0] : 메뉴얼용 제작을 위해 서우 회사 Enum 추가
+[2019.05.21][ksg][1.0.0.0] : Qorvo시 WarmUp 시간 버튼 안 보이게 하고 WarmUp시간 자동 저장 될 수 있도록 수정
+[2019.05.21][ksg][1.0.0.0] : Lot End시 LotEndMsg 창이 다른 창에 가려져 Main Form으로 이동
+[2019.05.21][ksg][1.0.0.0] : TopDown Mode에서 Target Mode를 Avg, Mean선택시 소수자리 9개 표시 되는 현상 수정(3개로)
+[2019.05.22][ksg][1.0.0.0] : Reset()함수에 Spindle Reset기능 추가
+[2019.05.22][ksg][1.0.0.0] : Auto Level Change시 화면 Manual 화면 초기화 화면으로 변경
+[2019.05.22][ksg][1.0.0.0] : Sky Works OCR Air Blow On 기능 추가
+[2019.05.22][koo][1.0.0.0] : Pump Error 추가
+[2019.05.22][koo][1.0.0.0] : OffPicker Wait 동작 할 수 있도록 추가
+[2019.05.27][Ksg][1.0.0.0] : D/F 미적용된 회사에서 D/F 센서를 확인 하는 부분이 있어 옵션처리
+[2019.05.27][Ksg][1.0.0.0] : Ase Kr에서 Grd Step에서 10um 띄우는거 적용
+[2019.05.29][Ksg][1.0.0.0] : Dual Mode && Top Down mode일때 Left Target -> Right Start 높이로 변경 시킴
+[2019.05.29][Ksg][1.0.0.0] : Pump Error 발생 조건 수정 함.
+[2019.05.29][Ksg][1.0.0.0] : Wheel Change Sequence 완료
+[2019.06.03][Ksg][1.0.0.0] : Wheel Change Sequence 수정 완료
+[2019.06.03][Ksg][1.0.0.0] : WarmUpTime Manual창에서도 계산되게 수정
+[2019.06.03][Ksg][1.0.0.0] : Pump 버튼 오류 수정
+[2019.06.04][Ksg][1.0.0.0] : TopDown일때 왼쪽 데이터 쓸 경우 오른쪽은 Target에서 Max 등 기타 값 보정 없음.
+[2019.06.10][Ksg][1.0.0.0] : TopDown Data Shift 옵션으로 처리(Device->etc에 있음)
+[2019.06.10][Ksg][1.0.0.0] : Probe delay 1초 -> 2초로 늘림
+[2019.06.10][Ksg][1.0.0.0] : Msg창 Show 위치 고정
+[2019.06.12][Ksg][1.0.0.0] : eThercat Spindle Merge
+[2019.06.13][Ksg][1.0.0.0] : Ase K26추가 및 하드웨어 분기점 추가(Spindle, Picker Bcr)
+[2019.06.14][Ksg][1.0.0.0] : Picker Bcr Merge Merge
+[2019.06.15][Ksg][1.0.0.0] : Merge Test 
+[2019.06.16][Ksg][1.0.0.0] : Ase K26에 D/F 기능 포함
+[2019.06.17][Ksg][1.0.0.0] : Picker Bcr 기능 옵션으로 변경
+[2019.06.17][Ksg][1.0.0.0] : Manual Onloader Picker창에 BCR 표시 기능 추가
+[2019.06.17][Ksg][1.0.0.0] : Manual R Table에서 TopBlow Tag 없어 뻑나는 현상으로 수정
+[2019.06.17][Ksg][1.0.0.0] : Bcr Chk_Run 시작 전 Run 상태 변경 추가
+[2019.06.18][Ksg][1.0.0.1] : SW Version 표시
+[2019.06.18][Ksg][1.0.0.1] : Table 반복 측정시 Probe Up 확인 후 Y축 이동
+[2019.06.18][Ksg][1.0.0.1] : 소스 Merge Sky Works 적용 및 Test
+[2019.06.18][Ksg][1.0.0.1] : View화면에서 Inrail 자재 제거시 Picker Bcr 상태 전환
+[2019.06.19][Ksg][1.0.0.1] : WarmUp Time 계산 공식 변경(뻑남)
+[2019.06.19][Ksg][1.0.0.1] : Manual 창에서 Check Btn이 실시간 Update 안되는 거 수정
+[2019.06.20][Ksg][1.0.0.1] : OnLoader에서 Mgz 배출 하고 발생되는 알람은 동작 완료 시킴.
+[2019.06.20][Ksg][1.0.0.1] : 기존 작성한 Wheel Change Seq 삭제
+[2019.06.22][Ksg][1.0.0.1] : Wheel & Dress Seq 기능 추가
+[2019.06.22][Ksg][1.0.0.1] : Manual HomeDone 보는 기능 바꿈
+[2019.06.25][Ksg][1.0.0.1] : D/F 사용 시 SPC Log에 mold+PCB 값도 옆에 출력 함.
+[2019.06.25][koo][1.0.0.1] : 언어 변환시 Check Box 클릭 시 언어가 원복 되는 현상 수정 함.(언어별 추가 입력 필요)
+[2019.06.26][ghk][1.0.0.1] : D/F Server 추가
+[2019.06.27][jos][1.0.0.1] : Dev Form에서 Save as 에서 버그 수정
+[2019.06.28][syc][1.0.0.1] : Probe Z Axis Meansure Type 추가
+[2019.06.28][ksg][1.0.0.1] : 중국어 Msg & Check Box 언어 추가
+[2019.06.30][ksg][1.0.0.1] : Table 6point 측정 기능 추가(Qorvo용)
+[2019.07.02][ghk][1.0.0.1] : 오프로더 피커 AutoRun() PickTb 조건 수정(온로더 피커, 오프로더 피커 충돌 관련 조건 추가)
+[2019.07.02][ghk][1.0.0.1] : 드라이 스틱 동작 중 에러 발생시 스틱 동작 타이머 Off 기능 추가(에러 발생 후 재 시작시 스틱 동작 타이머 On상태일때 충돌 발생)
+[2019.07.08][ksg][1.0.0.1] : Table 6 Point 측정 시 기능 오류로 수정
+[2019.07.09][ksg][1.0.0.1] : SPC Log 남기는 기능 오류로 수정
+[2019.07.09][ksg][1.0.0.1] : Dry Run Meansure 기능 조건 오류로 수정
+[2019.07.10][ksg][1.0.0.1] : Picker BCR & Ori 기능이 Seq 빠져 있어 추가
+[2019.07.10][ksg][1.0.0.1] : Qorvo D/F Spring Type으로 원복하면서 소스도 기존 타입으로 수정
+[2019.07.10][ksg][1.0.0.1] : WMX A6 서보팩이 잘 안 붙어 HotConnect 기능 추가
+[2019.07.10][ksg][1.0.0.1] : PCB Range 조건이 잘 못 되어 있어서 수정함.
+[2019.07.11][ksg][1.0.0.1] : 리그라인딩 조건 0.003 -> 0.0015로 변경 Qorvo에서 Fine 보정값이 고정이라 3미크론시 파인에 영향을 줌
+[2019.07.11][ksg][1.0.0.1] : Ten Key에 D/F, Picker BCR, Picker Ori 기능 추가
+[2019.07.11][jym][1.0.0.1] : Last Config에 Device Group 항목 추가
+[2019.07.11][jym][1.0.0.1] : frmView에 Device의 그룹명, 각 휠의 드레셔 이름 화면 표시 추가
+[2019.07.11][jym][1.0.0.1] : Manual 화면에 Left Grind, Right Grind Tool setter 감지 표시 추가
+[2019.07.12][ksg][1.0.0.1] : 자재에 Marking 되어 있을 시 에러 발생 할 수 있도록 수정 bMark
+[2019.07.12][ksg][1.0.0.1] : Wheel & Dresser 추가 요구 수정
+[2019.07.12][ksg][1.0.0.1] : Qorvo UPH Up 요청으로 On/Off PickerDelay 줄임, Probe delay 줄임
+[2019.07.12][ksg][1.0.0.1] : AutoRun 중 Wheel Limit 알람 발생 시 휠교체 Seq 자동 실행되게 수정
+[2019.07.14][ksg][1.0.0.1] : AutoRun 중 Wheel & Dresser Limit 알람 발생  Wheel & Dresser 교체 Seq 자동 실행되게 수정
+[2019.07.14][ksg][1.0.0.1] : 자재 Limit시 Probe 값 저장 후 알람 발생 할 수 있도록 위치 이동
+[2019.07.14][ksg][1.0.0.1] : Lot End시 Inrail X축 Wait 이동
+[2019.07.14][ksg][1.0.0.1] : Motor Alram 추가
+[2019.07.16][ksg][1.0.0.1] : PCW Auto On / Off 기능 추가(맹꺼 수정)
+[2019.07.16][ksg][1.0.0.1] : Option 창에서 Right GRD X 탭에 Get Btn 안 먹히는 거 수정
+[2019.07.16][ksg][1.0.0.1] : Lot End 조건에서 자재 재 GRD시 조건 추가
+[2019.07.16][ksg][1.0.0.1] : Onloader Picker가 Inrail Pick시 Inrail X축 Wait 동작 시킴
+[2019.07.16][ksg][1.0.0.1] : Onloader Picker가 BCR 작동 중 Error 발생이면 상태가 변함. 그래서 조건 추가
+[2019.07.17][ksg][1.0.0.1] : GRD After 자재 그라인딩 Limit 조건 변경
+[2019.07.17][ksg][1.0.0.1] : Wheel & Dresser Change Btn 레밸 기능 추가
+[2019.07.17][ksg][1.0.0.1] : Qorvo Manual Warm Up Save 기능 추가
+[2019.07.17][ksg][1.0.0.1] : On / Off 로더 메뉴얼 동작 시 양쪽 포지션 확인 Error 추가
+[2019.07.22][ksg][1.0.0.2] : Manual 화면 분활
+[2019.07.23][ksg][1.0.0.2] : View 화면 추가 
+[2019.07.24][ksg][1.0.0.2] : Manual 화면에 Qorvo 마지막 기능 추가
+[2019.07.24][ksg][1.0.0.2] : 소스 검증
+[2019.07.24][ksg][1.0.0.2] : Qorvo Nomal Mode & Top Down 모드 적용 시 Right Table Target이 자재의 Max 값만으로 적용 되는 현상 수정
+[2019.07.24][ksg][1.0.0.2] : Off Loader에서 Dry Out Detect sensor 감지시 배출 및 Pitch Up 동작할때 알람 추가
+[2019.07.26][ksg][1.0.0.2] : Tool setter View화면에 표시 및 View화면에 Timer추가 1ms 단위
+[2019.07.26][ksg][1.0.0.2] : Device Group명을 Main화면에 표시 중 Double 클릭 시 Group 명이 사라지는 현상 수정
+[2019.07.26][ksg][1.0.0.2] : Wheel & Dresser Change seq Qorvo용에서 수정 및 변경 해서 적용
+[2019.07.30][ghk][1.0.0.1] : D/F FrmMain에 GL1 라벨 표시 추가
+[2019.07.30][ghk][1.0.0.1] : Pump flowLow Error 주석 품
+[2019.07.30][ghk][1.0.0.1] : Onloader Picker BCR에서 D/F Server 변수(전역변수) 추가 및 SEq 수정
+[2019.07.30][ghk][1.0.0.1] : BCR Ori이동 시 Mv_S -> Mv_N 이동
+[2019.08.01][ksg][1.0.0.2] : RIGHT Table Not Wait Pos Alram 추가
+[2019.08.02][ksg][1.0.0.2] : Secs/Gem L/R Tool & Drs Id 추가
+[2019.08.02][jym][1.0.0.2] : WMX 로그 다른 로그와 같은 방식으로 변경 (기존에는 독립적으로 사용)
+[2019.08.02][jym][1.0.0.2] : 로그 저장 방식 다이렉트에서 Queue방식으로 저장 (Queue관리는 메인 스레드에서 관장)
+[2019.08.02][jym][1.0.0.2] : 로그 분류 시 삼항식 오류 변경 (삼항식 처리가 반대로 되어 있었음)
+[2019.08.02][jym][1.0.0.2] : Auto view에 조작 로그 추가
+[2019.08.05][jym][1.0.0.2] : Manual view에 조작 로그 추가
+[2019.08.06][jym][1.0.0.2] : Equipment view에 조작 로그 추가
+[2019.08.13][ksg][1.0.0.2] : Data 유실 시 Error 발생 할 수 있도록 추가
+[2019.08.19][ghk][1.0.0.2] : Table Clean 기능 추가  //20190819 ghk_tableclean
+[2019.08.19][ghk][1.0.0.2] : Table Clean 관련 UI추가 MANUAL->GRIND LEFT->TABLE CLEAN 버튼, MANUAL->GRIND RIGHT->TABLE CLEAN 버튼, OPTION->Table Clean Count 판넬 추가
+[2019.08.21][ksg][1.0.0.2] : Bcr Seq 변경
+[2019.08.22][pjh][1.0.0.2] : On/Offloader Picker Conversion Position Sequence 변경(Table Rear 이동 포함)
+[2019.08.22][ksg][1.0.0.2] : D/F loader, Inrail old ver -> New Type으로 변경
+[2019.08.22][ksg][1.0.0.2] : 자재를 테이블 위에 내려 놓기전 테이블 Vac 확인 기능 추가
+//-----------------------------------------------------------------------------------
+최근 수정한 기록 190819 ~190829 
+[2019.08.29][ksg][1.0.0.2] : Probe 측정 후 RangeOver Error 발생 위치 변경(Z축 다운 함수 포함)
+[2019.08.29][ksg][1.0.0.2] : 자재 내려 놓기 전 자재 확인 기능 추가
+[2019.08.29][ksg][1.0.0.2] : Picker 부 BCR Seq 추기 및 수정
+[2019.08.29][ksg][1.0.0.2] : Dev 맹 추가 한 부분 안씀. 아직 테스트 완료 안 했을뿐만 아니라 버그도 포함. 꼭 이전 Dev 파일 쓸 것.
+[2019.08.29][ksg][1.0.0.2] : Picker Bcr 일 경우 자재 위치는 Align 이며 Inrail Pos는 사용 안함
+[2019.08.29][ksg][1.0.0.2] : Table Clean 기능 추가
+[2019.08.29][ksg][1.0.0.2] : Onloader Picker Homming Seq 및 Homming TimeOut 변경
+[2019.08.29][ksg][1.0.0.2] : Inrail Y축 Wait Pos System Pos 삭제 및 Dev로 옮겼으며 계산없이 자재별로 Pos 그냥 지정  
+[2019.08.29][ksg][1.0.0.2] : Offloader Home & wait 버튼 이벤트 없는 거 추가 완료
+[2019.09.03][ksg][1.0.0.2] : SPC 검색 시 검색날도 포함되게 수식 수정
+[2019.09.03][ksg][1.0.0.2] : Left & RIGHT_PUMP_FLOW_LOW_ERROR에러를 띄우는 곳을 변경 함.
+[2019.09.03][ksg][1.0.0.2] : Log 저장 방식 변경 함.
+[2019.09.04][ksg][1.0.0.2] : Warm Up 중 Water Off되면 알람 발생 기능 추가
+[2019.09.04][ksg][1.0.0.2] : Wheel Seq 기능 AseKr도 추가 함
+[2019.09.11][ksg][1.0.0.2] : Grd 중 Vac Error 발생 시 Wheel이 올라 가면서 물이 튀어 올라갈 시 물 Off 
+[2019.09.11][ksg][1.0.0.2] : Log 저장 방식 변경
+[2019.09.22][ksg][1.0.0.2] : Device 파일을 Bar로 읽어 쓸 수 있도록 수정 함.
+[2019.09.27][ghk][1.0.0.2] : JSCK 꾹꾹이 시퀀스 추가 [검색어 : ghk_ofppadclean] / 폼추가 [vwOpt.cs 딜레이 패널 추가]
+[2019.09.29][ksg][1.0.0.2] : Wheel Measure Step Mode 추가
+[2019.09.30][ghk][1.0.0.2] : JSCK Auto Warm Up 기능 추가 [검색어 : ghk_autowarmup] / 폼추가 [vwMan_01Man.cs Auto Warm Up 대기 시간 표시 패널 추가]
+[2019.10.02][ksg][1.0.0.2] : Wheel Measure Jog Mode Error 검출 기능 추가 및 원복함.
+[2019.10.02][ksg][1.0.0.2] : Strip Measure 중 Probe Up 못할 시 Error 추가
+[2019.10.02][ksg][1.0.0.2] : OnLoader Picker Home Seq 변경
+[2019.10.04][ksg][1.0.0.2] : Wheel Measure에서 제어기에서 감지 못 할 경우 Tool Setter에서 Error 부분을 휠 감지 기능으로 변경 및 Delay 추가
+[2019.10.07][ghk][1.0.0.2] : Dry Stick Delay 추가 [검색어 : ghk_drystick_time] 
+[2019.10.10][ghk][1.0.0.2] : 매뉴얼 그라인딩 시 BCR/ORI 측정 시퀀스 추가 [검색어 : ghk_manual_bcr]
+							 == UI 추가 =================================================================================
+							 vwDev_03Set.cs => On Picker X, Z, Y 포지션 추가(UI)
+							 vwDev.cs => On Picker X, Z, Y 포지션 추가(UI) => BCR 거리 안나와서 BCR 포지션 Visible = false 설정 해놓음.
+							 vwDev.cs => Grind Y 포지션 추가(UI)
+							 vwOpt.cs => BCR/ORI When Manual Grinding Skip 체크박스 추가(UI)
+							 vwMan_05Grl.cs => Manual Grinding Tag 변경(UI) / "BCR / ORI CHECK" 버튼(이름 ORI CHECK로 변경), lblGrL_Bcr 라벨 추가(Visible = false 설정 해놓음)
+							 vwMan_07Grr.cs => Manual Grinding Tag 변경(UI) / "BCR / ORI CHECK" 버튼(이름 ORI CHECK로 변경), lblGrR_Bcr 라벨 추가(Visible = false 설정 해놓음)
+							 ============================================================================================
+[2019.10.18][ksg][1.0.0.2] : One Point 측정시 이전보다 높게 측정 되면 Error 발생 기능 추가
+[2019.10.18][koo][1.0.0.2] : 각 모터에 현 Enconde 및 Probe 측정 값을 최소 50ms마다 남기게 수정
+[2019.10.18][ksg][1.0.0.2] : One Point 측정 시 이전 데이터 보다 클 경우 Error 기능 추가 & Spindle RPM 돌리고 안 돌면 계속 돌리는 구문 추가
+[2019.10.19][ksg][1.0.0.2] : One Point 측정 시 이전 데이터 보다 클 경우 Error 기능 추가
+[2019.10.22][ksg][1.0.0.2] : One Point 측정 시 이전 데이터 보다 클 경우 Error 기능 보완
+[2019.10.18][ksg][1.0.0.2] : Tool Setter I/O 센서 사용 안하는 기능 추가
+[2019.10.23][ghk][1.0.0.2] : 스핀들 Can, EtherCat CData.cs에 구분 함.
+[2019.10.28][ghk][1.0.0.2] : TOOL SETTER gap 자동으로 갱신 되는 기능 추가[사용유무 설정 가능] 검색어[//20191028 ghk_auto_tool_offset]
+[2019.10.30][ghk][1.0.0.2] : DF사용시 DF 측정 안하고 Server 데이터 전송 기능 추가(검색어 ghk_dfserver_notuse_df)
+[2019.10.31][ksg][1.0.0.2] : PCB 두께 입력 및 비교 기능 추가
+[2019.11.04][ghk][1.0.0.2] : DoorLock 버튼 기능 및 UI 버튼 변경 검색어[//20191104 ghk_doorlock]
+                             vWMan_01Man.cs => Door Lock 체크 박스 버튼으로 변경
+[2019.11.06][ghk][1.0.0.2] : Skyworks OCR 사이드 조명 컨트롤 프로그램에 넣음 [검색어 : ghk_lightcontrol]
+                             vwEqu_12Light.cs 추가, CLight.cs 추가
+							 CData.cs 에서 사용 유무 설정 가능
+[2019.11.11][ghk][1.0.0.2] : Skyworks Bcr Ocr 처리 방법 변경. [검색어 : ghk_bcrocr]
+							 BCR 먼저 검사 : OK 일경우 OK, NG 일 경우 OCR 검사 : OK 일경우 OK, NG 일 경우 기존가 같은 방식으로 처리
+[2019.11.11][ghk][1.0.0.2] : 리그라인딩 로그 남기는 기능 추가 [검색어 : ghk_regrindinglog]
+                             CData.cs 에서 사용 유무 설정 가능
+[2019.11.12][ghk][1.0.0.2] : SPC창에서 현재 오토러닝중인 Lot Data 불러 올때 복사본 만들어서 파일 불러오는 기능 추가 [검색어 : ghk_spccopy]
+                             SPC창에서 다른 창으로 이동, 프로그램 종료시 Copy파일 삭제
+[2019.11.12][ghk][1.0.0.2] : SPC창 차트 확대 / 축소 기능 추가 [검색어 : ghk_chartzoom]
+							 차트 마우스 이벤트 추가 됨
+							 마우스 좌상단 -> 우하단 드래그 할때만 확대 됨.
+							 마우스 오른쪽 버튼 더블 클릭시 원복 됨.
+							 
+[2019.11.06][jym][1.0.0.2] : Onloader picker Place right 후 클린 안하는 에러 수정 [구문 삭제]
+							 frmView화면에 현재 버전 표시 추가[// 191106-maeng]
+							 vwDev의 Dual 선택 시 우측 자재 측정 위치 선택 버튼 감추기[// 191106-maeng]
+							 Manual vwMan_05Grl, vwMan_07Grr의 _Draw()에 같은 배열일때 다시 그리지 않은 예외처리 주석으로 변경[// 191106-maeng]
+[2019.11.07][ksg][1.0.0.2] : BCR Key In 후 입력창 Clear
+[2019.11.07][ksg][1.0.0.2] : Picker type Bcr(BCR & Ori) Trigger 신호 주고 결과 값 읽기 delay를 1초 -> 5초로 늘림
+[2019.11.07][ksg][1.0.0.2] : bDryAutoMeaStrip -> bDryAutoMeaStripSkip 변수 명 변경 및 파일 로드 시 Sky works제외한 False로 변경(기존 true로 됨)
+[2019.11.07][ksg][1.0.0.2] : Qorvo에서 메뉴얼 동작 중일 경우 Door Lock 기능 추가로 변경
+[2019.11.08][ksg][1.0.0.2] : Lot End시 수량이 맞지 않아 재 작업 중 Idle 발생으로 Seq 수정
+[2019.11.08][ksg][1.0.0.2] : Dry Out시 자재 사라지면 Error 없어 확인 해 보니 센서를 잘 못 바라 봐서 수정함.
+[2019.11.08][ksg][1.0.0.2] : Skwy Works와 동일하게 Qorvo도 Manual 동작 시 동일하게 적용 함.
+[2019.11.09][ksg][1.0.0.2] : Dry X축 Motor inpos 1um -> 10um로 변경
+[2019.11.09][ksg][1.0.0.2] : Inrail Strip DetectStrip 센서 감지시 Error 띄우게 수정
+[2019.11.09][ksg][1.0.0.2] : Grd Data 중 Lot 정보에 남기는 Probe 측정값이 Auto Run중에만 남기도록 되어 있어 Error 발생시 남기지 않아 Manual이 아니면 남기도록 수정함.
+[2019.11.15][ghk][1.0.0.2] : vwDev.cs에서 스텝 모드이고, 오른쪽 타켓 모드일 경우, 왼쪽 타켓 값이 오른쪽 그라인딩 전 값에 자동으로 입력 되어 저장되도록 수정[검색어: ghk_devicesave]
+[2019.11.04][ksg][1.0.0.2] : 설비 마지막 상태 저장
+[2019.11.22][ksg][1.0.0.2] : Target 이상 계산 하는 Error 발생으로 로그 삽입
+[2019.11.26][ksg][1.0.0.2] : LEFT / RIGHT_WRONG_CALCULATOR_GRIND_TARGET_POSITION 알람 발생으로 Max값을 round로 반올림 함.
+[2019.11.26][ksg][1.0.0.2] : CDataOption.MeasureDf == eDfServerType.NotMeasureDf 일때는 DF Skip을 true로 변경함.
+[2019.11.26][ksg][1.0.0.2] : Qorvo에는 Probe BF, AF 값을 저장 할 수 있도록 수정 함.
+[2019.11.26][ksg][1.0.0.2] : Version 정보 정밀 표시
+[2019.11.28][ghk][1.0.0.2] : WarmUp 시 워터 에러 관련 추가 [검색어 : ghk_warmup_error]
+[2019.11.28][ghk][1.0.0.2] : WarmUp 시 바텀 워터 관련 에러 추가 [검색어 : ghk_check_warmup]
+[2019.12.02][ksg][1.0.0.3] : 회사 적용 옵션 옵션 따로 뺌
+[2019.12.02][ksg][1.0.0.3] : 회사 추가(SST, SUI)
+[2019.12.02][ksg][1.0.0.3] : SST 옵션 추가(Qorvo와 동일하게 셋팅)
+[2019.12.03][ksg][1.0.0.3] : L/R GRD New를 Data 생성에서 DataOption 이후로 변경함.
+[2019.12.03][ksg][1.0.0.3] : Grd Cycle_Home 동작 시 끝 부분에 Wait 하는 기능 넣음.
+[2019.12.04][ghk][1.0.0.2] : Skyworks 장비 구동 중 도어락 풀리는 현상 수정[검색어 : ghk_doorlock]
+[2019.12.05][ghk][1.0.0.2] : vwAuto.cs 화면  Loading Stop On, Loading Stop Off 스카이 웍스만 버튼 색 변경[검색어 : ghk_autoview]
+[2019.12.05][ghk][1.0.0.2] : [UI 수정]Option->systemPosition / Device->SetPosition 에서 OutPut 버튼 외곽선 추가
+[2019.12.06][ghk][1.0.0.2] : 드레싱 주기 검사 위치 Cyl_Grd()에서 그라인딩 끝나는 위치 -> AutoRun() 드레싱 여부 검사 위쪽으로 위치 이동 [검색어 : ghk_drsperiod]
+[2019.12.06][ghk][1.0.0.2] : 오른쪽 그라인딩 후 자재 높이 검사시 간혈적 타켓 값 0이 들어가는 현상 수정 [검색어 : ghk_cal_debug]
+[2019.12.09][ghk][1.0.0.2] : LotEnd 버튼 클릭시 Onl, Ofl 매거진 버리는 시퀀스 추가, CDataOption 에서 사용 여부 선택 가능[검색어 : ghk_lotend_placemgz]
+[2019.12.11][ghk][1.0.0.2] : Level Setting 설정 추가 [검색어 : ghk_level]
+							 UI추가 => vwOpt.cs -> Level Setting -> Device -> Para Enable    라벨, 콤보박스 추가
+							 UI추가 => vwOpt.cs -> Level Setting -> Device -> Position View    라벨, 콤보박스 추가
+							 UI추가 => vwOpt.cs -> Level Setting -> Manual -> All Servo On    라벨, 콤보박스 추가
+							 UI추가 => vwOpt.cs -> Level Setting -> Manual -> All Servo Off    라벨, 콤보박스 추가
+							 UI추가 => vwOpt.cs -> Level Setting -> OP Manual 탭 추가
+							 UI추가 => vwOpt.cs -> Level Setting -> OP Manual -> Dresser Position    라벨, 콤보박스 추가
+[2019.12.11][ghk][1.0.0.2] : View 화면 자재 상태 표시에 점멸 상태 추가(자재 시퀀스와 센서 비교 후 같지 않을 경우 점멸 표시), CDataOption에서 사용 여부 선택 가능 [검색어 : ghk_display_strip]
+[2019.12.16][ghk][1.0.0.2] : 온로더 피커 place 할때 Table 자재 유무 검사 부분 수정 [검색어 : ghk_onp_place_debug]
+[2019.12.17][syc][1.0.0.2] : 메뉴얼 all warter off button click시 water knife off 기능 추가 [검색어 : syc_water knife off] 
+[2019.12.23][ksg][1.0.0.2] : Ofl Top slot 부터 채우거나 Btm slot부터 채울때 slot 증가 혹은 감소 부분이 빠져 있어 수정
+-----------------------------------------------------------------------------------------------------------------------
+2020년 추가 기능
+VersionInfo 기입사항 추가
+ex : [2020.01.18][ksg][1.0.0.2][회사명] : Update 시 version 변경 할 것.
+회사명 : 
+AseKr   
+Qorvo   
+SkyWorks
+JSCK     
+Suhwoo  
+AseK26  
+SST     
+USI     
+-----------------------------------------------------------------------------------------------------------------------
+[2020.01.02][ksg][1.0.0.2] : Table Clean 기능을 회사별에서 옵션으로 변경
+[2020.01.03][pjh][1.0.0.2] : Dry Level Safety Sensor 감지 시 Bottom Air Blow Stick Target Position 동작 안되게 수정[검색어 : 200103_pjh_Dry_Stick_InterLock]
+[2020.01.09][pjh][1.0.0.2] : Device Tab에서 자재 Cleaning Speed 200mm/s 이상으로 설정 안되게 수정
+[2020.01.15][myk][1.0.0.2] : Manual Onloader Tab에 Onloader Z가 Push Position으로 이동하는 Manual Button 추가 [검색어 : 20200109 myk_ONL_Push_Pos]
+                             Picker Z가 'Picker Z Wait Position' 보다 하강했을 때, Picker Rotate 동작 안하게 수정 [//20200113 myk_OFP_Rotate_InterLock]
+[2020.01.16][jym][1.0.0.2] : vwAuto화면에서 Lot Elapse 시간 표시
+[2020.01.16][jym][1.0.0.2] : vwAuto, vwMan_05Grl, vwMan_07Grr 에 그라인딩 시간 표시 포멧 변경 (hh : mm : ss)
+[2020.01.18][ksg][1.0.0.2] : 자재 After 측정 Limit 조건 원복함
+[2020.01.18][ksg][1.0.0.2] : 메뉴얼 동작 시 비산방지 알람 기능 추가
+[2020.01.18][ksg][1.0.0.2] : BCR과 Table Ori 통신 기능 추가
+[2020.01.20][ksg][1.0.0.2] : ONL RFID 기능 추가
+[2020.01.20][ksg][1.0.0.2] : SCK 회사 추가 및 기능 분장(JSCK과 동일)	  
+[2020.01.21][ksg][1.0.0.2] : Pump 자동 Off 기능 추가 Sky Works 전용
+[2020.01.28][ksg][1.0.0.2] : System Position 버그로 인하여 수정(저장시 Format이 잘 못 되어 수정)
+[2020.01.28][ksg][1.0.0.2] : Pump 미 동작 중 Manual로 Picker Place시 Pump런이 늦게 동작하여 Picker Place 동작 시 Pump 동작 루틴 추가
+[2020.01.31][ksg][1.0.0.2] : SCK, SCK+ New BCR 통신 방식 추가
+[2020.02.03][ksg][1.0.0.2] : CDataOption에서 RFID Use지만 Cdata.opt에서 사용 여부 추가로 분기점 발생 및 기능 추가 
+[2020.02.03][ksg][1.0.0.2] : Device에서 SCK에서 D/F가 계속 스킵 되서 조건 추가
+[2020.02.06][ksg][1.0.0.2] : D/F 사용 업체 추가로 인해서 ComPort Open 조건에 회사명 추가
+[2020.02.07][ksg][1.0.0.2] : Wheel File Save As로 저장 시 버그 문제로 수정
+[2020.02.10][ksg][1.0.0.2] : Pump Run 중 TempHigh 센서가 감지 되도 Pump가 자동으로 꺼지지 않아 수정함(설계팀 요청)
+[2020.02.12][ksg][1.0.0.2] : SECS/GEM 미 사용 시 Form 및 관련 변수 Load, Save 호출 못하게 수정
+[2020.02.12][LCY][1.0.0.2] : SECS/GEM SCK DF 사용 관련 CEID,SVID 수정
+[2020.02.12][ksg][1.0.0.2] : Ofl part RFID 사용 업체 중에서 메뉴얼로 Mgz Pick시 Place 동작 하는 현상 수정
+[2020.02.13][ksg][1.0.0.2] : Sky Works향 소스에는 Inrail Work End시 Wait 동작 시키는 부분이 빠져 있어 수정함.
+[2020.02.13][ksg][1.0.0.2] : Onloader Picker가 자재 Place 이후 Picker Clean 하지 않아 수정 함.
+[2020.02.14][ksg][1.0.0.2] : Sky Works향 소스에서 조명 컨트롤 값 변경 후 저장 되지 않는 버그 수정.
+[2020.02.14][ksg][1.0.0.2] : Device Setting 시 Left & Right spindle Max값이 Sky Works만 4000 기타 업체는 2500으로 될 수 있게 수정 함.
+[2020.02.17][LCY][1.0.0.2] : SECSGEM PCB Top/Bottom 사용에 따른 Data 설정 값 변경
+[2020.02.26][pjh][1.0.0.2] : 2000U I/O List Enum에 추가
+-----------------------------------------------------------------------------------------------------------------------
+[2020.03.11][jhc][1.0.0.2] : 2000U 2D Vision 연동 용 UDP Server Class 추가 (SG2000X\02.Utility\CUdpSocket.cs)
+[2020.03.11][jhc][1.0.0.2] : 2000U 용 옵션으로 BCR Class의 각 메서드 구현 내용 별도 구성 (기존: INI File I/F, 2000U: UDP 통신)

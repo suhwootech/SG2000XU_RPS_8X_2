@@ -1,0 +1,1758 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="txtDf_Id.Size" type="System.Drawing.Size, System.Drawing">
+    <value>153, 21</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="lbDf_BcrId.TabIndex" type="System.Int32, mscorlib">
+    <value>204</value>
+  </data>
+  <data name="cmbDf_GrdMode.Text" xml:space="preserve">
+    <value>GL1</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btnDf_SendBfEnd.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="btnDf_SendPos.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="lib_Df_Log.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 30</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendAfStart.Parent" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="lbDf_Ip.Text" xml:space="preserve">
+    <value>DF SERVER IP</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Col.Parent" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="btnDf_SendLotEnd.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 10pt, style=Bold</value>
+  </data>
+  <data name="btnDf_SendBfStart.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cmbDf_GrdMode.TabIndex" type="System.Int32, mscorlib">
+    <value>206</value>
+  </data>
+  <data name="btnDf_SendRetBcr.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="btnDf_SendRetBcr.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendLotEnd.Name" xml:space="preserve">
+    <value>btnDf_SendLotEnd</value>
+  </data>
+  <data name="btnDf_SendReady.Text" xml:space="preserve">
+    <value>SEND READY</value>
+  </data>
+  <data name="btnDf_SendInrBcr.Location" type="System.Drawing.Point, System.Drawing">
+    <value>318, 30</value>
+  </data>
+  <data name="txtDf_Row.TabIndex" type="System.Int32, mscorlib">
+    <value>224</value>
+  </data>
+  <data name="btnDf_Save.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendRowData.Name" xml:space="preserve">
+    <value>btnDf_SendRowData</value>
+  </data>
+  <data name="btnDf_Con.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="txtDf_Pcb3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>773, 174</value>
+  </data>
+  <data name="cmbDf_PcbUse.Items2" xml:space="preserve">
+    <value>Avg</value>
+  </data>
+  <data name="groupBox3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 10</value>
+  </data>
+  <data name="btnDf_SendAfStart.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="btnDf_Con.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="btnDf_SendLotEnd.Location" type="System.Drawing.Point, System.Drawing">
+    <value>339, 98</value>
+  </data>
+  <data name="lbDf_Col.Text" xml:space="preserve">
+    <value>COL</value>
+  </data>
+  <data name="btnDf_Con.TabIndex" type="System.Int32, mscorlib">
+    <value>209</value>
+  </data>
+  <data name="lbDf_Col.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 25</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendBfStart.Parent" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="btnDf_SendBfStart.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 9pt, style=Bold</value>
+  </data>
+  <data name="btnDf_SendPos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="lbDf_Id.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="lbDf_LotName.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="txtDf_RowNum.Location" type="System.Drawing.Point, System.Drawing">
+    <value>555, 402</value>
+  </data>
+  <data name="btnDf_SendRetBcr.Text" xml:space="preserve">
+    <value>SEND RESULT BCR</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendRowData.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Pcb1.Name" xml:space="preserve">
+    <value>txtDf_Pcb1</value>
+  </data>
+  <data name="btnDf_SendBfStart.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Pcb3.Name" xml:space="preserve">
+    <value>txtDf_Pcb3</value>
+  </data>
+  <data name="&gt;&gt;btnDf_Con.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="txtDf_BcrId.Size" type="System.Drawing.Size, System.Drawing">
+    <value>153, 21</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Id.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Way.Name" xml:space="preserve">
+    <value>lbDf_Way</value>
+  </data>
+  <data name="btnDf_SendPos.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="lbDf_RowNum.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnDf_SendLotOpen.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 10pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Pcb2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lbDf_Col.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnDf_SendId.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="lbDf_PcbUse.Text" xml:space="preserve">
+    <value>PCB USE</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendId.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnDf_Con.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt, style=Bold</value>
+  </data>
+  <data name="lbDf_RowNum.Location" type="System.Drawing.Point, System.Drawing">
+    <value>502, 402</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.Name" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="btnDf_SendId.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="txtDf_RowNum.TabIndex" type="System.Int32, mscorlib">
+    <value>229</value>
+  </data>
+  <data name="btnDf_Con.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="lbDf_Pcb3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 25</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendBfStart.Name" xml:space="preserve">
+    <value>btnDf_SendBfStart</value>
+  </data>
+  <data name="pnlDf_Row.AutoScroll" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbDf_Pcb2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;groupBox6.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="lbDf_Row.Text" xml:space="preserve">
+    <value>ROW</value>
+  </data>
+  <data name="btnDf_SendPos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>673, 305</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendRetBcr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox4.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="btnDf_SendReady.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Pcb1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnDf_Save.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="groupBox3.TabIndex" type="System.Int32, mscorlib">
+    <value>215</value>
+  </data>
+  <data name="btnDf_SendInrBcr.TabIndex" type="System.Int32, mscorlib">
+    <value>210</value>
+  </data>
+  <data name="btnDf_SendRowData.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 9pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Way.Parent" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Row.Parent" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="&gt;&gt;lbDf_BcrId.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="groupBox7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 372</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendId.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="lbDf_Pcb3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>720, 174</value>
+  </data>
+  <data name="btnDf_SendReady.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt, style=Bold</value>
+  </data>
+  <data name="btnDf_SendAfStart.TabIndex" type="System.Int32, mscorlib">
+    <value>214</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Row.Name" xml:space="preserve">
+    <value>txtDf_Row</value>
+  </data>
+  <data name="&gt;&gt;groupBox7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lbDf_Pcb3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="&gt;&gt;cmbDf_GrdMode.Name" xml:space="preserve">
+    <value>cmbDf_GrdMode</value>
+  </data>
+  <data name="btnDf_SendLotExist.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendReady.Name" xml:space="preserve">
+    <value>btnDf_SendReady</value>
+  </data>
+  <data name="lbDf_Port.Text" xml:space="preserve">
+    <value>DF SERVER PORT</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Port.Name" xml:space="preserve">
+    <value>lbDf_Port</value>
+  </data>
+  <data name="txtDf_LotName.Text" xml:space="preserve">
+    <value>TestLot</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendBfStart.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="btnDf_SendInrBcr.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnDf_SendInrBcr.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="btnDf_SendPcb.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="txtDf_Pcb2.Text" xml:space="preserve">
+    <value>0.3</value>
+  </data>
+  <data name="&gt;&gt;lbDf_GrdMode.Name" xml:space="preserve">
+    <value>lbDf_GrdMode</value>
+  </data>
+  <data name="groupBox3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>506, 146</value>
+  </data>
+  <data name="&gt;&gt;cmbDf_GrdMode.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="groupBox5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>506, 153</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="lbDf_Way.Size" type="System.Drawing.Size, System.Drawing">
+    <value>142, 25</value>
+  </data>
+  <data name="lbDf_Row.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Id.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Pcb2.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="btnDf_SendLotEnd.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Pcb1.Name" xml:space="preserve">
+    <value>lbDf_Pcb1</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Id.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="groupBox4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>482, 146</value>
+  </data>
+  <data name="&gt;&gt;groupBox5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendAfEnd.Name" xml:space="preserve">
+    <value>btnDf_SendAfEnd</value>
+  </data>
+  <data name="txtDf_Row.Text" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="lbDf_BcrId.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="groupBox5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 213</value>
+  </data>
+  <data name="btnDf_SendPos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="txtDf_Pcb1.TabIndex" type="System.Int32, mscorlib">
+    <value>217</value>
+  </data>
+  <data name="btnDf_SendPcb.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;lib_Df_Log.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="cmbDf_GrdMode.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 23</value>
+  </data>
+  <data name="btnDf_Save.Location" type="System.Drawing.Point, System.Drawing">
+    <value>339, 30</value>
+  </data>
+  <data name="&gt;&gt;txtDf_BcrId.Parent" xml:space="preserve">
+    <value>groupBox6</value>
+  </data>
+  <data name="cmbDf_PcbUse.Items1" xml:space="preserve">
+    <value>Max</value>
+  </data>
+  <data name="lbDf_Pcb2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 25</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnDf_SendLotExist.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 10pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Col.Name" xml:space="preserve">
+    <value>txtDf_Col</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Row.Name" xml:space="preserve">
+    <value>lbDf_Row</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Row.Parent" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Way.ZOrder" xml:space="preserve">
+    <value>23</value>
+  </data>
+  <data name="&gt;&gt;pnlDf_Row.Parent" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="&gt;&gt;cmbDf_PcbUse.Name" xml:space="preserve">
+    <value>cmbDf_PcbUse</value>
+  </data>
+  <data name="&gt;&gt;btnDf_Save.Name" xml:space="preserve">
+    <value>btnDf_Save</value>
+  </data>
+  <data name="&gt;&gt;txtDf_RowNum.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lbDf_BcrId.Size" type="System.Drawing.Size, System.Drawing">
+    <value>142, 25</value>
+  </data>
+  <data name="lbDf_Pcb1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>502, 174</value>
+  </data>
+  <data name="btnDf_SendPcb.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 9pt, style=Bold</value>
+  </data>
+  <data name="lbDf_LotName.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;pnlDf_Row.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="groupBox6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>522, 213</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Row.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnDf_SendLotOpen.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;cmbDf_GrdMode.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="btnDf_SendBfEnd.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="lbDf_Row.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Pcb1.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="btnDf_SendLotExist.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="&gt;&gt;lbDf_GrdMode.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lbDf_Pcb2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>611, 174</value>
+  </data>
+  <data name="&gt;&gt;lib_Df_Log.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lbDf_PcbUse.Location" type="System.Drawing.Point, System.Drawing">
+    <value>664, 212</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.UserControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lbDf_Pcb1.TabIndex" type="System.Int32, mscorlib">
+    <value>216</value>
+  </data>
+  <data name="btnDf_SendGrdReady.Location" type="System.Drawing.Point, System.Drawing">
+    <value>512, 30</value>
+  </data>
+  <data name="lbDf_GrdMode.TabIndex" type="System.Int32, mscorlib">
+    <value>207</value>
+  </data>
+  <data name="cmbDf_GrdWay.Items1" xml:space="preserve">
+    <value>RGD</value>
+  </data>
+  <data name="&gt;&gt;cmbDf_GrdWay.Name" xml:space="preserve">
+    <value>cmbDf_GrdWay</value>
+  </data>
+  <data name="&gt;&gt;txtDf_BcrId.Name" xml:space="preserve">
+    <value>txtDf_BcrId</value>
+  </data>
+  <data name="lbDf_Way.TabIndex" type="System.Int32, mscorlib">
+    <value>209</value>
+  </data>
+  <data name="txtDf_BcrId.Text" xml:space="preserve">
+    <value>123456789</value>
+  </data>
+  <data name="&gt;&gt;lbDf_PcbUse.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txtDf_Ip.Size" type="System.Drawing.Size, System.Drawing">
+    <value>153, 21</value>
+  </data>
+  <data name="&gt;&gt;lbDf_RowNum.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="lbDf_Pcb2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="&gt;&gt;cmbDf_GrdMode.Parent" xml:space="preserve">
+    <value>groupBox5</value>
+  </data>
+  <data name="cmbDf_GrdWay.TabIndex" type="System.Int32, mscorlib">
+    <value>208</value>
+  </data>
+  <data name="btnDf_SendLotEnd.TabIndex" type="System.Int32, mscorlib">
+    <value>211</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Ip.Name" xml:space="preserve">
+    <value>lbDf_Ip</value>
+  </data>
+  <data name="groupBox7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>994, 523</value>
+  </data>
+  <data name="lbDf_RowNum.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="btnDf_SendInrBcr.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="lbDf_RowNum.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 25</value>
+  </data>
+  <data name="lib_Df_Log.ItemHeight" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Col.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="txtDf_Id.TabIndex" type="System.Int32, mscorlib">
+    <value>208</value>
+  </data>
+  <data name="btnDf_SendAfStart.Text" xml:space="preserve">
+    <value>SEND AF START</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Col.Name" xml:space="preserve">
+    <value>lbDf_Col</value>
+  </data>
+  <data name="&gt;&gt;lib_Df_Log.Name" xml:space="preserve">
+    <value>lib_Df_Log</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendGrdReady.Name" xml:space="preserve">
+    <value>btnDf_SendGrdReady</value>
+  </data>
+  <data name="lbDf_Way.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="&gt;&gt;lbDf_BcrId.Name" xml:space="preserve">
+    <value>lbDf_BcrId</value>
+  </data>
+  <data name="cmbDf_GrdWay.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 23</value>
+  </data>
+  <data name="lbDf_Pcb2.Text" xml:space="preserve">
+    <value>PCB2</value>
+  </data>
+  <data name="btnDf_SendReady.Location" type="System.Drawing.Point, System.Drawing">
+    <value>184, 164</value>
+  </data>
+  <data name="btnDf_SendBfEnd.Text" xml:space="preserve">
+    <value>SEND BF END</value>
+  </data>
+  <data name="&gt;&gt;groupBox4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtDf_BcrId.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnDf_SendLotExist.Text" xml:space="preserve">
+    <value>SEND LOT EXIST</value>
+  </data>
+  <data name="lbDf_Col.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="lbDf_Port.TabIndex" type="System.Int32, mscorlib">
+    <value>204</value>
+  </data>
+  <data name="&gt;&gt;cmbDf_PcbUse.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendId.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="txtDf_Row.Location" type="System.Drawing.Point, System.Drawing">
+    <value>555, 285</value>
+  </data>
+  <data name="btnDf_SendLotOpen.Text" xml:space="preserve">
+    <value>SEND LOT OPEN</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Port.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="cmbDf_GrdWay.Text" xml:space="preserve">
+    <value>LGD</value>
+  </data>
+  <data name="btnDf_SendPcb.Location" type="System.Drawing.Point, System.Drawing">
+    <value>830, 166</value>
+  </data>
+  <data name="btnDf_SendPos.TabIndex" type="System.Int32, mscorlib">
+    <value>227</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Row.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Ip.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="btnDf_SendRetBcr.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnDf_Save.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="&gt;&gt;lbDf_PcbUse.Name" xml:space="preserve">
+    <value>lbDf_PcbUse</value>
+  </data>
+  <data name="lbDf_PcbUse.TabIndex" type="System.Int32, mscorlib">
+    <value>232</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendReady.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="pnlDf_Row.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 75</value>
+  </data>
+  <data name="lbDf_Pcb1.Text" xml:space="preserve">
+    <value>PCB1</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Pcb3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lbDf_Way.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbDf_Row.TabIndex" type="System.Int32, mscorlib">
+    <value>223</value>
+  </data>
+  <data name="txtDf_Col.Location" type="System.Drawing.Point, System.Drawing">
+    <value>555, 320</value>
+  </data>
+  <data name="lbDf_Row.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="btnDf_SendRowData.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Ip.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Col.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbDf_RowNum.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Id.Name" xml:space="preserve">
+    <value>txtDf_Id</value>
+  </data>
+  <data name="txtDf_Id.Location" type="System.Drawing.Point, System.Drawing">
+    <value>158, 98</value>
+  </data>
+  <data name="&gt;&gt;txtDf_RowNum.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;txtDf_RowNum.Parent" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="&gt;&gt;groupBox7.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="lbDf_Pcb2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Id.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="pnlDf_Row.TabIndex" type="System.Int32, mscorlib">
+    <value>210</value>
+  </data>
+  <data name="btnDf_SendBfStart.Location" type="System.Drawing.Point, System.Drawing">
+    <value>512, 75</value>
+  </data>
+  <data name="btnDf_SendId.Text" xml:space="preserve">
+    <value>SEND ID</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendReady.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendBfStart.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnDf_Save.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;lbDf_RowNum.Name" xml:space="preserve">
+    <value>lbDf_RowNum</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendInrBcr.Parent" xml:space="preserve">
+    <value>groupBox6</value>
+  </data>
+  <data name="lbDf_RowNum.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Pcb1.Parent" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="&gt;&gt;lbDf_PcbUse.Parent" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="lbDf_LotName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>142, 25</value>
+  </data>
+  <data name="&gt;&gt;txtDf_LotName.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="lbDf_Id.TabIndex" type="System.Int32, mscorlib">
+    <value>207</value>
+  </data>
+  <data name="btnDf_SendReady.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="txtDf_Ip.TabIndex" type="System.Int32, mscorlib">
+    <value>203</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Pcb2.Parent" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="lbDf_BcrId.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnDf_SendRetBcr.TabIndex" type="System.Int32, mscorlib">
+    <value>212</value>
+  </data>
+  <data name="lbDf_Row.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 25</value>
+  </data>
+  <data name="btnDf_SendBfEnd.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 9pt, style=Bold</value>
+  </data>
+  <data name="lbDf_GrdMode.Text" xml:space="preserve">
+    <value>GRIND MODE</value>
+  </data>
+  <data name="btnDf_SendPcb.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbDf_Pcb1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnDf_SendLotExist.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="btnDf_SendId.TabIndex" type="System.Int32, mscorlib">
+    <value>221</value>
+  </data>
+  <data name="btnDf_SendAfStart.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 9pt, style=Bold</value>
+  </data>
+  <data name="txtDf_Pcb3.TabIndex" type="System.Int32, mscorlib">
+    <value>221</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendPos.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendRetBcr.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;cmbDf_PcbUse.Parent" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="btnDf_SendBfStart.TabIndex" type="System.Int32, mscorlib">
+    <value>212</value>
+  </data>
+  <data name="&gt;&gt;lib_Df_Log.Parent" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Pcb3.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="lbDf_Ip.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 30</value>
+  </data>
+  <data name="txtDf_Pcb3.Text" xml:space="preserve">
+    <value>0.3</value>
+  </data>
+  <data name="lbDf_Pcb3.TabIndex" type="System.Int32, mscorlib">
+    <value>220</value>
+  </data>
+  <data name="lbDf_GrdMode.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 62</value>
+  </data>
+  <data name="&gt;&gt;groupBox4.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Pcb1.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Col.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lbDf_Ip.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbDf_GrdMode.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="cmbDf_GrdWay.Items" xml:space="preserve">
+    <value>LGD</value>
+  </data>
+  <data name="btnDf_SendPcb.Text" xml:space="preserve">
+    <value>SEND PCB</value>
+  </data>
+  <data name="&gt;&gt;groupBox4.Name" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="btnDf_SendLotOpen.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="lbDf_Id.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 99</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Pcb3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="txtDf_Pcb1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>555, 174</value>
+  </data>
+  <data name="lbDf_BcrId.Text" xml:space="preserve">
+    <value>BCR ID</value>
+  </data>
+  <data name="btnDf_SendRowData.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="lbDf_GrdMode.Size" type="System.Drawing.Size, System.Drawing">
+    <value>142, 25</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendPos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lbDf_Way.Text" xml:space="preserve">
+    <value>WAY</value>
+  </data>
+  <data name="btnDf_SendLotExist.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;cmbDf_PcbUse.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnDf_SendAfEnd.Text" xml:space="preserve">
+    <value>SEND AF END</value>
+  </data>
+  <data name="groupBox4.TabIndex" type="System.Int32, mscorlib">
+    <value>216</value>
+  </data>
+  <data name="lbDf_BcrId.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Pcb2.Name" xml:space="preserve">
+    <value>lbDf_Pcb2</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendLotExist.Parent" xml:space="preserve">
+    <value>groupBox5</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Port.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnDf_Con.Name" xml:space="preserve">
+    <value>btnDf_Con</value>
+  </data>
+  <data name="lbDf_Id.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbDf_Ip.Size" type="System.Drawing.Size, System.Drawing">
+    <value>142, 25</value>
+  </data>
+  <data name="&gt;&gt;groupBox6.Name" xml:space="preserve">
+    <value>groupBox6</value>
+  </data>
+  <data name="btnDf_SendAfStart.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbDf_LotName.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="btnDf_SendBfEnd.Location" type="System.Drawing.Point, System.Drawing">
+    <value>673, 75</value>
+  </data>
+  <data name="lbDf_Col.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="btnDf_SendBfStart.Text" xml:space="preserve">
+    <value>SEND BF START</value>
+  </data>
+  <data name="lbDf_Pcb2.TabIndex" type="System.Int32, mscorlib">
+    <value>218</value>
+  </data>
+  <data name="lbDf_Id.Text" xml:space="preserve">
+    <value>MACHINE ID</value>
+  </data>
+  <data name="lbDf_Pcb3.Text" xml:space="preserve">
+    <value>PCB3</value>
+  </data>
+  <data name="&gt;&gt;lbDf_LotName.Parent" xml:space="preserve">
+    <value>groupBox5</value>
+  </data>
+  <data name="btnDf_SendAfEnd.TabIndex" type="System.Int32, mscorlib">
+    <value>215</value>
+  </data>
+  <data name="btnDf_SendLotExist.TabIndex" type="System.Int32, mscorlib">
+    <value>212</value>
+  </data>
+  <data name="btnDf_SendBfStart.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="&gt;&gt;lbDf_RowNum.Parent" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="btnDf_SendAfEnd.Location" type="System.Drawing.Point, System.Drawing">
+    <value>673, 120</value>
+  </data>
+  <data name="btnDf_Con.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="lbDf_Row.Location" type="System.Drawing.Point, System.Drawing">
+    <value>502, 285</value>
+  </data>
+  <data name="btnDf_SendRowData.TabIndex" type="System.Int32, mscorlib">
+    <value>230</value>
+  </data>
+  <data name="&gt;&gt;txtDf_BcrId.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;cmbDf_GrdWay.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="pnlDf_Row.Size" type="System.Drawing.Size, System.Drawing">
+    <value>479, 440</value>
+  </data>
+  <data name="txtDf_Port.TabIndex" type="System.Int32, mscorlib">
+    <value>205</value>
+  </data>
+  <data name="btnDf_Save.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="btnDf_SendLotExist.Location" type="System.Drawing.Point, System.Drawing">
+    <value>174, 98</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendAfEnd.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="btnDf_SendId.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 12pt, style=Bold</value>
+  </data>
+  <data name="txtDf_Pcb1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 21</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Col.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendGrdReady.Parent" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Way.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnDf_Save.TabIndex" type="System.Int32, mscorlib">
+    <value>206</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>182, 64</value>
+  </data>
+  <data name="btnDf_SendLotOpen.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnDf_SendGrdReady.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="lib_Df_Log.TabIndex" type="System.Int32, mscorlib">
+    <value>205</value>
+  </data>
+  <data name="cmbDf_GrdWay.Location" type="System.Drawing.Point, System.Drawing">
+    <value>158, 30</value>
+  </data>
+  <data name="btnDf_SendGrdReady.Text" xml:space="preserve">
+    <value>SEND GRD READY</value>
+  </data>
+  <data name="lbDf_Port.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="groupBox6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>482, 153</value>
+  </data>
+  <data name="btnDf_Con.Location" type="System.Drawing.Point, System.Drawing">
+    <value>339, 84</value>
+  </data>
+  <data name="lbDf_Id.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="btnDf_SendPcb.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="txtDf_Pcb3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 21</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Row.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lbDf_LotName.TabIndex" type="System.Int32, mscorlib">
+    <value>204</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendLotExist.Name" xml:space="preserve">
+    <value>btnDf_SendLotExist</value>
+  </data>
+  <data name="txtDf_Ip.Text" xml:space="preserve">
+    <value>127.0.0.1</value>
+  </data>
+  <data name="btnDf_SendLotEnd.Text" xml:space="preserve">
+    <value>SEND LOT END</value>
+  </data>
+  <data name="btnDf_SendId.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 164</value>
+  </data>
+  <data name="&gt;&gt;groupBox5.Name" xml:space="preserve">
+    <value>groupBox5</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Col.Parent" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="&gt;&gt;lbDf_PcbUse.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendAfStart.Name" xml:space="preserve">
+    <value>btnDf_SendAfStart</value>
+  </data>
+  <data name="cmbDf_PcbUse.Text" xml:space="preserve">
+    <value>Min</value>
+  </data>
+  <data name="btnDf_SendPos.Text" xml:space="preserve">
+    <value>SET POSITION</value>
+  </data>
+  <data name="btnDf_SendRetBcr.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendLotEnd.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="txtDf_Port.Location" type="System.Drawing.Point, System.Drawing">
+    <value>158, 64</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>vwEqu_11Dfs</value>
+  </data>
+  <data name="lbDf_Ip.TabIndex" type="System.Int32, mscorlib">
+    <value>202</value>
+  </data>
+  <data name="&gt;&gt;lbDf_BcrId.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="cmbDf_PcbUse.Location" type="System.Drawing.Point, System.Drawing">
+    <value>739, 212</value>
+  </data>
+  <data name="&gt;&gt;txtDf_LotName.Parent" xml:space="preserve">
+    <value>groupBox5</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendPcb.Parent" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="txtDf_Port.Size" type="System.Drawing.Size, System.Drawing">
+    <value>153, 21</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendGrdReady.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnDf_SendReady.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendInrBcr.Name" xml:space="preserve">
+    <value>btnDf_SendInrBcr</value>
+  </data>
+  <data name="cmbDf_GrdMode.Items" xml:space="preserve">
+    <value>GL1</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendInrBcr.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendBfEnd.Parent" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="btnDf_SendLotEnd.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="txtDf_Col.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 21</value>
+  </data>
+  <data name="lbDf_BcrId.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 30</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Id.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendAfStart.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendReady.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnDf_SendRetBcr.Location" type="System.Drawing.Point, System.Drawing">
+    <value>318, 75</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Pcb3.Parent" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="btnDf_SendReady.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="btnDf_SendLotOpen.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 98</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendPos.Parent" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="btnDf_SendAfStart.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="lbDf_Ip.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="btnDf_SendAfEnd.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendLotExist.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lbDf_Way.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Pcb3.Name" xml:space="preserve">
+    <value>lbDf_Pcb3</value>
+  </data>
+  <data name="btnDf_SendRowData.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendPcb.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnDf_SendAfStart.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnDf_SendReady.TabIndex" type="System.Int32, mscorlib">
+    <value>217</value>
+  </data>
+  <data name="&gt;&gt;groupBox7.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="groupBox7.Text" xml:space="preserve">
+    <value>GRD DATA</value>
+  </data>
+  <data name="btnDf_SendRetBcr.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 9pt, style=Bold</value>
+  </data>
+  <data name="btnDf_Save.Text" xml:space="preserve">
+    <value>SAVE</value>
+  </data>
+  <data name="&gt;&gt;groupBox6.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lbDf_Pcb3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendBfEnd.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendLotEnd.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="groupBox6.TabIndex" type="System.Int32, mscorlib">
+    <value>219</value>
+  </data>
+  <data name="lbDf_Col.TabIndex" type="System.Int32, mscorlib">
+    <value>225</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Ip.Name" xml:space="preserve">
+    <value>txtDf_Ip</value>
+  </data>
+  <data name="btnDf_SendAfEnd.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 9pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Pcb2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnDf_Con.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendRowData.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnDf_SendBfEnd.TabIndex" type="System.Int32, mscorlib">
+    <value>213</value>
+  </data>
+  <data name="txtDf_RowNum.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Ip.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Pcb3.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="txtDf_BcrId.TabIndex" type="System.Int32, mscorlib">
+    <value>205</value>
+  </data>
+  <data name="txtDf_Row.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 21</value>
+  </data>
+  <data name="lbDf_Port.Size" type="System.Drawing.Size, System.Drawing">
+    <value>142, 25</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Row.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="txtDf_LotName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>153, 21</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Ip.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Pcb1.Parent" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Pcb2.Parent" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="btnDf_SendPcb.TabIndex" type="System.Int32, mscorlib">
+    <value>222</value>
+  </data>
+  <data name="btnDf_SendAfEnd.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnDf_SendGrdReady.TabIndex" type="System.Int32, mscorlib">
+    <value>211</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendAfEnd.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lbDf_Port.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="groupBox4.Text" xml:space="preserve">
+    <value>LOG</value>
+  </data>
+  <data name="groupBox5.TabIndex" type="System.Int32, mscorlib">
+    <value>218</value>
+  </data>
+  <data name="&gt;&gt;txtDf_LotName.Name" xml:space="preserve">
+    <value>txtDf_LotName</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendRowData.Parent" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="lbDf_LotName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 30</value>
+  </data>
+  <data name="lbDf_GrdMode.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendBfEnd.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="txtDf_Col.Text" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="btnDf_SendRowData.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendId.Name" xml:space="preserve">
+    <value>btnDf_SendId</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Id.Name" xml:space="preserve">
+    <value>lbDf_Id</value>
+  </data>
+  <data name="lbDf_Id.Size" type="System.Drawing.Size, System.Drawing">
+    <value>142, 25</value>
+  </data>
+  <data name="btnDf_SendBfStart.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="lbDf_GrdMode.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Port.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>213</value>
+  </data>
+  <data name="lbDf_PcbUse.Size" type="System.Drawing.Size, System.Drawing">
+    <value>69, 25</value>
+  </data>
+  <data name="btnDf_Con.Text" xml:space="preserve">
+    <value>CONNECT</value>
+  </data>
+  <data name="groupBox5.Text" xml:space="preserve">
+    <value>LOT OPEN</value>
+  </data>
+  <data name="btnDf_SendGrdReady.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendLotOpen.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="txtDf_RowNum.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 21</value>
+  </data>
+  <data name="&gt;&gt;cmbDf_GrdWay.ZOrder" xml:space="preserve">
+    <value>24</value>
+  </data>
+  <data name="btnDf_SendAfEnd.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="lib_Df_Log.Size" type="System.Drawing.Size, System.Drawing">
+    <value>455, 94</value>
+  </data>
+  <data name="$this.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1030, 900</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendAfEnd.Parent" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Id.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="cmbDf_PcbUse.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 23</value>
+  </data>
+  <data name="lbDf_Ip.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Port.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="lbDf_LotName.Text" xml:space="preserve">
+    <value>LOT NAME</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Port.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="lbDf_Pcb1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="btnDf_SendLotEnd.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="txtDf_LotName.TabIndex" type="System.Int32, mscorlib">
+    <value>205</value>
+  </data>
+  <data name="lbDf_RowNum.Text" xml:space="preserve">
+    <value>R</value>
+  </data>
+  <data name="btnDf_SendInrBcr.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 9pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>groupBox5</value>
+  </data>
+  <data name="txtDf_RowNum.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="groupBox6.Text" xml:space="preserve">
+    <value>INRAIL BCR</value>
+  </data>
+  <data name="btnDf_SendAfEnd.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Port.Name" xml:space="preserve">
+    <value>txtDf_Port</value>
+  </data>
+  <data name="txtDf_Pcb1.Text" xml:space="preserve">
+    <value>0.3</value>
+  </data>
+  <data name="cmbDf_GrdMode.Location" type="System.Drawing.Point, System.Drawing">
+    <value>158, 62</value>
+  </data>
+  <data name="&gt;&gt;groupBox5.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendPcb.Name" xml:space="preserve">
+    <value>btnDf_SendPcb</value>
+  </data>
+  <data name="lbDf_Pcb3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;btnDf_Con.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="groupBox7.TabIndex" type="System.Int32, mscorlib">
+    <value>220</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnDf_SendInrBcr.Text" xml:space="preserve">
+    <value>SEND INRAIL BCR</value>
+  </data>
+  <data name="btnDf_SendBfEnd.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnDf_SendId.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="txtDf_Col.TabIndex" type="System.Int32, mscorlib">
+    <value>226</value>
+  </data>
+  <data name="&gt;&gt;btnDf_Save.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="btnDf_SendLotOpen.TabIndex" type="System.Int32, mscorlib">
+    <value>210</value>
+  </data>
+  <data name="btnDf_SendBfEnd.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="&gt;&gt;lbDf_BcrId.Parent" xml:space="preserve">
+    <value>groupBox6</value>
+  </data>
+  <data name="lbDf_Port.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 65</value>
+  </data>
+  <data name="cmbDf_PcbUse.Items" xml:space="preserve">
+    <value>Min</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Ip.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Port.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbDf_LotName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="groupBox4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>522, 10</value>
+  </data>
+  <data name="btnDf_SendId.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendGrdReady.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <data name="btnDf_SendGrdReady.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 0, 0</value>
+  </data>
+  <data name="&gt;&gt;groupBox7.Name" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="lbDf_PcbUse.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendLotExist.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnDf_SendLotEnd.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="txtDf_Port.Text" xml:space="preserve">
+    <value>9800</value>
+  </data>
+  <data name="btnDf_SendAfStart.Location" type="System.Drawing.Point, System.Drawing">
+    <value>512, 120</value>
+  </data>
+  <data name="lbDf_Pcb1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 25</value>
+  </data>
+  <data name="txtDf_Ip.Location" type="System.Drawing.Point, System.Drawing">
+    <value>158, 30</value>
+  </data>
+  <data name="&gt;&gt;lbDf_GrdMode.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtDf_RowNum.Name" xml:space="preserve">
+    <value>txtDf_RowNum</value>
+  </data>
+  <data name="btnDf_SendRowData.Text" xml:space="preserve">
+    <value>SEND ROW DATA</value>
+  </data>
+  <data name="&gt;&gt;txtDf_LotName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="txtDf_Pcb2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>664, 174</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Ip.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendPcb.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;txtDf_Pcb2.Name" xml:space="preserve">
+    <value>txtDf_Pcb2</value>
+  </data>
+  <data name="txtDf_BcrId.Location" type="System.Drawing.Point, System.Drawing">
+    <value>158, 30</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendBfEnd.Name" xml:space="preserve">
+    <value>btnDf_SendBfEnd</value>
+  </data>
+  <data name="cmbDf_GrdMode.Items1" xml:space="preserve">
+    <value>GL2</value>
+  </data>
+  <data name="btnDf_SendInrBcr.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendInrBcr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlDf_Row.Name" xml:space="preserve">
+    <value>pnlDf_Row</value>
+  </data>
+  <data name="&gt;&gt;cmbDf_GrdWay.Parent" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendPos.Name" xml:space="preserve">
+    <value>btnDf_SendPos</value>
+  </data>
+  <data name="txtDf_Pcb2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 21</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendRetBcr.Name" xml:space="preserve">
+    <value>btnDf_SendRetBcr</value>
+  </data>
+  <data name="btnDf_Save.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbDf_Col.Location" type="System.Drawing.Point, System.Drawing">
+    <value>502, 320</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Pcb1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnDf_SendGrdReady.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 9pt, style=Bold</value>
+  </data>
+  <data name="btnDf_SendGrdReady.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Pcb3.Parent" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="lbDf_RowNum.TabIndex" type="System.Int32, mscorlib">
+    <value>228</value>
+  </data>
+  <data name="lbDf_PcbUse.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;pnlDf_Row.ZOrder" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <data name="btnDf_SendLotOpen.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="cmbDf_PcbUse.TabIndex" type="System.Int32, mscorlib">
+    <value>231</value>
+  </data>
+  <data name="lbDf_Way.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 30</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendLotOpen.Name" xml:space="preserve">
+    <value>btnDf_SendLotOpen</value>
+  </data>
+  <data name="lbDf_PcbUse.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendLotEnd.Parent" xml:space="preserve">
+    <value>groupBox5</value>
+  </data>
+  <data name="txtDf_Id.Text" xml:space="preserve">
+    <value>2000X</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendRetBcr.Parent" xml:space="preserve">
+    <value>groupBox6</value>
+  </data>
+  <data name="&gt;&gt;groupBox5.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="txtDf_Pcb2.TabIndex" type="System.Int32, mscorlib">
+    <value>219</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendAfStart.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="txtDf_LotName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>158, 30</value>
+  </data>
+  <data name="lbDf_Port.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnDf_SendRowData.Location" type="System.Drawing.Point, System.Drawing">
+    <value>673, 388</value>
+  </data>
+  <data name="&gt;&gt;groupBox6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendLotOpen.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;btnDf_SendLotOpen.Parent" xml:space="preserve">
+    <value>groupBox5</value>
+  </data>
+  <data name="lbDf_Pcb1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="btnDf_SendPos.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 9pt, style=Bold</value>
+  </data>
+  <data name="groupBox3.Text" xml:space="preserve">
+    <value>Server Infomation</value>
+  </data>
+  <data name="&gt;&gt;lbDf_LotName.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;lbDf_LotName.Name" xml:space="preserve">
+    <value>lbDf_LotName</value>
+  </data>
+  <data name="&gt;&gt;lbDf_Pcb2.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;btnDf_Save.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;lbDf_GrdMode.Parent" xml:space="preserve">
+    <value>groupBox5</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+</root>

@@ -1,0 +1,1564 @@
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.csprojAssemblyReference.cache
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.frmSph.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMain_Err.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMain_Key.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMain_Msg.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMain_Whl.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMain_Scn.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwAuto2.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vmMan_13QcVision.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMan_11Cnv.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMan_10Ofl.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMan_09Dry.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMan_08Ofp.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMan_07Grr.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMan_06Grd.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMan_05Grl.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMan_04Onp.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMan_03Inr.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMan_02Onl.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwDev.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwDev_01Lst.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwDev_02Prm.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc2.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_7Advanced.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_8IV2.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwDev_03Set_1Onl.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_1Str.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_2Stp.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4Con.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4ConU.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwDev_03Set.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwSPC_LotErrInfo.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwSPC_Radar.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwOpt.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwOpt_05Grd.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwOpt_04Pck.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwOpt_03Dry.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwOpt_02Ldr.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwOpt_08Tbl.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwOpt_07Sys.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwOpt_06Lvs.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwOpt_09Mnt.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMan.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_13Cbm.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_12Light.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_11Dfs.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_10Sgm.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_09Rep.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_08Bcr.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_07Twl.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_06Prb.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_05Out.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_04In.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_03Spl.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_02Mot.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_14Tm8.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_15IV2.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMst.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwOpManu.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.frmCL.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.frmGEM.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.frmTM.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.CDlgLotCloseMsg.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.CDlgLotEndMsg.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.CDlgLotInput.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.frmLvl.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.frmMain.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.frmLot.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.frmMsgChange.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.frmMst.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.frmMsg.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.frmPwdChange.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.frmTxt.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.frmPwd.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.frmView.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.frmView2.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.Properties.Resources.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwWhl.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwAuto.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwSPC.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMan_01Man.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_01Wmx.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X._08_DF.TerminalMessage.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwAuto.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwAuto2.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMan_01Man.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMan_02Onl.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMan_03Inr.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMan_04Onp.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMan_05Grl.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMan_06Grd.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMan_07Grr.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMan_08Ofp.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMan_09Dry.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMan_10Ofl.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMan_11Cnv.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwDev.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwDev_01Lst.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwDev_02Prm.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc2.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_7Advanced.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwDev_03Set_1Onl.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_1Str.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_2Stp.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4Con.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4ConU.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwDev_03Set.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.ko-KR.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.zh-Hant.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMan.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_01Wmx.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_02Mot.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_03Spl.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_04In.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_05Out.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_13Cbm.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_12Light.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_06Prb.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_07Twl.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_08Bcr.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_09Rep.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_10Sgm.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwEqu_11Dfs.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwMst.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwOpManu.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwSPC.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.vwWhl.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.CDlgLotCloseMsg.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.CDlgLotEndMsg.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.CDlgLotInput.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.frmLot.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.frmLvl.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.frmMain.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.frmMsg.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.frmMsgChange.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.frmMst.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.frmPwd.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.frmPwdChange.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.frmTxt.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.frmView.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.frmView2.zh-Hans.resources
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.csproj.GenerateResource.cache
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.csproj.CoreCompileInputs.cache
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\zh-Hans\SG2000X.resources.dll
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\ko-KR\SG2000X.resources.dll
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\zh-Hant\SG2000X.resources.dll
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.csproj.CopyComplete
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.exe
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.pdb
+D:\GitHub\SG2000XU\trunk\SG2000X_U\SG2000X\obj\Debug\SG2000X.frmUser.resources
+D:\Suhwoo\SG2000X\SG2000X.exe.config
+D:\Suhwoo\SG2000X\SG2000X.exe
+D:\Suhwoo\SG2000X\SG2000X.pdb
+D:\Suhwoo\SG2000X\zh-Hans\SG2000X.resources.dll
+D:\Suhwoo\SG2000X\ko-KR\SG2000X.resources.dll
+D:\Suhwoo\SG2000X\zh-Hant\SG2000X.resources.dll
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.frmSph.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMain_Err.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMain_Key.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMain_Msg.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMain_Whl.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMain_Scn.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwAuto2.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vmMan_13QcVision.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMan_11Cnv.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMan_10Ofl.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMan_09Dry.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMan_08Ofp.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMan_07Grr.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMan_06Grd.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMan_05Grl.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMan_04Onp.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMan_03Inr.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMan_02Onl.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwDev.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwDev_01Lst.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwDev_02Prm.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc2.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_7Advanced.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_8IV2.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwDev_03Set_1Onl.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_1Str.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_2Stp.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4Con.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4ConU.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwDev_03Set.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwSPC_LotErrInfo.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwSPC_Radar.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwOpt.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwOpt_05Grd.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwOpt_04Pck.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwOpt_03Dry.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwOpt_02Ldr.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwOpt_08Tbl.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwOpt_07Sys.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwOpt_06Lvs.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwOpt_09Mnt.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMan.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_13Cbm.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_12Light.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_11Dfs.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_10Sgm.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_09Rep.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_08Bcr.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_07Twl.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_06Prb.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_05Out.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_04In.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_03Spl.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_02Mot.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_14Tm8.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_15IV2.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMst.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwOpManu.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.frmCL.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.frmGEM.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.frmTM.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.CDlgLotCloseMsg.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.CDlgLotEndMsg.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.CDlgLotInput.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.frmUser.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.frmLvl.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.frmMain.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.frmLot.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.frmMsgChange.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.frmMst.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.frmMsg.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.frmPwdChange.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.frmTxt.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.frmPwd.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.frmView.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.frmView2.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.Properties.Resources.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwWhl.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwAuto.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwSPC.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMan_01Man.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_01Wmx.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X._08_DF.TerminalMessage.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwAuto.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwAuto2.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMan_01Man.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMan_02Onl.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMan_03Inr.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMan_04Onp.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMan_05Grl.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMan_06Grd.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMan_07Grr.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMan_08Ofp.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMan_09Dry.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMan_10Ofl.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMan_11Cnv.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwDev.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwDev_01Lst.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwDev_02Prm.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc2.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_7Advanced.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwDev_03Set_1Onl.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_1Str.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_2Stp.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4Con.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4ConU.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwDev_03Set.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.ko-KR.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.zh-Hant.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMan.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_01Wmx.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_02Mot.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_03Spl.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_04In.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_05Out.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_13Cbm.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_12Light.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_06Prb.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_07Twl.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_08Bcr.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_09Rep.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_10Sgm.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwEqu_11Dfs.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwMst.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwOpManu.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwSPC.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.vwWhl.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.CDlgLotCloseMsg.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.CDlgLotEndMsg.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.CDlgLotInput.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.frmLot.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.frmLvl.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.frmMain.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.frmMsg.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.frmMsgChange.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.frmMst.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.frmPwd.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.frmPwdChange.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.frmTxt.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.frmView.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.frmView2.zh-Hans.resources
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.csproj.GenerateResource.Cache
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\zh-Hans\SG2000X.resources.dll
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\ko-KR\SG2000X.resources.dll
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\zh-Hant\SG2000X.resources.dll
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.exe
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.pdb
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.csproj.AssemblyReference.cache
+D:\Source\SG2000X_U_220929\SG2000X\obj\Debug\SG2000X.csproj.CoreCompileInputs.cache
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.csproj.AssemblyReference.cache
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.frmSph.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMain_Err.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMain_Key.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMain_Msg.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMain_Whl.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMain_Scn.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwAuto2.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vmMan_13QcVision.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMan_11Cnv.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMan_10Ofl.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMan_09Dry.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMan_08Ofp.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMan_07Grr.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMan_06Grd.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMan_05Grl.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMan_04Onp.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMan_03Inr.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMan_02Onl.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwDev.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwDev_01Lst.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwDev_02Prm.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc2.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_7Advanced.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_8IV2.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwDev_03Set_1Onl.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_1Str.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_2Stp.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4Con.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4ConU.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwDev_03Set.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwSPC_LotErrInfo.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwSPC_Radar.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwOpt.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwOpt_05Grd.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwOpt_04Pck.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwOpt_03Dry.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwOpt_02Ldr.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwOpt_08Tbl.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwOpt_07Sys.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwOpt_06Lvs.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwOpt_09Mnt.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMan.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_13Cbm.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_12Light.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_11Dfs.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_10Sgm.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_09Rep.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_08Bcr.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_07Twl.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_06Prb.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_05Out.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_04In.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_03Spl.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_02Mot.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_14Tm8.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_15IV2.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMst.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwOpManu.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.frmCL.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.frmGEM.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.frmTM.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.CDlgLotCloseMsg.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.CDlgLotEndMsg.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.CDlgLotInput.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.frmUser.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.frmLvl.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.frmMain.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.frmLot.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.frmMsgChange.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.frmMst.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.frmMsg.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.frmPwdChange.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.frmTxt.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.frmPwd.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.frmView.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.frmView2.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.Properties.Resources.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwWhl.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwAuto.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwSPC.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMan_01Man.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_01Wmx.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X._08_DF.TerminalMessage.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwAuto.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwAuto2.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMan_01Man.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMan_02Onl.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMan_03Inr.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMan_04Onp.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMan_05Grl.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMan_06Grd.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMan_07Grr.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMan_08Ofp.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMan_09Dry.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMan_10Ofl.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMan_11Cnv.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwDev.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwDev_01Lst.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwDev_02Prm.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc2.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_7Advanced.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwDev_03Set_1Onl.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_1Str.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_2Stp.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4Con.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4ConU.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwDev_03Set.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.ko-KR.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.zh-Hant.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMan.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_01Wmx.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_02Mot.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_03Spl.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_04In.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_05Out.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_13Cbm.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_12Light.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_06Prb.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_07Twl.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_08Bcr.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_09Rep.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_10Sgm.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwEqu_11Dfs.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwMst.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwOpManu.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwSPC.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.vwWhl.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.CDlgLotCloseMsg.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.CDlgLotEndMsg.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.CDlgLotInput.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.frmLot.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.frmLvl.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.frmMain.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.frmMsg.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.frmMsgChange.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.frmMst.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.frmPwd.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.frmPwdChange.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.frmTxt.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.frmView.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.frmView2.zh-Hans.resources
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.csproj.GenerateResource.cache
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.csproj.CoreCompileInputs.cache
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.exe
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.pdb
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\zh-Hans\SG2000X.resources.dll
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\ko-KR\SG2000X.resources.dll
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\zh-Hant\SG2000X.resources.dll
+C:\Users\ideoc\source\repos\SG2000X_U_220929_RPS_C2000Delta\SG2000X\obj\Debug\SG2000X.csproj.CopyComplete
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.csproj.AssemblyReference.cache
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.frmSph.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMain_Err.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMain_Key.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMain_Msg.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMain_Whl.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMain_Scn.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwAuto2.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vmMan_13QcVision.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMan_11Cnv.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMan_10Ofl.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMan_09Dry.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMan_08Ofp.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMan_07Grr.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMan_06Grd.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMan_05Grl.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMan_04Onp.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMan_03Inr.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMan_02Onl.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwDev.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwDev_01Lst.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwDev_02Prm.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc2.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_7Advanced.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_8IV2.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwDev_03Set_1Onl.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_1Str.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_2Stp.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4Con.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4ConU.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwDev_03Set.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwSPC_LotErrInfo.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwSPC_Radar.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwOpt.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwOpt_05Grd.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwOpt_04Pck.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwOpt_03Dry.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwOpt_02Ldr.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwOpt_08Tbl.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwOpt_07Sys.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwOpt_06Lvs.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwOpt_09Mnt.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMan.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_13Cbm.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_12Light.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_11Dfs.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_10Sgm.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_09Rep.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_08Bcr.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_07Twl.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_06Prb.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_05Out.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_04In.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_03Spl.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_02Mot.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_14Tm8.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_15IV2.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMst.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwOpManu.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.frmCL.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.frmGEM.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.frmTM.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.CDlgLotCloseMsg.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.CDlgLotEndMsg.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.CDlgLotInput.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.frmUser.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.frmLvl.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.frmMain.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.frmLot.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.frmMsgChange.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.frmMst.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.frmMsg.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.frmPwdChange.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.frmTxt.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.frmPwd.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.frmView.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.frmView2.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.Properties.Resources.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwWhl.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwAuto.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwSPC.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMan_01Man.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_01Wmx.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X._08_DF.TerminalMessage.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwAuto.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwAuto2.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMan_01Man.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMan_02Onl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMan_03Inr.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMan_04Onp.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMan_05Grl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMan_06Grd.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMan_07Grr.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMan_08Ofp.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMan_09Dry.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMan_10Ofl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMan_11Cnv.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwDev.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwDev_01Lst.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwDev_02Prm.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc2.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_7Advanced.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwDev_03Set_1Onl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_1Str.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_2Stp.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4Con.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4ConU.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwDev_03Set.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.ko-KR.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.zh-Hant.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMan.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_01Wmx.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_02Mot.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_03Spl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_04In.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_05Out.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_13Cbm.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_12Light.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_06Prb.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_07Twl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_08Bcr.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_09Rep.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_10Sgm.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwEqu_11Dfs.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwMst.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwOpManu.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwSPC.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.vwWhl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.CDlgLotCloseMsg.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.CDlgLotEndMsg.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.CDlgLotInput.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.frmLot.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.frmLvl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.frmMain.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.frmMsg.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.frmMsgChange.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.frmMst.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.frmPwd.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.frmPwdChange.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.frmTxt.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.frmView.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.frmView2.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.csproj.GenerateResource.cache
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.csproj.CoreCompileInputs.cache
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\zh-Hans\SG2000X.resources.dll
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\ko-KR\SG2000X.resources.dll
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\zh-Hant\SG2000X.resources.dll
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.csproj.CopyComplete
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.exe
+D:\3. projects Source\C#\SG2000X_U_220929_RPS_C2000Delta_20230331\SG2000X\obj\Debug\SG2000X.pdb
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.csproj.AssemblyReference.cache
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.frmSph.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMain_Err.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMain_Key.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMain_Msg.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMain_Whl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMain_Scn.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwAuto2.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vmMan_13QcVision.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMan_11Cnv.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMan_10Ofl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMan_09Dry.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMan_08Ofp.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMan_07Grr.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMan_06Grd.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMan_05Grl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMan_04Onp.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMan_03Inr.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMan_02Onl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwDev.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwDev_01Lst.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwDev_02Prm.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc2.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_7Advanced.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_8IV2.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwDev_03Set_1Onl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_1Str.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_2Stp.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4Con.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4ConU.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwDev_03Set.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwSPC_LotErrInfo.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwSPC_Radar.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwOpt.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwOpt_05Grd.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwOpt_04Pck.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwOpt_03Dry.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwOpt_02Ldr.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwOpt_08Tbl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwOpt_07Sys.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwOpt_06Lvs.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwOpt_09Mnt.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMan.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_13Cbm.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_12Light.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_11Dfs.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_10Sgm.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_09Rep.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_08Bcr.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_07Twl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_06Prb.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_05Out.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_04In.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_03Spl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_02Mot.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_14Tm8.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_15IV2.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMst.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwOpManu.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.frmCL.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.frmGEM.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.frmTM.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.CDlgLotCloseMsg.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.CDlgLotEndMsg.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.CDlgLotInput.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.frmUser.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.frmLvl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.frmMain.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.frmLot.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.frmMsgChange.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.frmMst.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.frmMsg.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.frmPwdChange.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.frmTxt.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.frmPwd.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.frmView.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.frmView2.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.Properties.Resources.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwWhl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwAuto.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwSPC.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMan_01Man.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_01Wmx.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X._08_DF.TerminalMessage.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwAuto.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwAuto2.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMan_01Man.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMan_02Onl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMan_03Inr.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMan_04Onp.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMan_05Grl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMan_06Grd.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMan_07Grr.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMan_08Ofp.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMan_09Dry.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMan_10Ofl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMan_11Cnv.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwDev.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwDev_01Lst.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwDev_02Prm.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc2.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_7Advanced.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwDev_03Set_1Onl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_1Str.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_2Stp.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4Con.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4ConU.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwDev_03Set.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.ko-KR.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.zh-Hant.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMan.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_01Wmx.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_02Mot.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_03Spl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_04In.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_05Out.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_13Cbm.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_12Light.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_06Prb.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_07Twl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_08Bcr.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_09Rep.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_10Sgm.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwEqu_11Dfs.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwMst.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwOpManu.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwSPC.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.vwWhl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.CDlgLotCloseMsg.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.CDlgLotEndMsg.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.CDlgLotInput.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.frmLot.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.frmLvl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.frmMain.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.frmMsg.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.frmMsgChange.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.frmMst.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.frmPwd.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.frmPwdChange.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.frmTxt.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.frmView.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.frmView2.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.csproj.GenerateResource.cache
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.csproj.CoreCompileInputs.cache
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\zh-Hans\SG2000X.resources.dll
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\ko-KR\SG2000X.resources.dll
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\zh-Hant\SG2000X.resources.dll
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.csproj.CopyComplete
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.exe
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230404\SG2000X\obj\Debug\SG2000X.pdb
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.csproj.AssemblyReference.cache
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.frmSph.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMain_Err.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMain_Key.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMain_Msg.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMain_Whl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMain_Scn.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwAuto2.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vmMan_13QcVision.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMan_11Cnv.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMan_10Ofl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMan_09Dry.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMan_08Ofp.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMan_07Grr.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMan_06Grd.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMan_05Grl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMan_04Onp.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMan_03Inr.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMan_02Onl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwDev.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwDev_01Lst.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwDev_02Prm.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc2.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_7Advanced.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_8IV2.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwDev_03Set_1Onl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_1Str.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_2Stp.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4Con.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4ConU.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwDev_03Set.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwSPC_LotErrInfo.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwSPC_Radar.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwOpt.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwOpt_05Grd.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwOpt_04Pck.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwOpt_03Dry.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwOpt_02Ldr.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwOpt_08Tbl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwOpt_07Sys.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwOpt_06Lvs.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwOpt_09Mnt.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMan.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_13Cbm.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_12Light.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_11Dfs.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_10Sgm.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_09Rep.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_08Bcr.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_07Twl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_06Prb.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_05Out.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_04In.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_03Spl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_02Mot.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_14Tm8.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_15IV2.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMst.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwOpManu.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.frmCL.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.frmGEM.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.frmTM.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.CDlgLotCloseMsg.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.CDlgLotEndMsg.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.CDlgLotInput.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.frmUser.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.frmLvl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.frmMain.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.frmLot.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.frmMsgChange.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.frmMst.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.frmMsg.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.frmPwdChange.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.frmTxt.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.frmPwd.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.frmView.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.frmView2.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.Properties.Resources.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwWhl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwAuto.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwSPC.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMan_01Man.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_01Wmx.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X._08_DF.TerminalMessage.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwAuto.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwAuto2.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMan_01Man.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMan_02Onl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMan_03Inr.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMan_04Onp.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMan_05Grl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMan_06Grd.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMan_07Grr.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMan_08Ofp.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMan_09Dry.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMan_10Ofl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMan_11Cnv.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwDev.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwDev_01Lst.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwDev_02Prm.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc2.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_7Advanced.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwDev_03Set_1Onl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_1Str.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_2Stp.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4Con.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4ConU.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwDev_03Set.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.ko-KR.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.zh-Hant.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMan.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_01Wmx.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_02Mot.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_03Spl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_04In.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_05Out.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_13Cbm.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_12Light.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_06Prb.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_07Twl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_08Bcr.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_09Rep.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_10Sgm.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwEqu_11Dfs.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwMst.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwOpManu.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwSPC.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.vwWhl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.CDlgLotCloseMsg.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.CDlgLotEndMsg.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.CDlgLotInput.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.frmLot.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.frmLvl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.frmMain.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.frmMsg.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.frmMsgChange.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.frmMst.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.frmPwd.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.frmPwdChange.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.frmTxt.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.frmView.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.frmView2.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.csproj.GenerateResource.cache
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.csproj.CoreCompileInputs.cache
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\zh-Hans\SG2000X.resources.dll
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\ko-KR\SG2000X.resources.dll
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\zh-Hant\SG2000X.resources.dll
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.csproj.CopyComplete
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.exe
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230405_적용전\SG2000X\obj\Debug\SG2000X.pdb
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.csproj.AssemblyReference.cache
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmSph.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMain_Err.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMain_Key.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMain_Msg.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMain_Whl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMain_Scn.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwAuto2.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vmMan_13QcVision.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_11Cnv.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_10Ofl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_09Dry.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_08Ofp.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_07Grr.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_06Grd.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_05Grl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_04Onp.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_03Inr.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_02Onl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_01Lst.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc2.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_7Advanced.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_8IV2.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_03Set_1Onl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_1Str.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_2Stp.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4Con.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4ConU.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_03Set.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwSPC_LotErrInfo.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwSPC_Radar.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpt.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpt_05Grd.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpt_04Pck.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpt_03Dry.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpt_02Ldr.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpt_08Tbl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpt_07Sys.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpt_06Lvs.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpt_09Mnt.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_13Cbm.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_12Light.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_11Dfs.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_10Sgm.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_09Rep.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_08Bcr.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_07Twl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_06Prb.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_05Out.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_04In.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_03Spl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_02Mot.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_14Tm8.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_15IV2.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMst.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpManu.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmCL.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmGEM.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmTM.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.CDlgLotCloseMsg.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.CDlgLotEndMsg.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.CDlgLotInput.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmUser.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmLvl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmMain.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmLot.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmMsgChange.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmMst.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmMsg.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmPwdChange.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmTxt.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmPwd.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmView.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmView2.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.Properties.Resources.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwWhl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwAuto.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwSPC.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_01Man.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_01Wmx.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X._08_DF.TerminalMessage.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwAuto.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwAuto2.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_01Man.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_02Onl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_03Inr.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_04Onp.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_05Grl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_06Grd.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_07Grr.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_08Ofp.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_09Dry.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_10Ofl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_11Cnv.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_01Lst.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc2.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_7Advanced.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_03Set_1Onl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_1Str.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_2Stp.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4Con.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4ConU.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_03Set.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.ko-KR.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.zh-Hant.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_01Wmx.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_02Mot.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_03Spl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_04In.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_05Out.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_13Cbm.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_12Light.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_06Prb.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_07Twl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_08Bcr.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_09Rep.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_10Sgm.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_11Dfs.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMst.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpManu.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwSPC.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwWhl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.CDlgLotCloseMsg.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.CDlgLotEndMsg.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.CDlgLotInput.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmLot.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmLvl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmMain.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmMsg.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmMsgChange.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmMst.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmPwd.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmPwdChange.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmTxt.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmView.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmView2.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.csproj.GenerateResource.cache
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.csproj.CoreCompileInputs.cache
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\zh-Hans\SG2000X.resources.dll
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\ko-KR\SG2000X.resources.dll
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\zh-Hant\SG2000X.resources.dll
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.csproj.CopyComplete
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.exe
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.pdb
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.csproj.AssemblyReference.cache
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmSph.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMain_Err.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMain_Key.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMain_Msg.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMain_Whl.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMain_Scn.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwAuto2.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vmMan_13QcVision.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_11Cnv.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_10Ofl.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_09Dry.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_08Ofp.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_07Grr.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_06Grd.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_05Grl.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_04Onp.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_03Inr.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_02Onl.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_01Lst.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc2.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_7Advanced.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_8IV2.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_03Set_1Onl.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_1Str.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_2Stp.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4Con.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4ConU.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_03Set.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwSPC_LotErrInfo.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwSPC_Radar.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpt.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpt_05Grd.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpt_04Pck.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpt_03Dry.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpt_02Ldr.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpt_08Tbl.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpt_07Sys.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpt_06Lvs.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpt_09Mnt.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_13Cbm.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_12Light.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_11Dfs.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_10Sgm.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_09Rep.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_08Bcr.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_07Twl.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_06Prb.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_05Out.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_04In.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_03Spl.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_02Mot.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_14Tm8.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_15IV2.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMst.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpManu.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmCL.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmGEM.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmTM.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.CDlgLotCloseMsg.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.CDlgLotEndMsg.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.CDlgLotInput.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmUser.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmLvl.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmMain.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmLot.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmMsgChange.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmMst.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmMsg.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmPwdChange.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmTxt.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmPwd.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmView.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmView2.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.Properties.Resources.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwWhl.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwAuto.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwSPC.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_01Man.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_01Wmx.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X._08_DF.TerminalMessage.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwAuto.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwAuto2.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_01Man.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_02Onl.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_03Inr.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_04Onp.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_05Grl.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_06Grd.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_07Grr.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_08Ofp.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_09Dry.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_10Ofl.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan_11Cnv.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_01Lst.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc2.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_7Advanced.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_03Set_1Onl.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_1Str.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_2Stp.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4Con.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4ConU.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwDev_03Set.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.ko-KR.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.zh-Hant.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMan.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_01Wmx.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_02Mot.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_03Spl.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_04In.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_05Out.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_13Cbm.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_12Light.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_06Prb.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_07Twl.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_08Bcr.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_09Rep.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_10Sgm.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwEqu_11Dfs.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwMst.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwOpManu.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwSPC.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.vwWhl.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.CDlgLotCloseMsg.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.CDlgLotEndMsg.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.CDlgLotInput.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmLot.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmLvl.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmMain.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmMsg.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmMsgChange.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmMst.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmPwd.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmPwdChange.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmTxt.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmView.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.frmView2.zh-Hans.resources
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.csproj.GenerateResource.cache
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.csproj.CoreCompileInputs.cache
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\zh-Hans\SG2000X.resources.dll
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\ko-KR\SG2000X.resources.dll
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\zh-Hant\SG2000X.resources.dll
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.exe
+D:\Source\SG2000X_U_220929_RPS_C2000Delta_20230411\SG2000X\obj\Debug\SG2000X.pdb
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.csproj.AssemblyReference.cache
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.frmSph.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMain_Err.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMain_Key.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMain_Msg.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMain_Whl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMain_Scn.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwAuto2.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vmMan_13QcVision.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMan_11Cnv.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMan_10Ofl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMan_09Dry.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMan_08Ofp.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMan_07Grr.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMan_06Grd.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMan_05Grl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMan_04Onp.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMan_03Inr.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMan_02Onl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwDev.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwDev_01Lst.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwDev_02Prm.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc2.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_7Advanced.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_8IV2.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwDev_03Set_1Onl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_1Str.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_2Stp.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4Con.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4ConU.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwDev_03Set.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwSPC_LotErrInfo.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwSPC_Radar.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwOpt.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwOpt_05Grd.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwOpt_04Pck.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwOpt_03Dry.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwOpt_02Ldr.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwOpt_08Tbl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwOpt_07Sys.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwOpt_06Lvs.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwOpt_09Mnt.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMan.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_13Cbm.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_12Light.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_11Dfs.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_10Sgm.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_09Rep.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_08Bcr.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_07Twl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_06Prb.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_05Out.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_04In.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_03Spl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_02Mot.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_14Tm8.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_15IV2.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMst.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwOpManu.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.frmCL.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.frmGEM.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.frmTM.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.CDlgLotCloseMsg.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.CDlgLotEndMsg.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.CDlgLotInput.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.frmUser.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.frmLvl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.frmMain.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.frmLot.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.frmMsgChange.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.frmMst.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.frmMsg.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.frmPwdChange.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.frmTxt.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.frmPwd.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.frmView.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.frmView2.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.Properties.Resources.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwWhl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwAuto.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwSPC.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMan_01Man.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_01Wmx.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X._08_DF.TerminalMessage.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwAuto.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwAuto2.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMan_01Man.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMan_02Onl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMan_03Inr.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMan_04Onp.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMan_05Grl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMan_06Grd.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMan_07Grr.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMan_08Ofp.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMan_09Dry.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMan_10Ofl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMan_11Cnv.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwDev.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwDev_01Lst.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwDev_02Prm.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc2.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_7Advanced.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwDev_03Set_1Onl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_1Str.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_2Stp.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4Con.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4ConU.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwDev_03Set.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.ko-KR.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.zh-Hant.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMan.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_01Wmx.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_02Mot.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_03Spl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_04In.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_05Out.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_13Cbm.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_12Light.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_06Prb.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_07Twl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_08Bcr.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_09Rep.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_10Sgm.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwEqu_11Dfs.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwMst.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwOpManu.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwSPC.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.vwWhl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.CDlgLotCloseMsg.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.CDlgLotEndMsg.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.CDlgLotInput.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.frmLot.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.frmLvl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.frmMain.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.frmMsg.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.frmMsgChange.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.frmMst.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.frmPwd.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.frmPwdChange.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.frmTxt.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.frmView.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.frmView2.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.csproj.GenerateResource.cache
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.csproj.CoreCompileInputs.cache
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\zh-Hans\SG2000X.resources.dll
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\ko-KR\SG2000X.resources.dll
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\zh-Hant\SG2000X.resources.dll
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.csproj.CopyComplete
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.exe
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230412\SG2000X\obj\Debug\SG2000X.pdb
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.csproj.AssemblyReference.cache
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.frmSph.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMain_Err.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMain_Key.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMain_Msg.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMain_Whl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMain_Scn.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwAuto2.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vmMan_13QcVision.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMan_11Cnv.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMan_10Ofl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMan_09Dry.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMan_08Ofp.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMan_07Grr.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMan_06Grd.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMan_05Grl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMan_04Onp.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMan_03Inr.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMan_02Onl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwDev.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwDev_01Lst.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwDev_02Prm.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc2.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_7Advanced.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_8IV2.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwDev_03Set_1Onl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_1Str.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_2Stp.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4Con.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4ConU.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwDev_03Set.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwSPC_LotErrInfo.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwSPC_Radar.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwOpt.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwOpt_05Grd.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwOpt_04Pck.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwOpt_03Dry.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwOpt_02Ldr.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwOpt_08Tbl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwOpt_07Sys.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwOpt_06Lvs.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwOpt_09Mnt.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMan.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_13Cbm.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_12Light.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_11Dfs.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_10Sgm.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_09Rep.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_08Bcr.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_07Twl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_06Prb.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_05Out.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_04In.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_03Spl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_02Mot.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_14Tm8.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_15IV2.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMst.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwOpManu.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.frmCL.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.frmGEM.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.frmTM.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.CDlgLotCloseMsg.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.CDlgLotEndMsg.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.CDlgLotInput.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.frmUser.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.frmLvl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.frmMain.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.frmLot.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.frmMsgChange.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.frmMst.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.frmMsg.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.frmPwdChange.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.frmTxt.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.frmPwd.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.frmView.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.frmView2.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.Properties.Resources.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwWhl.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwAuto.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwSPC.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMan_01Man.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_01Wmx.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X._08_DF.TerminalMessage.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwAuto.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwAuto2.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMan_01Man.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMan_02Onl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMan_03Inr.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMan_04Onp.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMan_05Grl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMan_06Grd.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMan_07Grr.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMan_08Ofp.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMan_09Dry.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMan_10Ofl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMan_11Cnv.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwDev.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwDev_01Lst.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwDev_02Prm.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc2.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_7Advanced.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwDev_03Set_1Onl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_1Str.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_2Stp.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4Con.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_4ConU.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwDev_02Prm_6Etc.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwDev_03Set.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.ko-KR.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwOpt_01Gen.zh-Hant.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMan.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_01Wmx.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_02Mot.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_03Spl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_04In.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_05Out.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_13Cbm.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_12Light.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_06Prb.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_07Twl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_08Bcr.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_09Rep.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_10Sgm.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwEqu_11Dfs.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwMst.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwOpManu.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwSPC.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.vwWhl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.CDlgLotCloseMsg.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.CDlgLotEndMsg.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.CDlgLotInput.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.frmLot.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.frmLvl.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.frmMain.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.frmMsg.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.frmMsgChange.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.frmMst.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.frmPwd.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.frmPwdChange.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.frmTxt.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.frmView.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.frmView2.zh-Hans.resources
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.csproj.GenerateResource.cache
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.csproj.CoreCompileInputs.cache
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\zh-Hans\SG2000X.resources.dll
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\ko-KR\SG2000X.resources.dll
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\zh-Hant\SG2000X.resources.dll
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.csproj.CopyComplete
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.exe
+D:\3. projects Source\C#\SG2000X_U_2008X_RPS\SG2000X_U_220929_RPS_C2000Delta_20230426_Wheel3Point측정\SG2000X\obj\Debug\SG2000X.pdb

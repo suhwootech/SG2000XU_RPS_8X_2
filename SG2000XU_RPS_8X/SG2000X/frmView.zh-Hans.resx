@@ -1,0 +1,566 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="label32.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9.75pt</value>
+  </data>
+  <data name="label32.Text" xml:space="preserve">
+    <value>工作台速率</value>
+  </data>
+  <data name="nullToolStripMenuItem.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="nullToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>99, 22</value>
+  </data>
+  <data name="nullToolStripMenuItem.Text" xml:space="preserve">
+    <value>空置</value>
+  </data>
+  <data name="existToolStripMenuItem.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="existToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>99, 22</value>
+  </data>
+  <data name="existToolStripMenuItem.Text" xml:space="preserve">
+    <value>退出</value>
+  </data>
+  <data name="cms_Mgz.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 48</value>
+  </data>
+  <data name="label31.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label31.Text" xml:space="preserve">
+    <value>损耗</value>
+  </data>
+  <data name="label30.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label30.Text" xml:space="preserve">
+    <value>磨后</value>
+  </data>
+  <data name="label29.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label29.Text" xml:space="preserve">
+    <value>磨前</value>
+  </data>
+  <data name="label27.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt, style=Bold</value>
+  </data>
+  <data name="label27.Text" xml:space="preserve">
+    <value>左侧砂轮厚度[mm]</value>
+  </data>
+  <data name="label37.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label37.Text" xml:space="preserve">
+    <value>损耗</value>
+  </data>
+  <data name="label41.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label41.Text" xml:space="preserve">
+    <value>磨后</value>
+  </data>
+  <data name="label42.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label42.Text" xml:space="preserve">
+    <value>磨前</value>
+  </data>
+  <data name="label43.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt, style=Bold</value>
+  </data>
+  <data name="label43.Text" xml:space="preserve">
+    <value>左侧磨刀石厚度 [mm]</value>
+  </data>
+  <data name="label45.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9.75pt</value>
+  </data>
+  <data name="label45.Text" xml:space="preserve">
+    <value>主轴负载</value>
+  </data>
+  <data name="label14.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9.75pt</value>
+  </data>
+  <data name="label14.Text" xml:space="preserve">
+    <value>轴转速</value>
+  </data>
+  <data name="label9.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9.75pt</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>Z 向位置</value>
+  </data>
+  <data name="label4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 24.75pt, style=Bold</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>左侧研磨</value>
+  </data>
+  <data name="label46.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9.75pt</value>
+  </data>
+  <data name="label46.Text" xml:space="preserve">
+    <value>主轴负载</value>
+  </data>
+  <data name="label26.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9.75pt</value>
+  </data>
+  <data name="label26.Text" xml:space="preserve">
+    <value>主轴速率</value>
+  </data>
+  <data name="label11.Text" xml:space="preserve">
+    <value>Z向位置</value>
+  </data>
+  <data name="label17.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 24.75pt, style=Bold</value>
+  </data>
+  <data name="label17.Text" xml:space="preserve">
+    <value>右侧研磨</value>
+  </data>
+  <data name="label18.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9.75pt</value>
+  </data>
+  <data name="label18.Text" xml:space="preserve">
+    <value>平台速度</value>
+  </data>
+  <data name="lblR_WhlName.Text" xml:space="preserve">
+    <value>右侧砂轮</value>
+  </data>
+  <data name="label24.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt, style=Bold</value>
+  </data>
+  <data name="label24.Text" xml:space="preserve">
+    <value>右侧砂轮文档名</value>
+  </data>
+  <data name="lblL_WhlName.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 12.75pt, style=Bold</value>
+  </data>
+  <data name="lblL_WhlName.Text" xml:space="preserve">
+    <value>左侧砂轮</value>
+  </data>
+  <data name="label21.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt, style=Bold</value>
+  </data>
+  <data name="label21.Text" xml:space="preserve">
+    <value>左侧砂轮文档名</value>
+  </data>
+  <data name="label22.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt, style=Bold</value>
+  </data>
+  <data name="label22.Text" xml:space="preserve">
+    <value>程序文档名</value>
+  </data>
+  <data name="pib_CI.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>损耗</value>
+  </data>
+  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>磨后</value>
+  </data>
+  <data name="label3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>磨前</value>
+  </data>
+  <data name="label13.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt, style=Bold</value>
+  </data>
+  <data name="label13.Text" xml:space="preserve">
+    <value>右侧磨刀石厚度 [mm]</value>
+  </data>
+  <data name="label40.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label40.Text" xml:space="preserve">
+    <value>损耗</value>
+  </data>
+  <data name="label44.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label44.Text" xml:space="preserve">
+    <value>磨后</value>
+  </data>
+  <data name="label47.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt</value>
+  </data>
+  <data name="label47.Text" xml:space="preserve">
+    <value>磨前</value>
+  </data>
+  <data name="label48.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt, style=Bold</value>
+  </data>
+  <data name="label48.Text" xml:space="preserve">
+    <value>右侧砂轮厚度[mm]</value>
+  </data>
+  <data name="label39.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt, style=Bold</value>
+  </data>
+  <data name="label39.Text" xml:space="preserve">
+    <value>运行时间</value>
+  </data>
+  <data name="label34.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt, style=Bold</value>
+  </data>
+  <data name="label34.Text" xml:space="preserve">
+    <value>报警时间</value>
+  </data>
+  <data name="label28.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt, style=Bold</value>
+  </data>
+  <data name="label28.Text" xml:space="preserve">
+    <value>待机时间</value>
+  </data>
+  <data name="label23.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt, style=Bold</value>
+  </data>
+  <data name="label23.Text" xml:space="preserve">
+    <value>计时器 [mm : ss]</value>
+  </data>
+  <data name="label5.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 9pt, style=Bold</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>程序运行时间</value>
+  </data>
+  <data name="lbl_OcrSkip.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 8.25pt, style=Bold</value>
+  </data>
+  <data name="lbl_OcrSkip.Text" xml:space="preserve">
+    <value>Ocr 屏蔽</value>
+  </data>
+  <data name="lbl_DynamicSkip.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 8.25pt, style=Bold</value>
+  </data>
+  <data name="lbl_DynamicSkip.Text" xml:space="preserve">
+    <value>Dynamic 屏蔽</value>
+  </data>
+  <data name="lbl_OriSkip.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 8.25pt, style=Bold</value>
+  </data>
+  <data name="lbl_OriSkip.Text" xml:space="preserve">
+    <value>Orientation 屏蔽</value>
+  </data>
+  <data name="lbl_BcrSkip.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei, 8.25pt, style=Bold</value>
+  </data>
+  <data name="lbl_BcrSkip.Text" xml:space="preserve">
+    <value>Barcode 屏蔽</value>
+  </data>
+</root>
